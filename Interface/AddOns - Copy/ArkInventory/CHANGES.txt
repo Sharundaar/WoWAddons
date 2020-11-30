@@ -1,0 +1,41 @@
+------------------------------------------------------------------------
+r1059 | arkayenro | 2020-10-12 02:05:38 +0000 (Mon, 12 Oct 2020) | 9 lines
+Changed paths:
+   M /trunk/ArkInventory.lua
+   M /trunk/ArkInventory.toc
+   M /trunk/ArkInventoryCategory.lua
+   M /trunk/ArkInventoryStorage.lua
+   M /trunk/VersionHistory.txt
+
+*3.09.xx (xx-xxx-2020)*
+* alpha 1
+ * changed - toc file order, added/removed files - do NOT upgrade with the game running
+ * fixed - issue with initial tradeskill scan leaving the window open
+ * fixed - issue with initial tradeskill scan leaving the sound muted
+ * fixed - issue with tinted unusable being active in offline mode when it shouldnt
+* alpha 2
+ * fixed - junk (equipment and known) are now disabled when the location is offline
+
+------------------------------------------------------------------------
+r1058 | arkayenro | 2020-10-11 00:02:49 +0000 (Sun, 11 Oct 2020) | 7 lines
+Changed paths:
+   M /trunk/ArkInventory.lua
+   M /trunk/ArkInventory.toc
+   A /trunk/ArkInventoryCategory.lua
+   M /trunk/ArkInventoryStorage.lua
+   M /trunk/ArkInventoryTooltip.lua
+   M /trunk/ArkInventoryTradeskill.lua
+   M /trunk/Locale/enUS.lua
+   A /trunk/Locale/locale.lua
+   M /trunk/Locale/locale.xml
+   M /trunk/VersionHistory.txt
+
+*3.09.xx (xx-xxx-2020)*
+* alpha 1
+ * changed - toc file order, added/removed files - do NOT upgrade with the game running
+ * fixed - issue with initial tradeskill scan leaving the window open
+ * fixed - issue with initial tradeskill scan leaving the sound muted
+ * fixed - tinted unusable item code was not working correctly in offline mode
+
+------------------------------------------------------------------------
+

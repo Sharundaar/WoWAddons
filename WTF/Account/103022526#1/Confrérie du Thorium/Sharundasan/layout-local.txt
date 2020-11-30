@@ -1,0 +1,15 @@
+Version: 1
+Frame: Recount_MainWindow
+FrameLevel: 50
+Anchor: LEFT
+X: 43
+Y: -180
+W: 238
+H: 129
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: 18
+Y: -44
+W: 267
+H: 112

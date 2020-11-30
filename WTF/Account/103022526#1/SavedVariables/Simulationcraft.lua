@@ -1,0 +1,40 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Sharundaar - Ravenholdt"] = "Sharundaar - Ravenholdt",
+		["Sharunite - Ravenholdt"] = "Sharunite - Ravenholdt",
+		["Sharundito - Ravenholdt"] = "Sharundito - Ravenholdt",
+		["Shalazar - Ravenholdt"] = "Shalazar - Ravenholdt",
+		["Sharun - Ravenholdt"] = "Sharun - Ravenholdt",
+	},
+	["profiles"] = {
+		["Sharundaar - Ravenholdt"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Sharunite - Ravenholdt"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Sharundito - Ravenholdt"] = {
+			["minimap"] = {
+				["minimapPos"] = 130.9816106091592,
+			},
+		},
+		["Shalazar - Ravenholdt"] = {
+		},
+		["Sharun - Ravenholdt"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+			["frame"] = {
+				["ofsx"] = 172.0001068115234,
+				["ofsy"] = -104.9999313354492,
+				["point"] = "TOPLEFT",
+				["relativePoint"] = "TOPLEFT",
+			},
+		},
+	},
+}

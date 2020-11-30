@@ -1,0 +1,38 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "us-Sharun-ravenholdt"
+RaiderIO_MissingCharacters = {
+	["us-Michaelh-emerald-dream"] = true,
+	["us-Bellistinn-emerald-dream"] = true,
+	["us-Mairom-ravenholdt"] = true,
+	["us-Traximandew-ravenholdt"] = true,
+	["us-Raiseheals-twisting-nether"] = true,
+	["us-Shmonkyou-emerald-dream"] = true,
+	["us-Kylma-earthen-ring"] = true,
+	["us-Akumabi-ravenholdt"] = true,
+	["us-Traximonk-ravenholdt"] = true,
+	["us-Liltitan-emerald-dream"] = true,
+	["us-Nosfinariel-ravenholdt"] = true,
+	["us-Holykiwi-ravenholdt"] = true,
+	["us-Felscythe-ravenholdt"] = true,
+	["us-Grendizer-ravenholdt"] = true,
+	["us-Bloodmårtini-ravenholdt"] = true,
+	["us-Papabrewxl-emerald-dream"] = true,
+	["us-Wootmuffins-emerald-dream"] = true,
+	["us-Sedot-emerald-dream"] = true,
+	["us-Härdknox-emerald-dream"] = true,
+	["us-Dunkie-ravenholdt"] = true,
+	["us-Röra-twisting-nether"] = true,
+	["us-Lapi-ravenholdt"] = true,
+	["us-Pamaria-ravenholdt"] = true,
+	["us-Monstadps-twisting-nether"] = true,
+	["us-Throw-emerald-dream"] = true,
+	["us-Randomeena-earthen-ring"] = true,
+	["us-Sharun-ravenholdt"] = true,
+	["us-Nossy-ravenholdt"] = true,
+	["us-Hunteezy-emerald-dream"] = true,
+	["us-Meorna-ravenholdt"] = true,
+	["us-Messtrosity-ravenholdt"] = true,
+}
+RaiderIO_CachedRuns = nil

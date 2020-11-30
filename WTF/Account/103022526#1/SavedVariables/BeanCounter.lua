@@ -1,0 +1,353 @@
+
+BeanCounterDB = {
+	["Ravenholdt"] = {
+		["Sharunite"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+		["Sharundaar"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+				["152509"] = {
+					["item:152509::::::::100:::::::"] = {
+						"27;;;;;7900133;Rockgut;1549419478;;H", -- [1]
+					},
+				},
+			},
+			["completedAuctions"] = {
+				["152512"] = {
+					["item:152512::::::::100:::::::"] = {
+						"50;14036543;58860;735667;14713350;14000000;Blazê-TwistingNether;1540249595;;H", -- [1]
+						"50;14036543;58860;735667;14713350;14000000;Blazê-TwistingNether;1540249593;;H", -- [2]
+						"50;14036543;58860;735667;14713350;14000000;Crajarnkal;1540243119;;H", -- [3]
+					},
+				},
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+				["152876"] = {
+					["item:152876::::::::100:::::::"] = {
+						"5;;;;2495000;2495000;Yoshiko;1549166081;;H", -- [1]
+						"5;;;;2495000;2495000;Yoshiko;1549166080;;H", -- [2]
+					},
+				},
+				["2840"] = {
+					["item:2840::::::::100:::::::"] = {
+						"20;;;;257575;257575;Moonhawk-TwistingNether;1540438855;;H", -- [1]
+						"20;;;;257575;257575;Moonhawk-TwistingNether;1540438852;;H", -- [2]
+					},
+				},
+				["2592"] = {
+					["item:2592::::::::100:::::::"] = {
+						"50;;;;1053200;1053200;Juniper;1540438446;;H", -- [1]
+					},
+				},
+				["818"] = {
+					["item:818::::::::100:::::::"] = {
+						"1;;;;39800;39800;Meloriya;1540437965;;H", -- [1]
+						"1;;;;39800;39800;Meloriya;1540437963;;H", -- [2]
+						"1;;;;40000;40000;Tardiir;1540437960;;H", -- [3]
+						"2;;;;80000;80000;Araujo-TwistingNether;1540437958;;H", -- [4]
+					},
+				},
+			},
+		},
+		["Shalazar"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+		["Sharundito"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+		["Sharunlost"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+		["Sharun"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+				["165925"] = {
+					["item:165925::::::::100:::3:3:4798:1507:4786:::"] = {
+						"1;;347444;;619999999;619999999;;1549167418;;H", -- [1]
+					},
+				},
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+				["152509"] = {
+					["item:152509::::::::100:::::::"] = {
+						"100;;;;33500000;33500000;Kreseo;1551638383;;H", -- [1]
+						"100;;;;33500000;33500000;Kreseo;1551638380;;H", -- [2]
+						"100;;;;33500000;33500000;Kreseo;1551638378;;H", -- [3]
+						"103;;;;34402000;34402000;Miguelwow-TwistingNether;1551638376;;H", -- [4]
+					},
+				},
+				["124125"] = {
+					["item:124125::::::::100:::::::"] = {
+						"1;;;;2262500;2262500;Spa-TwistingNether;1543453383;;H", -- [1]
+					},
+				},
+				["152876"] = {
+					["item:152876::::::::100:::::::"] = {
+						"5;;;;2500000;2500000;Frozzen;1555555550;;H", -- [1]
+						"5;;;;2500000;2500000;Frozzen;1555555547;;H", -- [2]
+						"5;;;;2500000;2500000;Frozzen;1555555546;;H", -- [3]
+						"5;;;;2500000;2500000;Frozzen;1555555544;;H", -- [4]
+						"5;;;;2500000;2500000;Frozzen;1555555539;;H", -- [5]
+						"5;;;;2500000;2500000;Frozzen;1555555537;;H", -- [6]
+						"5;;;;2500000;2500000;Frozzen;1555555535;;H", -- [7]
+						"5;;;;2500000;2500000;Frozzen;1555555531;;H", -- [8]
+						"11;;;;5228438;5228438;Chihiro;1555555516;;H", -- [9]
+						"1;;;;2200000;2200000;Whapspptouch;1549594522;;H", -- [10]
+						"1;;;;2200000;2200000;Whapspptouch;1549594520;;H", -- [11]
+						"1;;;;2200000;2200000;Whapspptouch;1549594517;;H", -- [12]
+					},
+				},
+				["152875"] = {
+					["item:152875::::::::100:::::::"] = {
+						"103;;;;7057457;7057457;Aegha-TwistingNether;1555555591;;H", -- [1]
+					},
+				},
+				["89112"] = {
+					["item:89112::::::::100:::::::"] = {
+						"17;;;;5187296;5187296;Zapzap-TwistingNether;1540691429;;H", -- [1]
+						"53;;;;16586880;16586880;Wuzzl;1540691394;;H", -- [2]
+					},
+				},
+				["152505"] = {
+					["item:152505::::::::100:::::::"] = {
+						"200;;;;45000000;45000000;Kreseo;1555024535;;H", -- [1]
+						"200;;;;45000000;45000000;Kreseo;1555024534;;H", -- [2]
+						"200;;;;66799600;66799600;Nasariar;1551638415;;H", -- [3]
+						"200;;;;66799600;66799600;Nasariar;1551638411;;H", -- [4]
+					},
+				},
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 560.000122070313,
+	["configator.top"] = 764.999938964844,
+	["Ravenholdt"] = {
+		["Sharunite"] = {
+			["tasks.sortArray"] = 1606455010,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1606455010,
+			["wealth"] = 395772327,
+			["tasks.prunePostedDB"] = 1606892889,
+			["mailbox"] = {
+			},
+		},
+		["Sharundaar"] = {
+			["tasks.sortArray"] = 1606693845,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1606693845,
+			["wealth"] = 465920833,
+			["tasks.prunePostedDB"] = 1606696139,
+			["mailbox"] = {
+				{
+					["sender"] = "Auction House",
+					["read"] = 2,
+					["subject"] = "Auction won: Umbra Shard (5)",
+					["time"] = 29.9999313354492,
+				}, -- [1]
+			},
+		},
+		["Shalazar"] = {
+			["tasks.sortArray"] = 1606640981,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1606640981,
+			["wealth"] = 17537109,
+			["tasks.prunePostedDB"] = 1606969950,
+			["mailbox"] = {
+			},
+		},
+		["Sharundito"] = {
+			["tasks.sortArray"] = 1606396004,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1606396004,
+			["wealth"] = 1002400,
+			["tasks.prunePostedDB"] = 1606880530,
+			["mailbox"] = {
+			},
+		},
+		["Sharunlost"] = {
+			["tasks.sortArray"] = 1606322411,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1606322411,
+			["wealth"] = 0,
+			["tasks.prunePostedDB"] = 1606840823,
+			["mailbox"] = {
+			},
+		},
+		["Sharun"] = {
+			["tasks.sortArray"] = 1606189559,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1606189559,
+			["wealth"] = 689824858,
+			["tasks.prunePostedDB"] = 1606877084,
+			["mailbox"] = {
+				{
+					["sender"] = "Auction House",
+					["read"] = 2,
+					["subject"] = "Auction won: Gloom Dust (103)",
+					["time"] = 29.9997806549072,
+				}, -- [1]
+			},
+		},
+	},
+	["columnsortcurSort"] = 1,
+	["columnsortcurDir"] = 1,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+	["2840:"] = "cffffffff;Barre de cuivre",
+	["165925:"] = "cffa335ee;Drape of Valiant Defense",
+	["124125:"] = "cffa335ee;Oblitérium",
+	["152512:"] = "cffffffff;Minerai de monélite",
+	["152875:"] = "cffffffff;Gloom Dust",
+	["152505:"] = "cffffffff;Riverbud",
+	["818:"] = "cff1eff00;Oeil de tigre",
+	["152876:"] = "cff0070dd;Umbra Shard",
+	["152579:"] = "cffffffff;Minerai de foudrargent",
+	["89112:"] = "cffffffff;Granule d'harmonie",
+	["2592:"] = "cffffffff;Etoffe de laine",
+	["152509:"] = "cffffffff;Siren's Pollen",
+}
+BeanCounterAccountDB = {
+	{
+		["count"] = 0,
+		["link"] = "|cffffffff|Hitem:152579::::::::120:263::::::|h[Minerai de foudrargent]|h|r",
+	}, -- [1]
+}
+BeanCounterMailPatch = nil

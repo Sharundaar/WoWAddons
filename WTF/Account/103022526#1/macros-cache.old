@@ -1,0 +1,73 @@
+VER 3 0000000000000011 "Bow" "132122"
+/bow
+END
+VER 3 0000000000000010 "Count" "136222"
+/run local count = 0 for i = 0, 10000, 1 do if _G["NamePlate"..i] ~= nil and _G["NamePlate"..i]:IsVisible() then count = count + 1 end end print(count)
+END
+VER 3 000000000000000A "Fire Tomtom" "136120"
+/way Wetlands 13.3 47.1 Menethil Harbor
+/way Stormwind City 49.5 72.7 SW City Flame
+/way Ironforge 64.1 25.9 IF City Flame
+/way Undercity 68.6 8.2 UC City Flame
+/way Silvermoon City 69.6 43 Silvermoon City Flame
+END
+VER 3 0000000000000004 "groupes" "INV_MISC_QUESTIONMARK"
+/raid 1. Khaless Dunkie
+/raid 2. Mess Las
+/raid 3. Flea Dark
+/raid 4. Durf Trax
+/raid 5. Fafa Las ?
+/raid 6. Shar
+END
+VER 3 000000000000000B "Juggle" "INV_MISC_QUESTIONMARK"
+/use Juggling Torch
+END
+VER 3 0000000000000009 "kiss" "INV_MISC_QUESTIONMARK"
+/kiss
+END
+VER 3 0000000000000001 "kneel" "134331"
+/kneel
+END
+VER 3 000000000000000F "Misdirect Focus" "INV_MISC_QUESTIONMARK"
+#tooltip Misdirection
+/target focus
+/cast Misdirection
+/lasttarget
+END
+VER 3 000000000000000C "Netherwalk" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/cancel Netherwalk
+/use Netherwalk
+END
+VER 3 0000000000000003 "playsound" "INV_MISC_QUESTIONMARK"
+/script PlaySoundFile("Sound\\Creature\\Varimathras\\VarimathrasAggro01.wav")
+END
+VER 3 0000000000000002 "prince faronis" "INV_MISC_QUESTIONMARK"
+/tar Prince Fa
+END
+VER 3 000000000000000D "Rude" "INV_MISC_QUESTIONMARK"
+/rude
+END
+VER 3 0000000000000005 "solfurie" "INV_MISC_QUESTIONMARK"
+/script SelectGossipAvailableQuest(1)
+/script CompleteQuest()
+/script GetQuestReward()
+END
+VER 3 0000000000000006 "Target Ox" "615339"
+/target Black Ox Statue
+/cast Provoke
+/targetlasttarget
+END
+VER 3 0000000000000007 "Taunt Frida" "INV_MISC_QUESTIONMARK"
+/target Frida Ironbellows
+/cast Torment
+/targetlasttarget
+END
+VER 3 000000000000000E "Test" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("target", 8)
+END
+VER 3 0000000000000008 "whisper Blîzzard" "INV_MISC_QUESTIONMARK"
+/w Blîzzards cmon
+END

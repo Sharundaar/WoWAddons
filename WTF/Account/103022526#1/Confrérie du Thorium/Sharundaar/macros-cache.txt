@@ -1,0 +1,34 @@
+VER 3 0100000000000004 "Burst" "ABILITY_DUALWIELD"
+/cast Appel du fauve
+/cast Tir rapide
+/use Cachet kiroptyrique
+END
+VER 3 0100000000000008 "Carrée" "INV_MISC_QUESTIONMARK"
+/script SetRaidTarget("target", 1)
+END
+VER 3 0100000000000005 "Détournement" "INV_MISC_QUESTIONMARK"
+#showtooltip Détournement
+/cast [target=focus, exists][target=pet, exists] Détournement
+END
+VER 3 0100000000000009 "e" "ABILITY_DUALWIELD"
+/cri  _________
+/cri ||       ||       ||
+/cri ||       ||       ||
+/cri ||       ||       ||
+END
+VER 3 0100000000000006 "Embrocher" "ABILITY_DUALWIELD"
+/incliner
+END
+VER 3 0100000000000007 "Focus Square" "ABILITY_HUNTER_TRAPLAUNCHER"
+/script SetFocus(6)
+END
+VER 3 0100000000000001 "Recherche raid" "INV_Misc_QuestionMark"
+/1 Bonsoir à tous ! Groupe guilde cherche tank  pour le Caveau ! ID vierge
+END
+VER 3 0100000000000003 "Sapeur" "ability_deathknight_summongargoyle"
+/target Sapeur
+/cast Trait de choc
+END
+VER 3 0100000000000002 "Signe" "INV_Misc_QuestionMark"
+/use Cape d'aile de chauve-souris
+END
