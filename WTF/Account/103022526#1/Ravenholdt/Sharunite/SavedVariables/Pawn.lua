@@ -1,96 +1,96 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0328,
+	["LastVersion"] = 2.0407,
 	["LastPlayerFullName"] = "Sharunite-Ravenholdt",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 168345,
-			["Level"] = 435,
-			["Link"] = "|cffa335ee|Hitem:168345::::::::120:269::5:5:4823:1502:4786:6267:4775:::|h[Helm of the Inexorable Tide]|h|r",
+			["ID"] = 168347,
+			["Level"] = 90,
+			["Link"] = "|cffa335ee|Hitem:168347::::::::50:268::5:5:4823:1485:4786:6267:4775::::|h[Helm of Hideous Transformation]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 453,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:269::11:4:6316:4932:4933:1590:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 114,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:268::11:4:6316:4932:4933:1528::::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 157915,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:157915::::::::120:269::28:4:1607:4786:6265:4775:::|h[Gonk Outrunner Shoulderguards]|h|r",
+			["Level"] = 83,
+			["Link"] = "|cffa335ee|Hitem:157915::::::::50:268::28:4:1492:4786:6265:4775::::|h[Gonk Outrunner Shoulderguards]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 159303,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:159303::::::::120:269::35:5:5448:1587:4786:5419:4775:::|h[Vest of Reverent Adoration]|h|r",
+			["ID"] = 178698,
+			["Level"] = 98,
+			["Link"] = "|cff0070dd|Hitem:178698::::::::51:270::17:3:7217:6771:6652:2:28:747:9:51:::|h[Rainshadow Hauberk]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 159341,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:159341::::::::120:269::16:3:5010:1602:4786:::|h[Hound-Jowl Waistband]|h|r",
+			["Level"] = 85,
+			["Link"] = "|cffa335ee|Hitem:159341::::::::50:268::16:3:5010:1498:4786::::|h[Hound-Jowl Waistband]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 169809,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:169809::::::::120:269:::4:6300:6292:1502:4786:::|h[Fathomstalker Leggings]|h|r",
+			["Level"] = 78,
+			["Link"] = "|cffa335ee|Hitem:169809::::::::50:268:::4:6300:6292:1484:4786::::|h[Fathomstalker Leggings]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 159347,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:159347::::::::120:269::16:4:5010:4802:1602:4786:::|h[Moss-Covered Wingtip Shoes]|h|r",
+			["Level"] = 85,
+			["Link"] = "|cffa335ee|Hitem:159347::154128::::::50:268::16:4:5010:4802:1498:4786::::|h[Moss-Covered Wingtip Shoes]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 158305,
-			["Level"] = 425,
-			["Link"] = "|cffa335ee|Hitem:158305::::::::120:269::16:3:5009:1597:4786:::|h[Sea Dog's Cuffs]|h|r",
+			["ID"] = 178934,
+			["Level"] = 98,
+			["Link"] = "|cff0070dd|Hitem:178934::::::::51:270::17:4:7217:6771:6652:7194:2:9:51:28:747:::|h[Fastened Venombarb Binds]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 169054,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:169054::::::::120:269::23:3:4779:1472:4786:::|h[Galvanized Leather Grips]|h|r",
+			["ID"] = 178757,
+			["Level"] = 104,
+			["Link"] = "|cff0070dd|Hitem:178757::::::::52:270::17:3:7217:6771:6652:2:28:747:9:52:::|h[Gloves of Obscure Rituals]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 158362,
-			["Level"] = 430,
+			["ID"] = 178781,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:158362::::::::120:269::16:3:5010:1602:4786:::|h[Lord Waycrest's Signet]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178781::::::::53:270::17:4:7217:6771:6652:7193:2:28:747:9:53:::|h[Ritual Commander's Ring]|h|r",
 		}, -- [11]
 		{
 			["ID"] = 158362,
-			["Level"] = 430,
+			["Level"] = 85,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158362:6111:::::::120:269::16:3:5010:1602:4786:::|h[Lord Waycrest's Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:158362:6111:::::::50:270::16:3:5010:1498:4786::::|h[Lord Waycrest's Signet]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 159623,
-			["Level"] = 435,
+			["Level"] = 90,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159623::::::::120:269::35:3:5009:1607:4783:::|h[Dead-Eye Spyglass]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159623::::::::50:268::35:3:5009:1503:4783::::|h[Dead-Eye Spyglass]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 159623,
-			["Level"] = 435,
+			["Level"] = 90,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159623::::::::120:268::35:3:5009:1607:4783:::|h[Dead-Eye Spyglass]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159623::::::::50:270::35:3:5009:1503:4783::::|h[Dead-Eye Spyglass]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 159287,
-			["Level"] = 440,
-			["Link"] = "|cffa335ee|Hitem:159287::::::::120:269::35:3:5010:1612:4783:::|h[Cloak of Questionable Intent]|h|r",
+			["Level"] = 95,
+			["Link"] = "|cffa335ee|Hitem:159287::::::::50:268::35:3:5010:1508:4783::::|h[Cloak of Questionable Intent]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 158714,
-			["Level"] = 410,
+			["ID"] = 159645,
+			["Level"] = 76,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:158714:5965:::::::120:269::35:3:5010:1582:4783:::|h[Swarm's Edge]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159645:6148:::::::50:268::35:3:5010:1489:4783::::|h[Headcracker of Supplication]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 159645,
-			["Level"] = 410,
+			["ID"] = 158714,
+			["Level"] = 76,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:159645:6148:::::::120:269::35:3:5010:1582:4783:::|h[Headcracker of Supplication]|h|r",
+			["Link"] = "|cffa335ee|Hitem:158714:5965:::::::50:268::35:3:5010:1489:4783::::|h[Swarm's Edge]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

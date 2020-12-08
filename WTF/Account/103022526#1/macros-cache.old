@@ -30,9 +30,7 @@ VER 3 0000000000000001 "kneel" "134331"
 END
 VER 3 000000000000000F "Misdirect Focus" "INV_MISC_QUESTIONMARK"
 #tooltip Misdirection
-/target focus
-/cast Misdirection
-/lasttarget
+/cast [@focus,help][help][@pet,exists] Misdirection
 END
 VER 3 000000000000000C "Netherwalk" "INV_MISC_QUESTIONMARK"
 #showtooltip

@@ -4,27 +4,27 @@ CliqueDB3 = {
 	["char"] = {
 		["Sharundaar - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharundaar - Ravenholdt",
-			["specswap"] = true,
+			["alerthidden"] = true,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["alerthidden"] = true,
 			["spec3_profileKey"] = "Sharundaar - Ravenholdt",
 			["spec2_profileKey"] = "Sharundaar - Ravenholdt",
+			["specswap"] = true,
 		},
 		["Sharunite - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharunite - Ravenholdt",
-			["specswap"] = false,
+			["spec3_profileKey"] = "Sharunite - Ravenholdt",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Sharunite - Ravenholdt",
 			["alerthidden"] = true,
 			["spec2_profileKey"] = "Sharunite - Ravenholdt",
+			["specswap"] = false,
 		},
 		["Sharundito - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharundito - Ravenholdt",
+			["fastooc"] = false,
 			["spec2_profileKey"] = "Sharundito - Ravenholdt",
 			["downclick"] = false,
-			["fastooc"] = false,
 			["specswap"] = false,
 			["spec3_profileKey"] = "Sharundito - Ravenholdt",
 		},
@@ -40,8 +40,8 @@ CliqueDB3 = {
 			["spec1_profileKey"] = "Sharun - Ravenholdt",
 			["spec2_profileKey"] = "Sharun - Ravenholdt",
 			["downclick"] = false,
-			["specswap"] = false,
 			["fastooc"] = false,
+			["specswap"] = false,
 		},
 	},
 	["profileKeys"] = {
@@ -67,31 +67,22 @@ CliqueDB3 = {
 				}, -- [1]
 				{
 					["type"] = "spell",
-					["key"] = "BUTTON1",
-					["sets"] = {
-						["friend"] = true,
-					},
-					["icon"] = 136043,
-					["spell"] = "Healing Wave",
-				}, -- [2]
-				{
-					["type"] = "spell",
 					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["friend"] = true,
 					},
 					["icon"] = 252995,
 					["spell"] = "Riptide",
-				}, -- [3]
+				}, -- [2]
 				{
 					["type"] = "spell",
-					["key"] = "BUTTON3",
+					["key"] = "BUTTON1",
 					["sets"] = {
-						["enemy"] = true,
+						["friend"] = true,
 					},
-					["icon"] = 136075,
-					["spell"] = "Purge",
-				}, -- [4]
+					["icon"] = 136043,
+					["spell"] = "Healing Wave",
+				}, -- [3]
 				{
 					["type"] = "spell",
 					["key"] = "SHIFT-BUTTON1",
@@ -100,6 +91,15 @@ CliqueDB3 = {
 					},
 					["icon"] = 136044,
 					["spell"] = "Healing Surge",
+				}, -- [4]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["enemy"] = true,
+					},
+					["icon"] = 136075,
+					["spell"] = "Purge",
 				}, -- [5]
 				{
 					["type"] = "spell",
@@ -123,31 +123,48 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["spell"] = "Detox",
-					["key"] = "BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 460692,
-					["type"] = "spell",
-				}, -- [2]
-				{
 					["type"] = "menu",
 					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
+				}, -- [2]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["spec2"] = true,
+					},
+					["icon"] = 460692,
+					["spell"] = "Detox",
 				}, -- [3]
 				{
-					["spell"] = "Vivify",
-					["key"] = "SHIFT-BUTTON1",
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
-						["default"] = true,
-						["friend"] = true,
+						["spec2"] = true,
+					},
+					["icon"] = 775461,
+					["spell"] = "Enveloping Mist",
+				}, -- [4]
+				{
+					["type"] = "spell",
+					["key"] = "CTRL-BUTTON1",
+					["sets"] = {
+						["spec2"] = true,
 					},
 					["icon"] = 1360980,
+					["spell"] = "Vivify",
+				}, -- [5]
+				{
 					["type"] = "spell",
-				}, -- [4]
+					["key"] = "SHIFT-BUTTON1",
+					["sets"] = {
+						["spec2"] = true,
+					},
+					["icon"] = 627487,
+					["spell"] = "Renewing Mist",
+				}, -- [6]
 			},
 		},
 		["Sharunlost - Ravenholdt"] = {

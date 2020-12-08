@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0334,
+	["LastVersion"] = 2.0335,
+	["LastPlayerFullName"] = "Sharundaar-Ravenholdt",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 174250,
@@ -73,9 +76,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165571::::::::120:262::3:3:4798:1507:4786:::|h[Incandescent Sliver]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 159288,
-			["Level"] = 405,
-			["Link"] = "|cffa335ee|Hitem:159288::::::::120:264::35:4:5009:41:1577:4783:::|h[Cloak of the Restless Tribes]|h|r",
+			["ID"] = 169223,
+			["Level"] = 470,
+			["Link"] = "|cffff8000|Hitem:169223::::::::120:264::11:1:6272:::|h[Ashjra'kamas, Shroud of Resolve]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 159652,
@@ -90,9 +93,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159652:5949:::::::120:264::35:3:5008:1572:4783:::|h[Leaxa's Thought-Piercer]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Sharundaar-Ravenholdt",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

@@ -4,16 +4,28 @@ AstralKeys = {
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
-		["class"] = "DEMONHUNTER",
-		["unit"] = "Sharun-Ravenholdt",
-		["faction"] = 1,
-	}, -- [1]
-	{
-		["weekly_best"] = 0,
 		["class"] = "HUNTER",
 		["faction"] = 1,
 		["unit"] = "Sharundito-Ravenholdt",
+	}, -- [1]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DEMONHUNTER",
+		["faction"] = 1,
+		["unit"] = "Sharun-Ravenholdt",
 	}, -- [2]
+	{
+		["weekly_best"] = 0,
+		["class"] = "SHAMAN",
+		["faction"] = 1,
+		["unit"] = "Sharundaar-Ravenholdt",
+	}, -- [3]
+	{
+		["weekly_best"] = 0,
+		["class"] = "MONK",
+		["unit"] = "Sharunite-Ravenholdt",
+		["faction"] = 1,
+	}, -- [4]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,
@@ -21,15 +33,15 @@ AstralKeysSettings = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
 		},
-		["init_time"] = 1606834800,
+		["init_time"] = 1607439600,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
 			["guild"] = true,
 			["raid"] = true,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -123,20 +135,20 @@ AstralLists = {
 	{
 		["name"] = "GUILD",
 		["units"] = {
-			["Kageshi-Ravenholdt"] = true,
+			["Holykiwi-Ravenholdt"] = "Kiwi#1341",
 			["Nostariel-Ravenholdt"] = true,
-			["Las-Ravenholdt"] = true,
+			["Yung-Ravenholdt"] = "kageshi#1708",
 			["Suiken-Ravenholdt"] = "kageshi#1708",
 			["Nosfinariel-Ravenholdt"] = true,
-			["Holykiwi-Ravenholdt"] = "Kiwi#1341",
-			["Imber-Ravenholdt"] = true,
-			["Sharundito-Ravenholdt"] = true,
-			["Lilkiwi-Ravenholdt"] = true,
+			["Kageshi-Ravenholdt"] = true,
 			["Nostalari-Ravenholdt"] = "Nos#1125",
+			["Sharundito-Ravenholdt"] = true,
+			["Sharun-Ravenholdt"] = true,
+			["Imber-Ravenholdt"] = true,
 			["Leturex-Ravenholdt"] = true,
 			["Akumabi-Ravenholdt"] = "kageshi#1708",
-			["Sharun-Ravenholdt"] = true,
-			["Yung-Ravenholdt"] = "kageshi#1708",
+			["Lilkiwi-Ravenholdt"] = true,
+			["Las-Ravenholdt"] = true,
 			["Brisminden-Ravenholdt"] = "Breshinek#1420",
 			["Breshinek-Ravenholdt"] = "Breshinek#1420",
 		},

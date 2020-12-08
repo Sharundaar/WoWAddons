@@ -29,10 +29,6 @@ BigWigs3DB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_Devos, Paragon of Doubt"] = {
-		},
-		["BigWigs_Bosses_General Kaal"] = {
-		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -43,15 +39,29 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
-		["BigWigs_Plugins_Sounds"] = {
-		},
-		["BigWigs_Bosses_Executor Tarvold"] = {
+		["BigWigs_Bosses_Domina Venomblade"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Sounds"] = {
 		},
-		["BigWigs_Bosses_Kryxis the Voracious"] = {
+		["BigWigs_Bosses_Surgeon Stitchflesh"] = {
+		},
+		["BigWigs_Bosses_Halkias, the Sin-Stained Goliath"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Bosses_Amarth, The Reanimator"] = {
+		},
+		["BigWigs_Bosses_Blightbone"] = {
+		},
+		["BigWigs_Bosses_Lord Chamberlain"] = {
+		},
+		["BigWigs_Bosses_High Adjudicator Aleez"] = {
+		},
+		["BigWigs_Bosses_Plaguefall Trash"] = {
+		},
+		["BigWigs_Bosses_Doctor Ickus"] = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
@@ -77,6 +87,10 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Margrave Stradama"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -85,15 +99,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Super Emphasize"] = {
+		["BigWigs_Bosses_Echelon"] = {
 		},
-		["BigWigs_Bosses_Kin-Tara"] = {
+		["LibDualSpec-1.0"] = {
 		},
-		["BigWigs_Bosses_Grand Proctor Beryllia"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Bosses_Oryphrion"] = {
+		["BigWigs_Bosses_Globgrog"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -105,11 +115,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Bosses_Ventunax"] = {
+		["BigWigs_Bosses_Nalthor the Rimebinder"] = {
 		},
 	},
 	["wipe80"] = true,
@@ -407,6 +417,21 @@ BigWigsStatsDB = {
 				["kills"] = 2,
 			},
 		},
+		[2146] = {
+			["heroic"] = {
+				["kills"] = 8,
+				["best"] = 137.440000000061,
+				["wipes"] = 1,
+			},
+			["normal"] = {
+				["best"] = 115.685999999987,
+				["kills"] = 8,
+			},
+			["LFR"] = {
+				["best"] = 109.593999999925,
+				["kills"] = 3,
+			},
+		},
 		[2167] = {
 			["normal"] = {
 				["best"] = 145.792000000016,
@@ -421,21 +446,6 @@ BigWigsStatsDB = {
 				["kills"] = 9,
 				["best"] = 176.215999999986,
 				["wipes"] = 1,
-			},
-		},
-		[2146] = {
-			["heroic"] = {
-				["kills"] = 8,
-				["best"] = 137.440000000061,
-				["wipes"] = 1,
-			},
-			["normal"] = {
-				["best"] = 115.685999999987,
-				["kills"] = 8,
-			},
-			["LFR"] = {
-				["best"] = 109.593999999925,
-				["kills"] = 3,
 			},
 		},
 	},
@@ -609,16 +619,20 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2352] = {
-			["normal"] = {
-				["kills"] = 4,
-				["best"] = 149.5069999999978,
-				["wipes"] = 1,
-			},
+		[2359] = {
 			["heroic"] = {
-				["kills"] = 8,
-				["wipes"] = 11,
-				["best"] = 210.1620000000112,
+				["kills"] = 4,
+				["wipes"] = 15,
+				["best"] = 339.8229999999749,
+			},
+			["normal"] = {
+				["kills"] = 2,
+				["wipes"] = 4,
+				["best"] = 414.5329999999958,
+			},
+			["LFR"] = {
+				["best"] = 311.0210000001825,
+				["kills"] = 1,
 			},
 		},
 		[2351] = {
@@ -637,20 +651,16 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2359] = {
-			["heroic"] = {
-				["kills"] = 4,
-				["wipes"] = 15,
-				["best"] = 339.8229999999749,
-			},
+		[2352] = {
 			["normal"] = {
-				["kills"] = 2,
-				["wipes"] = 4,
-				["best"] = 414.5329999999958,
+				["kills"] = 4,
+				["best"] = 149.5069999999978,
+				["wipes"] = 1,
 			},
-			["LFR"] = {
-				["best"] = 311.0210000001825,
-				["kills"] = 1,
+			["heroic"] = {
+				["kills"] = 8,
+				["wipes"] = 11,
+				["best"] = 210.1620000000112,
 			},
 		},
 		[2353] = {
@@ -665,20 +675,19 @@ BigWigsStatsDB = {
 				["best"] = 281.4299999999348,
 			},
 		},
-		[2354] = {
+		[2361] = {
 			["heroic"] = {
-				["kills"] = 7,
-				["wipes"] = 33,
-				["best"] = 251.2729999999865,
+				["kills"] = 2,
+				["wipes"] = 51,
+				["best"] = 421.0179999999236,
 			},
 			["normal"] = {
-				["kills"] = 3,
-				["best"] = 82.20600000000559,
-				["wipes"] = 2,
+				["wipes"] = 13,
 			},
 			["LFR"] = {
-				["best"] = 260.875,
 				["kills"] = 1,
+				["wipes"] = 1,
+				["best"] = 581.7659999998286,
 			},
 		},
 		[2347] = {
@@ -709,19 +718,20 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2361] = {
+		[2354] = {
 			["heroic"] = {
-				["kills"] = 2,
-				["wipes"] = 51,
-				["best"] = 421.0179999999236,
+				["kills"] = 7,
+				["wipes"] = 33,
+				["best"] = 251.2729999999865,
 			},
 			["normal"] = {
-				["wipes"] = 13,
+				["kills"] = 3,
+				["best"] = 82.20600000000559,
+				["wipes"] = 2,
 			},
 			["LFR"] = {
+				["best"] = 260.875,
 				["kills"] = 1,
-				["wipes"] = 1,
-				["best"] = 581.7659999998286,
 			},
 		},
 	},

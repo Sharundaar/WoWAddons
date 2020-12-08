@@ -1,19 +1,16 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
-	["LastPlayerFullName"] = "Sharun-Ravenholdt",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0407,
 	["ItemLevels"] = {
 		{
-			["ID"] = 159310,
-			["Level"] = 135,
-			["Link"] = "|cffa335ee|Hitem:159310::::::::50:577::35:5:5448:1543:4786:6511:4775::::|h[Circlet of the Enveloping Leviathan]|h|r",
+			["ID"] = 178691,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178691::::::::60:577::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Hood of the Hidden Path]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 158075,
-			["Level"] = 144,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:577::11:4:6316:4932:4933:1558::::|h[Heart of Azeroth]|h|r",
+			["ID"] = 184757,
+			["Level"] = 161,
+			["Link"] = "|cff0070dd|Hitem:184757::::::::60:577::11::1:28:1707:::|h[Chain of the Purpose-Bound]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 178779,
@@ -22,77 +19,80 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 178698,
-			["Level"] = 140,
-			["Link"] = "|cff0070dd|Hitem:178698::::::::58:577::17:3:7217:6771:6652:2:28:747:9:58:::|h[Rainshadow Hauberk]|h|r",
+			["ID"] = 178744,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178744::::::::60:577::23:4:6807:6652:1498:6646:1:28:749:::|h[Freshly Embalmed Jerkin]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 178699,
-			["Level"] = 134,
-			["Link"] = "|cff0070dd|Hitem:178699::::::::57:577::17:4:7217:6771:6652:7194:2:28:747:9:57:::|h[Sapgorger Belt]|h|r",
+			["ID"] = 180111,
+			["Level"] = 171,
+			["Link"] = "|cff0070dd|Hitem:180111::::::::60:577::2:5:6806:6652:7193:1485:4785:1:28:748:::|h[Shadowhirl Waistwrap]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 175498,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:175498::::::::60:577::11:1:6707:2:28:1707:9:60:::|h[Nightcloaked Pants]|h|r",
+			["ID"] = 180108,
+			["Level"] = 171,
+			["Link"] = "|cff0070dd|Hitem:180108::::::::60:577::2:4:6806:6652:1485:4785:1:28:748:::|h[Abyssal Disharmony Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 159295,
-			["Level"] = 130,
-			["Link"] = "|cffa335ee|Hitem:159295::154128::::::50:577::35:7:6536:4802:6578:6515:1543:4786:6516::::|h[Footpads of the Serene Wake]|h|r",
+			["ID"] = 184518,
+			["Level"] = 146,
+			["Link"] = "|cff0070dd|Hitem:184518::::::::60:577::11:1:6706:2:28:747:9:60:::|h[Boots of the Oaken Assembly]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 178702,
-			["Level"] = 146,
-			["Link"] = "|cff0070dd|Hitem:178702::::::::59:577::17:4:7217:6771:6652:7194:2:28:747:9:59:::|h[Bands of the Undergrowth]|h|r",
+			["ID"] = 178934,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178934::::::::60:577::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Fastened Venombarb Binds]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 178832,
-			["Level"] = 146,
-			["Link"] = "|cff0070dd|Hitem:178832::::::::59:577::17:3:7217:6771:6652:2:28:747:9:59:::|h[Gloves of Haunting Fixation]|h|r",
+			["ID"] = 180103,
+			["Level"] = 158,
+			["Link"] = "|cff0070dd|Hitem:180103::::::::60:577::1:4:6805:6652:1472:4785:1:28:2044:::|h[Winged Hunters' Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 178736,
-			["Level"] = 134,
+			["ID"] = 178869,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:178736::::::::58:577::17:4:7217:6771:6652:7194:2:9:57:28:747:::|h[Stitchflesh's Misplaced Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178869::::::::60:577::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Fleshfused Circle]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 178736,
-			["Level"] = 134,
+			["ID"] = 178824,
+			["Level"] = 158,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:178736::::::::59:577::17:4:7217:6771:6652:7194:2:9:57:28:747:::|h[Stitchflesh's Misplaced Signet]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178824::::::::60:577::1:5:6805:6652:7193:1472:4785:1:28:747:::|h[Signet of the False Accuser]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 159617,
-			["Level"] = 130,
+			["ID"] = 184840,
+			["Level"] = 155,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159617::168642::::::50:577::35:5:6536:4802:6513:1543:4786::::|h[Lustrous Golden Plumage]|h|r",
+			["Link"] = "|cff0070dd|Hitem:184840::::::::60:577::27:4:6652:1472:5852:6616:1:28:1707:::|h[Hymnal of the Path]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159628,
-			["Level"] = 130,
+			["ID"] = 173349,
+			["Level"] = 146,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159628::168642::::::50:577::35:6:6536:4802:42:6513:1543:4786::::|h[Kul Tiran Cannonball Runner]|h|r",
+			["Link"] = "|cff1eff00|Hitem:173349::::::::60:577::11:1:6706:2:9:60:28:1707:::|h[Misfiring Centurion Controller]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 169223,
-			["Level"] = 155,
-			["Link"] = "|cffff8000|Hitem:169223::::::::50:577::11:2:6597:1472::::|h[Ashjra'kamas, Shroud of Resolve]|h|r",
+			["ID"] = 178755,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178755::::::::60:577::23:4:6807:40:1498:6646:1:28:749:::|h[Blighted Margrave's Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 181687,
-			["Level"] = 132,
+			["ID"] = 181628,
+			["Level"] = 164,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:181687::::::::58:577::53:2:7192:6652:2:28:807:9:58:::|h[Gorewrought Warglaive]|h|r",
+			["Link"] = "|cff0070dd|Hitem:181628::::::::60:577::74:4:6652:1472:5861:6616:1:28:2060:::|h[Memoria Glaive]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 181687,
-			["Level"] = 132,
+			["ID"] = 178857,
+			["Level"] = 158,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:181687::::::::58:577::53:2:7192:6652:2:9:58:28:807:::|h[Gorewrought Warglaive]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178857::::::::60:577::1:4:6805:6652:1472:4785:1:28:2044:::|h[Stone General's Edge]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Sharun-Ravenholdt",
 	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[127829] = {

@@ -19,11 +19,11 @@ WeakAurasSaved = {
 		["Report modéré"] = {
 			[124274] = 460954,
 		},
-		["Heavy Stagger"] = {
-			[124273] = 463282,
-		},
 		["Langue de feu"] = {
 			[194084] = 135814,
+		},
+		["Heavy Stagger"] = {
+			[124273] = 463282,
 		},
 		["Moderate Stagger"] = {
 			[124274] = 460954,
@@ -113,11 +113,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twentyfive"] = true,
-						["ten"] = true,
 						["arena"] = true,
-						["twenty"] = true,
+						["ten"] = true,
+						["twentyfive"] = true,
 						["fortyman"] = true,
+						["twenty"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -127,14 +127,13 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2272",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2272",
 				["use_encounterid"] = false,
 			},
-			["cooldownEdge"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -155,31 +154,8 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["regionType"] = "icon",
 			["parent"] = "T23.5: Crucible of Storms",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["xOffset"] = -37.5,
-			["uid"] = "ZxjmNZgsnbN",
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0.33,
-			["semver"] = "1.0.1",
-			["width"] = 52,
-			["id"] = "UN: Embrace of the Void",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -190,10 +166,34 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["stickyDuration"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["xOffset"] = -37.5,
+			["uid"] = "ZxjmNZgsnbN",
+			["semver"] = "1.0.1",
+			["zoom"] = 0.33,
+			["auto"] = true,
+			["width"] = 52,
+			["id"] = "UN: Embrace of the Void",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Freehold Bartender DOT"] = {
 			["iconSource"] = 0,
@@ -216,9 +216,9 @@ WeakAurasSaved = {
 						["use_absorbMode"] = true,
 						["unit"] = "133219",
 						["subeventPrefix"] = "SPELL",
-						["sourceName"] = "Rummy Mancomb",
-						["debuffType"] = "HELPFUL",
 						["use_sourceName"] = true,
+						["spellName"] = "Caustic Freehold Brew",
+						["sourceName"] = "Rummy Mancomb",
 						["type"] = "event",
 						["spellIds"] = {
 						},
@@ -231,7 +231,7 @@ WeakAurasSaved = {
 						["use_spellName"] = false,
 						["name"] = "Caustic Freehold Brew",
 						["use_sourceUnit"] = false,
-						["spellName"] = "Caustic Freehold Brew",
+						["debuffType"] = "HELPFUL",
 						["names"] = {
 						},
 						["sourceUnit"] = "focus",
@@ -330,40 +330,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
 			["cooldownEdge"] = false,
-			["regionType"] = "icon",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["desaturate"] = false,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 135999,
-			["uid"] = "ce)TLvn85Yz",
-			["xOffset"] = 0,
-			["zoom"] = 0.3,
-			["auto"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["id"] = "Freehold Bartender DOT",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["width"] = 75,
-			["cooldownTextDisabled"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -383,6 +352,37 @@ WeakAurasSaved = {
 					["easeStrength"] = 3,
 					["easeType"] = "none",
 				},
+			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 135999,
+			["uid"] = "ce)TLvn85Yz",
+			["zoom"] = 0.3,
+			["cooldownTextDisabled"] = true,
+			["auto"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["id"] = "Freehold Bartender DOT",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["width"] = 75,
+			["xOffset"] = 0,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["conditions"] = {
 			},
@@ -483,38 +483,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["icon"] = true,
-			["regionType"] = "icon",
 			["url"] = "https://wago.io/GrbGKhzKH/11",
-			["parent"] = "Azshara Decree Helper",
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["authorOptions"] = {
-			},
-			["uid"] = "7feqjHhwoPA",
-			["zoom"] = 0.3,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.10",
-			["width"] = 60,
-			["id"] = "KEEP MOVING",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["desaturate"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -535,6 +507,34 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["authorOptions"] = {
+			},
+			["uid"] = "7feqjHhwoPA",
+			["semver"] = "1.0.10",
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["width"] = 60,
+			["id"] = "KEEP MOVING",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0.3,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["conditions"] = {
+			},
+			["cooldown"] = false,
+			["parent"] = "Azshara Decree Helper",
 		},
 		["UN: Insatiable Torment"] = {
 			["iconSource"] = -1,
@@ -627,11 +627,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["arena"] = true,
-						["ten"] = true,
 						["twentyfive"] = true,
-						["twenty"] = true,
+						["ten"] = true,
+						["arena"] = true,
 						["fortyman"] = true,
+						["twenty"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -641,15 +641,27 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["uid"] = "knmxw8c5mhL",
-			["icon"] = true,
+			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["parent"] = "T23.5: Crucible of Storms",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -670,37 +682,25 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["cooldownEdge"] = false,
 			["width"] = 52,
 			["zoom"] = 0.33,
 			["semver"] = "1.0.1",
 			["frameStrata"] = 1,
 			["id"] = "UN: Insatiable Torment",
-			["auto"] = true,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownTextDisabled"] = false,
+			["auto"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "T23.5: Crucible of Storms",
+			["authorOptions"] = {
+			},
 		},
 		["Mythic+ Interrupt Tracker DG v3.5"] = {
 			["arcLength"] = 360,
@@ -800,11 +800,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -825,45 +825,45 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stagger"] = 0,
+			["gridType"] = "RD",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["limit"] = 5,
+			["stagger"] = 0,
 			["animate"] = false,
-			["fullCircle"] = true,
+			["radius"] = 200,
 			["scale"] = 1,
-			["xOffset"] = -522.8809814453125,
+			["space"] = 2,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
-			["sort"] = "descending",
-			["space"] = 2,
-			["gridType"] = "RD",
+			["limit"] = 5,
+			["grow"] = "UP",
+			["selfPoint"] = "BOTTOM",
 			["constantFactor"] = "RADIUS",
-			["useLimit"] = false,
+			["sort"] = "descending",
 			["borderOffset"] = 16,
 			["semver"] = "1.0.5",
 			["tocversion"] = 90001,
 			["id"] = "Mythic+ Interrupt Tracker DG v3.5",
-			["gridWidth"] = 5,
 			["frameStrata"] = 1,
+			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
-			["grow"] = "UP",
-			["config"] = {
-			},
+			["useLimit"] = false,
 			["uid"] = "vIe3W9ZEaeB",
-			["selfPoint"] = "BOTTOM",
+			["xOffset"] = -522.8809814453125,
+			["fullCircle"] = true,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["radius"] = 200,
+			["config"] = {
+			},
 		},
 		["FlameShock"] = {
 			["iconSource"] = 0,
@@ -971,34 +971,53 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["regionType"] = "icon",
-			["displayIcon"] = 135813,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Sham",
+			["regionType"] = "icon",
+			["displayIcon"] = 135813,
+			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["uid"] = "JfsbUY7Uf2v",
 			["zoom"] = 0,
 			["auto"] = false,
 			["cooldownTextDisabled"] = false,
 			["id"] = "FlameShock",
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 1,
 			["width"] = 64.000114440918,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -1033,26 +1052,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["cooldown"] = true,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
+			["parent"] = "Sham",
 		},
 		["RC: Crushing Doubt"] = {
 			["iconSource"] = 0,
@@ -1136,11 +1136,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twenty"] = true,
-						["ten"] = true,
-						["arena"] = true,
 						["fortyman"] = true,
+						["ten"] = true,
 						["twentyfive"] = true,
+						["twenty"] = true,
+						["arena"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -1150,51 +1150,14 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["uid"] = "DUGwaFZ7z5e",
-			["xOffset"] = -37.5,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["parent"] = "T23.5: Crucible of Storms",
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
-			["stickyDuration"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
-			["anchorFrameType"] = "SCREEN",
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.1",
-			["frameStrata"] = 1,
-			["id"] = "RC: Crushing Doubt",
-			["zoom"] = 0.33,
-			["alpha"] = 1,
-			["width"] = 52,
-			["auto"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -1215,10 +1178,47 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["stickyDuration"] = false,
+			["regionType"] = "icon",
+			["cooldownEdge"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.1",
+			["frameStrata"] = 1,
+			["id"] = "RC: Crushing Doubt",
+			["auto"] = false,
+			["alpha"] = 1,
+			["width"] = 52,
+			["zoom"] = 0.33,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["xOffset"] = -37.5,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["parent"] = "T23.5: Crucible of Storms",
 		},
 		["NO SOAK"] = {
 			["iconSource"] = -1,
@@ -1334,38 +1334,38 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["xOffset"] = 0,
-			["regionType"] = "icon",
 			["cooldownEdge"] = false,
-			["selfPoint"] = "CENTER",
+			["regionType"] = "icon",
+			["stickyDuration"] = false,
+			["icon"] = true,
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["parent"] = "Azshara Decree Helper",
 			["config"] = {
 			},
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "1.0.10",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["anchorFrameType"] = "SCREEN",
 			["id"] = "NO SOAK",
-			["frameStrata"] = 1,
 			["alpha"] = 1,
+			["frameStrata"] = 1,
 			["width"] = 60,
-			["auto"] = true,
+			["cooldownTextDisabled"] = false,
 			["uid"] = "wGFgbGe3A6(",
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 		},
 		["Details! Boss Mods Group"] = {
 			["grow"] = "DOWN",
@@ -1437,7 +1437,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -1450,7 +1450,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -1471,6 +1471,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["fullCircle"] = true,
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["rowSpace"] = 1,
+			["animate"] = true,
+			["authorOptions"] = {
+			},
+			["scale"] = 1,
+			["internalVersion"] = 40,
+			["border"] = false,
+			["borderEdge"] = "1 Pixel",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -1491,45 +1509,27 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["useLimit"] = false,
-			["animate"] = true,
-			["authorOptions"] = {
-			},
-			["scale"] = 1,
-			["fullCircle"] = true,
-			["border"] = false,
-			["borderEdge"] = "1 Pixel",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "none",
-			["internalVersion"] = 40,
-			["limit"] = 5,
+			["arcLength"] = 360,
 			["constantFactor"] = "RADIUS",
 			["uid"] = "3AZNSNvFr5v",
 			["borderOffset"] = 16,
-			["gridType"] = "RD",
+			["limit"] = 5,
 			["anchorFrameType"] = "SCREEN",
 			["id"] = "Details! Boss Mods Group",
-			["gridWidth"] = 5,
 			["frameStrata"] = 1,
+			["gridWidth"] = 5,
 			["width"] = 359.096801757813,
-			["rowSpace"] = 1,
-			["borderInset"] = 0,
+			["gridType"] = "RD",
 			["config"] = {
 			},
-			["stagger"] = 0,
+			["borderInset"] = 0,
+			["useLimit"] = false,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["arcLength"] = 360,
+			["stagger"] = 0,
 		},
 		["STACK"] = {
 			["iconSource"] = -1,
@@ -1638,33 +1638,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["selfPoint"] = "CENTER",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["regionType"] = "icon",
 			["xOffset"] = 0,
-			["parent"] = "Azshara Decree Helper",
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["stickyDuration"] = false,
-			["uid"] = "GbFe1cQleJn",
-			["zoom"] = 0.3,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.10",
-			["width"] = 60,
-			["id"] = "STACK",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 				},
@@ -1673,10 +1654,29 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["cooldownEdge"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["stickyDuration"] = false,
+			["uid"] = "GbFe1cQleJn",
+			["semver"] = "1.0.10",
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["width"] = 60,
+			["id"] = "STACK",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0.3,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["parent"] = "Azshara Decree Helper",
 		},
 		["UN: Touch (Tanks)"] = {
 			["iconSource"] = -1,
@@ -1769,11 +1769,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twenty"] = true,
-						["ten"] = true,
-						["arena"] = true,
 						["fortyman"] = true,
+						["ten"] = true,
 						["twentyfive"] = true,
+						["twenty"] = true,
+						["arena"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -1783,14 +1783,37 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["uid"] = "sqTDI8el7ht",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["regionType"] = "icon",
+			["parent"] = "T23.5: Crucible of Storms",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
+			["stickyDuration"] = false,
+			["icon"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0.33,
+			["semver"] = "1.0.1",
+			["frameStrata"] = 1,
+			["id"] = "UN: Touch (Tanks)",
+			["auto"] = true,
+			["alpha"] = 1,
+			["width"] = 52,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -1811,38 +1834,15 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["stickyDuration"] = false,
-			["regionType"] = "icon",
+			["conditions"] = {
+			},
+			["cooldown"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
-			["authorOptions"] = {
-			},
-			["icon"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0.33,
-			["semver"] = "1.0.1",
-			["frameStrata"] = 1,
-			["id"] = "UN: Touch (Tanks)",
-			["cooldownTextDisabled"] = false,
-			["alpha"] = 1,
-			["width"] = 52,
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["parent"] = "T23.5: Crucible of Storms",
 		},
 		["Icefury"] = {
 			["iconSource"] = -1,
@@ -1885,8 +1885,8 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["remaining"] = "0",
 						["debuffType"] = "HELPFUL",
-						["use_remaining"] = false,
 						["type"] = "status",
+						["use_remaining"] = false,
 						["remaining_operator"] = "==",
 						["unevent"] = "auto",
 						["subeventSuffix"] = "_CAST_START",
@@ -2005,18 +2005,31 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
+			["desaturate"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["xOffset"] = -388.000366210938,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["desaturate"] = false,
 			["authorOptions"] = {
 			},
+			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
+			["auto"] = true,
+			["uid"] = "SV0oO9FXShO",
+			["id"] = "Icefury",
+			["width"] = 64,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
+			["config"] = {
+			},
+			["inverse"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -2025,19 +2038,6 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
-			["zoom"] = 0,
-			["cooldownTextDisabled"] = false,
-			["auto"] = true,
-			["uid"] = "SV0oO9FXShO",
-			["id"] = "Icefury",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["width"] = 64,
-			["anchorFrameType"] = "SCREEN",
-			["config"] = {
-			},
-			["inverse"] = false,
-			["xOffset"] = -388.000366210938,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -2170,11 +2170,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twentyfive"] = true,
-						["ten"] = true,
 						["arena"] = true,
-						["twenty"] = true,
+						["ten"] = true,
+						["twentyfive"] = true,
 						["fortyman"] = true,
+						["twenty"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -2184,14 +2184,51 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["uid"] = "N9YCsGH(F8f",
+			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["parent"] = "T23.5: Crucible of Storms",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
+			["stickyDuration"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
+			["width"] = 52,
+			["zoom"] = 0.33,
+			["semver"] = "1.0.1",
+			["frameStrata"] = 1,
+			["id"] = "UN: Gift of N'zoth: Lunacy",
+			["auto"] = true,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -2212,47 +2249,10 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["stickyDuration"] = false,
-			["regionType"] = "icon",
-			["xOffset"] = -37.5,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
-			["width"] = 52,
-			["zoom"] = 0.33,
-			["semver"] = "1.0.1",
-			["frameStrata"] = 1,
-			["id"] = "UN: Gift of N'zoth: Lunacy",
-			["cooldownTextDisabled"] = false,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "T23.5: Crucible of Storms",
+			["xOffset"] = -37.5,
 		},
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -2324,7 +2324,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -2340,7 +2340,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -2358,24 +2358,18 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["fullCircle"] = true,
+			["limit"] = 5,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["stagger"] = 0,
-			["animate"] = true,
-			["sort"] = "none",
-			["scale"] = 1,
 			["useLimit"] = false,
-			["border"] = false,
-			["borderEdge"] = "1 Pixel",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["limit"] = 5,
-			["rowSpace"] = 1,
+			["animate"] = true,
+			["authorOptions"] = {
+			},
+			["scale"] = 1,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -2396,21 +2390,27 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["border"] = false,
+			["borderEdge"] = "1 Pixel",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
+			["stagger"] = 0,
+			["fullCircle"] = true,
 			["constantFactor"] = "RADIUS",
 			["uid"] = "MlS62mnhVCq",
 			["borderOffset"] = 16,
-			["arcLength"] = 360,
+			["gridType"] = "RD",
 			["anchorFrameType"] = "SCREEN",
 			["id"] = "Details! Aura Group",
-			["gridWidth"] = 5,
 			["frameStrata"] = 1,
+			["gridWidth"] = 5,
 			["width"] = 199.999969482422,
+			["arcLength"] = 360,
+			["borderInset"] = 0,
 			["config"] = {
 			},
-			["borderInset"] = 0,
-			["gridType"] = "RD",
-			["authorOptions"] = {
-			},
+			["rowSpace"] = 1,
 			["conditions"] = {
 			},
 			["information"] = {
@@ -2498,11 +2498,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twenty"] = true,
-						["ten"] = true,
-						["twentyfive"] = true,
 						["fortyman"] = true,
+						["ten"] = true,
 						["arena"] = true,
+						["twenty"] = true,
+						["twentyfive"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -2512,23 +2512,55 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["config"] = {
 			},
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
+			["stickyDuration"] = false,
+			["regionType"] = "icon",
+			["parent"] = "T23.5: Crucible of Storms",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
+			["xOffset"] = -37.5,
+			["cooldownEdge"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.1",
+			["frameStrata"] = 1,
+			["id"] = "RC: Shear Mind (Tanks)",
+			["auto"] = true,
+			["alpha"] = 1,
+			["width"] = 52,
+			["zoom"] = 0.33,
+			["uid"] = "bpuZD8ffZVt",
+			["inverse"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = -37.5,
-			["regionType"] = "icon",
+			["conditions"] = {
+			},
+			["cooldown"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -2549,38 +2581,6 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
-			["stickyDuration"] = false,
-			["cooldownEdge"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.1",
-			["frameStrata"] = 1,
-			["id"] = "RC: Shear Mind (Tanks)",
-			["zoom"] = 0.33,
-			["alpha"] = 1,
-			["width"] = 52,
-			["auto"] = true,
-			["uid"] = "bpuZD8ffZVt",
-			["inverse"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["parent"] = "T23.5: Crucible of Storms",
 		},
 		["Azshara Decree Helper"] = {
 			["grow"] = "DOWN",
@@ -2656,7 +2656,7 @@ WeakAurasSaved = {
 			["align"] = "CENTER",
 			["rotation"] = 0,
 			["version"] = 11,
-			["arcLength"] = 360,
+			["useLimit"] = false,
 			["rowSpace"] = 1,
 			["load"] = {
 				["use_class"] = false,
@@ -2673,29 +2673,29 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["fullCircle"] = true,
+			["authorOptions"] = {
+			},
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["stagger"] = 0,
+			["anchorPoint"] = "CENTER",
 			["animate"] = false,
-			["radius"] = 200,
+			["stagger"] = 0,
 			["scale"] = 1,
-			["authorOptions"] = {
-			},
+			["arcLength"] = 360,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
-			["hybridPosition"] = "hybridFirst",
-			["sort"] = "hybrid",
+			["borderSize"] = 2,
 			["limit"] = 5,
+			["radius"] = 200,
 			["borderInset"] = 0,
 			["hybridSortMode"] = "ascending",
 			["constantFactor"] = "RADIUS",
-			["anchorPoint"] = "CENTER",
+			["sort"] = "hybrid",
 			["borderOffset"] = 16,
 			["semver"] = "1.0.10",
 			["gridWidth"] = 5,
@@ -2706,17 +2706,17 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["uid"] = "uU0soVH5fyI",
-			["borderSize"] = 2,
-			["useLimit"] = false,
+			["hybridPosition"] = "hybridFirst",
+			["sortHybridTable"] = {
+				["STACK"] = true,
+				["SPREAD"] = true,
+			},
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["sortHybridTable"] = {
-				["STACK"] = true,
-				["SPREAD"] = true,
-			},
+			["fullCircle"] = true,
 		},
 		["Stagger English"] = {
 			["iconSource"] = -1,
@@ -2875,6 +2875,12 @@ WeakAurasSaved = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["authorOptions"] = {
 			},
 			["actions"] = {
@@ -2885,24 +2891,18 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["cooldownTextDisabled"] = false,
 			["zoom"] = 0,
 			["auto"] = true,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
 			["id"] = "Stagger English",
 			["config"] = {
 			},
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
 			["width"] = 64,
+			["anchorFrameType"] = "SCREEN",
 			["uid"] = "B5bqDtOXcms",
 			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownTextDisabled"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
@@ -2958,19 +2958,28 @@ WeakAurasSaved = {
 			["rotation"] = 0,
 			["font"] = "Friz Quadrata TT",
 			["height"] = 200,
-			["actions"] = {
-				["start"] = {
+			["textureWrapMode"] = "CLAMP",
+			["load"] = {
+				["use_class"] = true,
+				["use_spec"] = true,
+				["class"] = {
+					["single"] = "MONK",
+					["multi"] = {
+					},
 				},
-				["finish"] = {
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+					},
 				},
-				["init"] = {
+				["size"] = {
+					["multi"] = {
+					},
 				},
 			},
-			["crop_y"] = 0.41,
 			["useAdjustededMax"] = false,
 			["backgroundTexture"] = "450915",
-			["foregroundTexture"] = "450915",
-			["textureWrapMode"] = "CLAMP",
+			["startAngle"] = 0,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -2991,30 +3000,15 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["crop_y"] = 0.41,
 			["mirror"] = false,
 			["useAdjustededMin"] = false,
 			["regionType"] = "progresstexture",
 			["crop_x"] = 0.41,
 			["blendMode"] = "BLEND",
-			["load"] = {
-				["use_class"] = true,
-				["use_spec"] = true,
-				["class"] = {
-					["single"] = "MONK",
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["single"] = 1,
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
+			["authorOptions"] = {
 			},
-			["startAngle"] = 0,
+			["foregroundTexture"] = "450915",
 			["slantMode"] = "INSIDE",
 			["uid"] = "fbgQqRDQT(G",
 			["fontSize"] = 12,
@@ -3029,7 +3023,13 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = true,
-			["authorOptions"] = {
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
 			},
 			["orientation"] = "VERTICAL",
 			["conditions"] = {
@@ -3134,11 +3134,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["arena"] = true,
-						["ten"] = true,
 						["twentyfive"] = true,
-						["twenty"] = true,
+						["ten"] = true,
+						["arena"] = true,
 						["fortyman"] = true,
+						["twenty"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -3148,16 +3148,14 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2272",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2272",
 				["use_encounterid"] = false,
 			},
-			["cooldownEdge"] = false,
 			["parent"] = "T23.5: Crucible of Storms",
-			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -3168,24 +3166,7 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["stickyDuration"] = false,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["xOffset"] = -37.5,
-			["uid"] = "lXhN8g)9n2l",
-			["zoom"] = 0.33,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.1",
-			["width"] = 52,
-			["id"] = "UN: Custody of the Deep",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -3206,15 +3187,34 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["xOffset"] = -37.5,
+			["uid"] = "lXhN8g)9n2l",
+			["semver"] = "1.0.1",
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["width"] = 52,
+			["id"] = "UN: Custody of the Deep",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0.33,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["cooldownEdge"] = false,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["stickyDuration"] = false,
 		},
 		["T23.5: Crucible of Storms"] = {
 			["arcLength"] = 360,
@@ -3310,45 +3310,45 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["space"] = 3,
+			["stagger"] = 0,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["anchorPoint"] = "CENTER",
+			["useLimit"] = false,
 			["animate"] = false,
 			["fullCircle"] = true,
 			["scale"] = 1,
-			["stagger"] = 0,
+			["xOffset"] = 68.273193359375,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["grow"] = "LEFT",
-			["xOffset"] = 68.273193359375,
+			["anchorPoint"] = "CENTER",
+			["radius"] = 200,
 			["constantFactor"] = "RADIUS",
 			["borderInset"] = 0,
 			["borderOffset"] = 16,
 			["semver"] = "1.0.1",
-			["limit"] = 5,
+			["selfPoint"] = "RIGHT",
 			["id"] = "T23.5: Crucible of Storms",
-			["gridWidth"] = 5,
 			["frameStrata"] = 1,
+			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
-			["useLimit"] = false,
+			["limit"] = 5,
+			["uid"] = "z9x5IsRcRaL",
 			["config"] = {
 			},
-			["uid"] = "z9x5IsRcRaL",
-			["selfPoint"] = "RIGHT",
+			["grow"] = "LEFT",
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["radius"] = 200,
+			["space"] = 3,
 		},
 		["Langue de feu"] = {
 			["user_y"] = 0,
@@ -3977,11 +3977,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twenty"] = true,
-						["ten"] = true,
-						["arena"] = true,
 						["fortyman"] = true,
+						["ten"] = true,
 						["twentyfive"] = true,
+						["twenty"] = true,
+						["arena"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -3991,14 +3991,37 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["uid"] = "x1aBTwhD0S9",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["regionType"] = "icon",
+			["parent"] = "T23.5: Crucible of Storms",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
+			["stickyDuration"] = false,
+			["icon"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0.33,
+			["semver"] = "1.0.1",
+			["frameStrata"] = 1,
+			["id"] = "UN: Maddening Eyes",
+			["auto"] = true,
+			["alpha"] = 1,
+			["width"] = 52,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -4019,38 +4042,15 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["stickyDuration"] = false,
-			["regionType"] = "icon",
+			["conditions"] = {
+			},
+			["cooldown"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
-			["authorOptions"] = {
-			},
-			["icon"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0.33,
-			["semver"] = "1.0.1",
-			["frameStrata"] = 1,
-			["id"] = "UN: Maddening Eyes",
-			["cooldownTextDisabled"] = false,
-			["alpha"] = 1,
-			["width"] = 52,
-			["auto"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["parent"] = "T23.5: Crucible of Storms",
 		},
 		["Mythic+ Interrupt Tracker v3.5"] = {
 			["sparkWidth"] = 10,
@@ -4117,7 +4117,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -4129,7 +4129,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -4166,11 +4166,11 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["use_absorbMode"] = true,
 						["custom"] = "function(allstates,event,...)\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" or event == \"SPELL_ACTIVATION_OVERLAY_GLOW_SHOW\" or event == \"CHAT_MSG_ADDON\" then\n        local subevent = select(2,...)\n        local overlaySpellId = select(1,...)\n        local addonMessagePrefix = select(1,...)\n        local addonMessage = select(2,...)\n        \n        \n        if (subevent == \"SPELL_CAST_SUCCESS\") or (event == \"SPELL_ACTIVATION_OVERLAY_GLOW_SHOW\" and overlaySpellId == 31935) or (event == \"CHAT_MSG_ADDON\" and addonMessagePrefix == aura_env.addonPrefix) then\n            local sourceName = select(5,...)\n            local sourceGUID = select(4,...)\n            local spellId = select(12,...)\n            \n            if (event == \"SPELL_ACTIVATION_OVERLAY_GLOW_SHOW\" and overlaySpellId == 31935) then\n                sourceName = UnitName(\"player\")\n                sourceGUID = UnitGUID(\"player\")\n                spellId = overlaySpellId\n                --print(aura_env.addonPrefix, sourceGUID)\n                local success = C_ChatInfo.SendAddonMessage(aura_env.addonPrefix, \"guid:\" .. sourceGUID, \"PARTY\")\n            end\n            \n            local function parseAddonMessage(addonMsg)\n                if (addonMsg ~= nil) then\n                    return string.find(addonMsg, \"(%a+):(.*)\")\n                else\n                    return nil, nil, nil, nil\n                end\n                --_, duration = GetSpellCooldown(31935, \"BOOKTYPE_SPELL\")\n                --print(\"duration \",duration)\n                --local succ = C_ChatInfo.SendAddonMessage(aura_env.addonPrefix, \"cd:\" .. duration, \"PARTY\")\n            end\n            \n            if (subevent == \"SPELL_CAST_SUCCESS\" and sourceName == UnitName(\"player\") and spellId == 31935) then\n                --C_Timer.After(1, sendCooldown)\n                _, duration = GetSpellCooldown(31935)\n                duration = (duration * 10) - 0.2\n                local succ = C_ChatInfo.SendAddonMessage(aura_env.addonPrefix, \"cd:\" .. duration, \"PARTY\")\n            end\n            \n            local _, _, key, value = parseAddonMessage(addonMessage)\n            \n            if (event == \"CHAT_MSG_ADDON\" and key == \"guid\") then\n                sourceName = select(4,...)\n                sourceGUID = value\n                spellId = 31935\n            end\n            \n            if (event == \"CHAT_MSG_ADDON\" and key == \"cd\") then\n                sourceName = select(4,...)\n                sourceName = gsub(sourceName, \"%-[^|]+\", \"\") --strip realm name\n                sourceGUID = UnitGUID(sourceName)\n                spellId = 31935\n            end\n            \n            \n            if aura_env.trackedSpells[spellId] then\n                sourceName = gsub(sourceName, \"%-[^|]+\", \"\") --strip realm name\n                --Attribute Pet Spell's to its owner\n                local type = strsplit(\"-\",sourceGUID)\n                if type == \"Pet\" then\n                    for unit in aura_env.GroupMembers() do\n                        if UnitGUID(unit..\"pet\") == sourceGUID then\n                            sourceGUID = UnitGUID(unit)                        \n                            sourceName = UnitName(unit)\n                            sourceName = gsub(sourceName, \"%-[^|]+\", \"\")\n                            break\n                        end\n                    end\n                end            \n                --merge warlock spellIds\n                if spellId == 119910 or spellId == 132409 then spellId = 19647 end\n                --recover old states for the same spellId and sourceGUID            \n                local state\n                for idx,s in pairs(allstates) do\n                    if s.sourceGUID == sourceGUID and s.spellId == spellId then\n                        state = s\n                    end\n                end\n                if not state then\n                    local idx = #allstates+1\n                    allstates[idx] = allstates[idx] or {}\n                    state = allstates[idx]\n                end            \n                state.show = true\n                state.changed = true\n                state.sourceName = sourceName\n                state.progressType = 'timed'\n                state.autoHide = false\n                state.resort = true\n                \n                local duration = aura_env.trackedSpells[spellId].default\n                if (event == \"SPELL_ACTIVATION_OVERLAY_GLOW_SHOW\" and overlaySpellId == 31935) or (event == \"CHAT_MSG_ADDON\" and spellId == 31935) then\n                    duration = 0\n                    print(\"reset\")\n                    if (key == \"cd\") then\n                        duration = tonumber(value)\n                    end\n                end\n                --check talent mods\n                if aura_env.inspectLib then\n                    duration = aura_env.getDuration(spellId,sourceGUID)\n                end\n                \n                state.duration = duration\n                state.expirationTime = duration + GetTime() \n                local icon = select(3,GetSpellInfo(spellId))\n                state.icon = icon\n                state.sourceGUID = sourceGUID\n                state.spellId = spellId                     \n                return true            \n            end        \n        end\n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED,SPELL_ACTIVATION_OVERLAY_GLOW_SHOW,CHAT_MSG_ADDON",
-						["unevent"] = "timed",
-						["check"] = "event",
 						["spellIds"] = {
 						},
+						["unevent"] = "timed",
+						["check"] = "event",
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED,SPELL_ACTIVATION_OVERLAY_GLOW_SHOW,CHAT_MSG_ADDON",
 						["custom_type"] = "stateupdate",
 						["names"] = {
 						},
@@ -4360,8 +4360,8 @@ WeakAurasSaved = {
 			},
 			["icon"] = true,
 			["semver"] = "1.0.5",
-			["sparkHidden"] = "NEVER",
 			["id"] = "Mythic+ Interrupt Tracker v3.5",
+			["sparkHidden"] = "NEVER",
 			["width"] = 167,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
@@ -4501,26 +4501,26 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["icon_side"] = "LEFT",
-			["spark"] = false,
+			["auto"] = true,
 			["sparkHeight"] = 30,
 			["texture"] = "Solid",
 			["alpha"] = 1,
 			["zoom"] = 0,
-			["auto"] = true,
+			["spark"] = false,
 			["tocversion"] = 80300,
-			["sparkHidden"] = "NEVER",
+			["id"] = "T26-04-Bowling",
 			["semver"] = "1.0.0",
 			["frameStrata"] = 1,
 			["width"] = 16.99999618530273,
-			["id"] = "T26-04-Bowling",
-			["uid"] = "BhnfUt)ZLvg",
-			["inverse"] = false,
+			["sparkHidden"] = "NEVER",
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["inverse"] = false,
+			["uid"] = "BhnfUt)ZLvg",
 			["orientation"] = "VERTICAL",
 			["conditions"] = {
 			},
@@ -4666,33 +4666,33 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
 			["displayIcon"] = 511726,
-			["selfPoint"] = "CENTER",
-			["parent"] = "Sham",
+			["icon"] = true,
+			["xOffset"] = -388.000244140625,
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
+			["stickyDuration"] = false,
+			["uid"] = "YUj(A7Lv4Hg",
+			["cooldownTextDisabled"] = false,
+			["auto"] = false,
+			["zoom"] = 0,
+			["id"] = "Totem",
+			["width"] = 64,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
+			["config"] = {
+			},
+			["inverse"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["uid"] = "YUj(A7Lv4Hg",
-			["cooldownTextDisabled"] = false,
-			["auto"] = false,
-			["zoom"] = 0,
-			["id"] = "Totem",
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 1,
-			["width"] = 64,
-			["alpha"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -4733,7 +4733,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["cooldown"] = false,
-			["xOffset"] = -388.000244140625,
+			["parent"] = "Sham",
 		},
 		["08 Beckon On You"] = {
 			["iconSource"] = 0,
@@ -4839,8 +4839,6 @@ WeakAurasSaved = {
 				["encounterid"] = "2299",
 				["use_encounterid"] = true,
 			},
-			["authorOptions"] = {
-			},
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Move.ogg",
@@ -4853,7 +4851,33 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["regionType"] = "icon",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 1717715,
+			["uid"] = "wbmGemBDaQv",
+			["semver"] = "1.0.95",
+			["zoom"] = 0.3,
+			["auto"] = false,
+			["width"] = 80,
+			["id"] = "08 Beckon On You",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -4875,30 +4899,6 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 1717715,
-			["uid"] = "wbmGemBDaQv",
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0.3,
-			["semver"] = "1.0.95",
-			["width"] = 80,
-			["id"] = "08 Beckon On You",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["auto"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
@@ -4930,7 +4930,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["anchorPoint"] = "CENTER",
+			["internalVersion"] = 40,
 			["actions"] = {
 				["start"] = {
 				},
@@ -4962,9 +4962,12 @@ WeakAurasSaved = {
 				["groupOffset"] = true,
 			},
 			["borderOffset"] = 5,
-			["xOffset"] = -2.0001220703125,
+			["anchorPoint"] = "CENTER",
 			["selfPoint"] = "BOTTOMLEFT",
 			["id"] = "Sham",
+			["xOffset"] = -2.0001220703125,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -4985,13 +4988,10 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
+			["borderInset"] = 11,
 			["config"] = {
 			},
-			["borderInset"] = 11,
 			["uid"] = "pOz3WZ87aBU",
-			["internalVersion"] = 40,
 			["conditions"] = {
 			},
 			["load"] = {
@@ -5097,12 +5097,6 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["actions"] = {
 				["start"] = {
 				},
@@ -5111,31 +5105,10 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["regionType"] = "icon",
 			["authorOptions"] = {
 			},
-			["desaturate"] = false,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["cooldownEdge"] = false,
-			["config"] = {
-			},
-			["zoom"] = 0.3,
-			["cooldownTextDisabled"] = false,
-			["auto"] = true,
-			["width"] = 60,
-			["id"] = "STAY",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["semver"] = "1.0.10",
-			["uid"] = "Q)H9TzXHHgt",
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["parent"] = "Azshara Decree Helper",
-			["conditions"] = {
-			},
-			["cooldown"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -5156,6 +5129,33 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["cooldownEdge"] = false,
+			["config"] = {
+			},
+			["auto"] = true,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.10",
+			["width"] = 60,
+			["id"] = "STAY",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0.3,
+			["uid"] = "Q)H9TzXHHgt",
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["conditions"] = {
+			},
+			["cooldown"] = false,
+			["desaturate"] = false,
 		},
 		["Freehold Bartender CRIT"] = {
 			["iconSource"] = 0,
@@ -5178,10 +5178,10 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["use_absorbMode"] = true,
 						["use_spell"] = false,
-						["debuffType"] = "HELPFUL",
-						["spell"] = "Caustic Freehold Brew",
 						["spellName"] = "confidence-boosting freehold brew",
 						["sourceName"] = "Rummy Mancomb",
+						["debuffType"] = "HELPFUL",
+						["spell"] = "Caustic Freehold Brew",
 						["type"] = "event",
 						["spellIds"] = {
 						},
@@ -5293,40 +5293,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
 			["cooldownEdge"] = false,
-			["regionType"] = "icon",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["desaturate"] = false,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 135999,
-			["uid"] = "DK8uQrMC(uS",
-			["xOffset"] = 0,
-			["zoom"] = 0.3,
-			["auto"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["id"] = "Freehold Bartender CRIT",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["width"] = 75,
-			["cooldownTextDisabled"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -5346,6 +5315,37 @@ WeakAurasSaved = {
 					["easeStrength"] = 3,
 					["easeType"] = "none",
 				},
+			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 135999,
+			["uid"] = "DK8uQrMC(uS",
+			["zoom"] = 0.3,
+			["cooldownTextDisabled"] = true,
+			["auto"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["id"] = "Freehold Bartender CRIT",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["width"] = 75,
+			["xOffset"] = 0,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["conditions"] = {
 			},
@@ -5442,11 +5442,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twentyfive"] = true,
-						["ten"] = true,
 						["arena"] = true,
-						["twenty"] = true,
+						["ten"] = true,
+						["twentyfive"] = true,
 						["fortyman"] = true,
+						["twenty"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -5456,45 +5456,23 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
 				["use_encounterid"] = false,
 			},
 			["config"] = {
 			},
-			["parent"] = "T23.5: Crucible of Storms",
-			["cooldownEdge"] = false,
-			["regionType"] = "icon",
-			["stickyDuration"] = false,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 237561,
+			["xOffset"] = -37.5,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
-			["width"] = 52,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.1",
-			["frameStrata"] = 1,
-			["id"] = "UN: Piercing Gaze of N'zoth",
-			["auto"] = true,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0.33,
-			["uid"] = "MNx5xSXqnO5",
-			["inverse"] = false,
-			["xOffset"] = -37.5,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
+			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -5515,6 +5493,28 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 237561,
+			["cooldownEdge"] = false,
+			["icon"] = true,
+			["width"] = 52,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.1",
+			["frameStrata"] = 1,
+			["id"] = "UN: Piercing Gaze of N'zoth",
+			["zoom"] = 0.33,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["auto"] = true,
+			["uid"] = "MNx5xSXqnO5",
+			["inverse"] = false,
+			["parent"] = "T23.5: Crucible of Storms",
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["stickyDuration"] = false,
 		},
 		["SPREAD"] = {
 			["iconSource"] = -1,
@@ -5630,38 +5630,38 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["desaturate"] = false,
-			["regionType"] = "icon",
 			["selfPoint"] = "CENTER",
-			["parent"] = "Azshara Decree Helper",
+			["regionType"] = "icon",
+			["icon"] = true,
+			["url"] = "https://wago.io/GrbGKhzKH/11",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["xOffset"] = 0,
 			["config"] = {
 			},
-			["zoom"] = 0.3,
-			["cooldownTextDisabled"] = false,
 			["semver"] = "1.0.10",
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
 			["width"] = 60,
 			["id"] = "SPREAD",
-			["alpha"] = 1,
 			["frameStrata"] = 1,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["auto"] = true,
+			["zoom"] = 0.3,
 			["uid"] = "IrpsDM3hc8s",
 			["inverse"] = false,
-			["icon"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["url"] = "https://wago.io/GrbGKhzKH/11",
+			["parent"] = "Azshara Decree Helper",
 		},
 		["Freehold Bartender"] = {
 			["grow"] = "DOWN",
@@ -5766,7 +5766,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -5778,7 +5778,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -5793,39 +5793,39 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["rowSpace"] = 1,
-			["animate"] = false,
-			["fullCircle"] = true,
-			["scale"] = 1,
 			["stagger"] = 0,
+			["animate"] = false,
+			["gridType"] = "RD",
+			["scale"] = 1,
+			["arcLength"] = 360,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["limit"] = 5,
-			["arcLength"] = 360,
-			["gridType"] = "RD",
+			["rowSpace"] = 1,
+			["radius"] = 200,
 			["constantFactor"] = "RADIUS",
-			["sort"] = "none",
+			["authorOptions"] = {
+			},
 			["borderOffset"] = 16,
 			["borderInset"] = 0,
-			["useLimit"] = false,
+			["sort"] = "none",
 			["id"] = "Freehold Bartender",
-			["frameStrata"] = 1,
 			["gridWidth"] = 5,
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "TOP",
-			["uid"] = "H2DkdQ85Bn5",
+			["useLimit"] = false,
 			["config"] = {
 			},
-			["radius"] = 200,
+			["uid"] = "H2DkdQ85Bn5",
+			["fullCircle"] = true,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["authorOptions"] = {
-			},
+			["selfPoint"] = "TOP",
 		},
 		["Freehold Bartender HASTE"] = {
 			["iconSource"] = 0,
@@ -5848,10 +5848,10 @@ WeakAurasSaved = {
 						["duration"] = "7.5",
 						["use_spell"] = false,
 						["subeventPrefix"] = "SPELL",
-						["sourceName"] = "Rummy Mancomb",
+						["type"] = "event",
 						["use_cloneId"] = false,
 						["debuffType"] = "HELPFUL",
-						["type"] = "event",
+						["sourceName"] = "Rummy Mancomb",
 						["use_sourceName"] = true,
 						["spellIds"] = {
 						},
@@ -5963,40 +5963,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
 			["cooldownEdge"] = false,
-			["regionType"] = "icon",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["desaturate"] = false,
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["displayIcon"] = 135999,
-			["uid"] = "l(Ys)Vm4kEy",
-			["xOffset"] = 0,
-			["zoom"] = 0.3,
-			["auto"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["id"] = "Freehold Bartender HASTE",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["width"] = 75,
-			["cooldownTextDisabled"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -6016,6 +5985,37 @@ WeakAurasSaved = {
 					["easeStrength"] = 3,
 					["easeType"] = "none",
 				},
+			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["displayIcon"] = 135999,
+			["uid"] = "l(Ys)Vm4kEy",
+			["zoom"] = 0.3,
+			["cooldownTextDisabled"] = true,
+			["auto"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["id"] = "Freehold Bartender HASTE",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["width"] = 75,
+			["xOffset"] = 0,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["conditions"] = {
 			},
@@ -6110,11 +6110,11 @@ WeakAurasSaved = {
 				["size"] = {
 					["multi"] = {
 						["flexible"] = true,
-						["twenty"] = true,
-						["ten"] = true,
-						["arena"] = true,
 						["fortyman"] = true,
+						["ten"] = true,
 						["twentyfive"] = true,
+						["twenty"] = true,
+						["arena"] = true,
 					},
 				},
 				["use_zoneId"] = true,
@@ -6124,41 +6124,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2272",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2272",
 				["use_encounterid"] = false,
 			},
-			["stickyDuration"] = false,
 			["authorOptions"] = {
 			},
-			["regionType"] = "icon",
 			["parent"] = "T23.5: Crucible of Storms",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["cooldownEdge"] = false,
-			["config"] = {
-			},
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0.33,
-			["semver"] = "1.0.1",
-			["anchorFrameType"] = "SCREEN",
-			["id"] = "RC: Promises of Power",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["width"] = 52,
-			["auto"] = true,
-			["uid"] = "ab0RHgcmU2g",
-			["inverse"] = false,
+			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -6179,10 +6155,34 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["icon"] = true,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["cooldownEdge"] = false,
+			["config"] = {
+			},
+			["semver"] = "1.0.1",
+			["zoom"] = 0.33,
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["id"] = "RC: Promises of Power",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 52,
+			["cooldownTextDisabled"] = false,
+			["uid"] = "ab0RHgcmU2g",
+			["inverse"] = false,
+			["stickyDuration"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["icon"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Stagger"] = {
 			["iconSource"] = -1,
@@ -6349,19 +6349,19 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["selfPoint"] = "CENTER",
-			["xOffset"] = -345.000061035156,
 			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
 			["auto"] = true,
-			["frameStrata"] = 1,
+			["alpha"] = 1,
 			["id"] = "Stagger",
 			["uid"] = "eQ9w(krTJ(C",
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
 			["width"] = 64,
+			["anchorFrameType"] = "SCREEN",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["zoom"] = 0,
+			["xOffset"] = -345.000061035156,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
@@ -6518,9 +6518,9 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["cooldownTextDisabled"] = false,
 			["id"] = "PetBarbed2",
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 1,
 			["width"] = 64,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
 			["config"] = {
 			},
 			["uid"] = "wzCBKVjFnpu",
@@ -6560,7 +6560,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 					["easeType"] = "none",
 					["duration_type"] = "seconds",
-					["preset"] = "bounceDecay",
+					["scaley"] = 1,
 					["alpha"] = 0,
 					["colorA"] = 1,
 					["y"] = 0,
@@ -6570,7 +6570,7 @@ WeakAurasSaved = {
 					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      local newProgress = ((math.sin(angle) + 1)/2);\n      return r1 + (newProgress * (r2 - r1)),\n           g1 + (newProgress * (g2 - g1)),\n           b1 + (newProgress * (b2 - b1)),\n           a1 + (newProgress * (a2 - a1))\n    end\n  ",
 					["easeStrength"] = 3,
 					["use_color"] = false,
-					["scaley"] = 1,
+					["preset"] = "bounceDecay",
 				},
 				["main"] = {
 					["duration_type"] = "seconds",
@@ -6685,9 +6685,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
 			["parent"] = "Azshara Decree Helper",
-			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -6708,30 +6706,32 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["icon"] = true,
+			["regionType"] = "icon",
+			["url"] = "https://wago.io/GrbGKhzKH/11",
+			["authorOptions"] = {
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["xOffset"] = 0,
 			["uid"] = "tFKLGEkMpIU",
-			["zoom"] = 0.3,
-			["cooldownTextDisabled"] = false,
 			["auto"] = true,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.10",
 			["anchorFrameType"] = "SCREEN",
 			["id"] = "SOAK",
-			["alpha"] = 1,
 			["frameStrata"] = 1,
+			["alpha"] = 1,
 			["width"] = 60,
-			["semver"] = "1.0.10",
+			["zoom"] = 0.3,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["url"] = "https://wago.io/GrbGKhzKH/11",
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 		},
 	},
 	["login_squelch_time"] = 10,
