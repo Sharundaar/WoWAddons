@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0407,
-	["LastPlayerFullName"] = "Sharunite-Ravenholdt",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168347,
@@ -27,9 +24,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178698::::::::51:270::17:3:7217:6771:6652:2:28:747:9:51:::|h[Rainshadow Hauberk]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 159341,
-			["Level"] = 85,
-			["Link"] = "|cffa335ee|Hitem:159341::::::::50:268::16:3:5010:1498:4786::::|h[Hound-Jowl Waistband]|h|r",
+			["ID"] = 178699,
+			["Level"] = 110,
+			["Link"] = "|cff0070dd|Hitem:178699::::::::53:270::17:4:7217:6771:6652:7194:2:28:747:9:53:::|h[Sapgorger Belt]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 169809,
@@ -58,10 +55,10 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178781::::::::53:270::17:4:7217:6771:6652:7193:2:28:747:9:53:::|h[Ritual Commander's Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 158362,
-			["Level"] = 85,
+			["ID"] = 178781,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158362:6111:::::::50:270::16:3:5010:1498:4786::::|h[Lord Waycrest's Signet]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178781::::::::53:270::17:4:7217:6771:6652:7193:2:9:53:28:747:::|h[Ritual Commander's Ring]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 159623,
@@ -81,19 +78,20 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159287::::::::50:268::35:3:5010:1508:4783::::|h[Cloak of Questionable Intent]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 159645,
-			["Level"] = 76,
+			["ID"] = 178737,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:159645:6148:::::::50:268::35:3:5010:1489:4783::::|h[Headcracker of Supplication]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178737::::::::53:270::17:3:7217:6771:6652:2:9:53:28:747:::|h[Amarth's Spellblade]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 158714,
-			["Level"] = 76,
-			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:158714:5965:::::::50:268::35:3:5010:1489:4783::::|h[Swarm's Edge]|h|r",
+			["ID"] = 176797,
+			["Level"] = 95,
+			["Link"] = "|cff1eff00|Hitem:176797::::::::53:270::17:3:6908:6652:1716:2:28:747:9:53:::|h[Ritual Bell of the Harmonious]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Sharunite-Ravenholdt",
 	["Artifacts"] = {
 		[128938] = {
 			["Relics"] = {
@@ -112,6 +110,7 @@ PawnOptions = {
 			["Name"] = "Fu Zan, the Wanderer's Companion",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MONK",

@@ -30,6 +30,7 @@ VER 3 0000000000000001 "kneel" "134331"
 END
 VER 3 0000000000000012 "Lunarlight Bud" "3860396"
 /target Lunarlight Bud
+/script SetRaidTarget("target",8)
 END
 VER 3 000000000000000F "Misdirect Focus" "INV_MISC_QUESTIONMARK"
 #tooltip Misdirection

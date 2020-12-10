@@ -27,6 +27,13 @@ X: 344
 Y: 221
 W: 200
 H: 50
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: LEFT
+X: 152
+Y: 178
+W: 317
+H: 130
 Frame: PLH_LootedItemsFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -34,10 +41,3 @@ X: -288
 Y: 214
 W: 535
 H: 211
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: LEFT
-X: 152
-Y: 178
-W: 192
-H: 62

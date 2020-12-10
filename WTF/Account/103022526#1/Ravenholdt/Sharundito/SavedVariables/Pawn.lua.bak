@@ -35,8 +35,8 @@ PawnOptions = {
 		}, -- [7]
 		{
 			["ID"] = 181189,
-			["Level"] = 155,
-			["Link"] = "|cff0070dd|Hitem:181189::::::::60:254::25:4:6652:1472:5852:6616:1:28:1707:::|h[Darkwing Rebel's Striders]|h|r",
+			["Level"] = 161,
+			["Link"] = "|cff0070dd|Hitem:181189::::::::60:254::26:4:6652:1472:5858:6616:1:28:1707:::|h[Darkwing Rebel's Striders]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 178703,

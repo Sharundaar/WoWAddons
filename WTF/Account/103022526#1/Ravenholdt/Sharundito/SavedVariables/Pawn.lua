@@ -27,9 +27,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178794::::::::60:254::23:4:6807:6652:1498:6646:1:28:749:::|h[Triumphant Combatant's Chainmail]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 178843,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178843::::::::60:254::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Executor's Prideful Girdle]|h|r",
+			["ID"] = 182976,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:182976::::::::60:254::3:5:7189:6652:7194:1472:6646:1:28:751:::|h[Double-Chained Utility Belt]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 179337,
@@ -38,8 +38,8 @@ PawnOptions = {
 		}, -- [7]
 		{
 			["ID"] = 181189,
-			["Level"] = 155,
-			["Link"] = "|cff0070dd|Hitem:181189::::::::60:254::25:4:6652:1472:5852:6616:1:28:1707:::|h[Darkwing Rebel's Striders]|h|r",
+			["Level"] = 161,
+			["Link"] = "|cff0070dd|Hitem:181189::::::::60:254::26:4:6652:1472:5858:6616:1:28:1707:::|h[Darkwing Rebel's Striders]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 178703,
@@ -81,9 +81,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178755::::::::60:254::23:4:6807:6652:1498:6646:1:28:749:::|h[Blighted Margrave's Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 179584,
-			["Level"] = 155,
-			["Link"] = "|cff0070dd|Hitem:179584::::::::60:254::74:4:6652:1472:5852:6616:1:28:2060:::|h[Duskwarder Shortbow]|h|r",
+			["ID"] = 180073,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:180073::::::::60:254::3:4:7189:6652:1498:6646:1:28:807:::|h[Heartstalker's Longbow]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 180794,

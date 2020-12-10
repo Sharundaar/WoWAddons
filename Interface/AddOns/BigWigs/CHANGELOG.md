@@ -1,7 +1,11 @@
 # BigWigs
 
-## [v188.3](https://github.com/BigWigsMods/BigWigs/tree/v188.3) (2020-12-04)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v188.2...v188.3) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
+## [v189.2](https://github.com/BigWigsMods/BigWigs/tree/v189.2) (2020-12-09)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v189.1...v189.2) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
 
-- Plugins/Bars: Temporary (hopefully) workaround for WoW's font loading issue causing initial bars to be blank.  
-- Core: Add some debug to the enable handler  
+- Update zhCN (#872)  
+- CastleNathria/SunKingsSalvation: Add a VerifyEnable for a healed up KT and update add timers  
+- Fix whitespace  
+- CastleNathria/Shriekwing: Update timers  
+- Shadowlands/Mortanis: Fix indentation, add BOSS\_KILL  
+- Shadowlands: Add Mortanis (Worldboss)  

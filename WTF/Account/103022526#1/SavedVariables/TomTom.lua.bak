@@ -20,8 +20,8 @@ TomTomDB = {
 				["closestusecontinent"] = true,
 			},
 			["mapcoords"] = {
-				["playerenable"] = false,
 				["cursorenable"] = false,
+				["playerenable"] = false,
 			},
 			["block"] = {
 				["position"] = {
