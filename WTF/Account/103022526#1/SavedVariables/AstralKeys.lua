@@ -4,12 +4,12 @@ AstralKeys = {
 		["btag"] = "Mikis#1639",
 		["weekly_best"] = 0,
 		["class"] = "ROGUE",
-		["key_level"] = 5,
+		["key_level"] = 7,
 		["unit"] = "Mikistabs-Illidan",
-		["dungeon_id"] = 382,
+		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 51507,
+		["time_stamp"] = 380843,
 		["source"] = "friend",
 	}, -- [1]
 	{
@@ -21,42 +21,43 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 52083,
+		["time_stamp"] = 382374,
+		[5] = 0,
 	}, -- [2]
 	{
 		["btag"] = "kageshi#1708",
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "DEMONHUNTER",
 		["key_level"] = 2,
 		["unit"] = "Akumabi-Ravenholdt",
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 52042,
+		["time_stamp"] = 381436,
 		["source"] = "friend",
 	}, -- [3]
 	{
 		["btag"] = "Nos#1125",
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "PRIEST",
 		["key_level"] = 2,
 		["unit"] = "Nostariel-Ravenholdt",
 		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 51685,
+		["time_stamp"] = 3,
 		["source"] = "friend",
 	}, -- [4]
 	{
 		["btag"] = "Kiwi#1341",
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "MAGE",
 		["key_level"] = 2,
 		["unit"] = "Lilkiwi-Ravenholdt",
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 52059,
+		["time_stamp"] = 3,
 		["source"] = "friend",
 	}, -- [5]
 	{
@@ -68,11 +69,11 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 51374,
+		["time_stamp"] = 309319,
 	}, -- [6]
 	{
 		["btag"] = "Breshinek#1420",
-		["weekly_best"] = 0,
+		["weekly_best"] = 4,
 		["class"] = "SHAMAN",
 		["key_level"] = 2,
 		["unit"] = "Breshinek-Ravenholdt",
@@ -82,6 +83,53 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [7]
+	{
+		["btag"] = "Breshinek#1420",
+		["weekly_best"] = 0,
+		["class"] = "PALADIN",
+		["key_level"] = 2,
+		["unit"] = "Brisminden-Ravenholdt",
+		["dungeon_id"] = 376,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [8]
+	{
+		["btag"] = "kageshi#1708",
+		["weekly_best"] = 8,
+		["class"] = "DRUID",
+		["key_level"] = 6,
+		["unit"] = "Imber-Ravenholdt",
+		["dungeon_id"] = 377,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [9]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "DEMONHUNTER",
+		["key_level"] = 2,
+		["unit"] = "Sharun-Ravenholdt",
+		["dungeon_id"] = 381,
+		["week"] = 177,
+		["faction"] = 1,
+		["time_stamp"] = 360975,
+		[5] = 0,
+	}, -- [10]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 3,
+		["class"] = "MAGE",
+		["key_level"] = 4,
+		["unit"] = "Embar-Ravenholdt",
+		["dungeon_id"] = 376,
+		["week"] = 177,
+		["faction"] = 1,
+		["time_stamp"] = 380430,
+	}, -- [11]
 }
 AstralCharacters = {
 	{
@@ -90,6 +138,12 @@ AstralCharacters = {
 		["faction"] = 1,
 		["unit"] = "Sharundito-Ravenholdt",
 	}, -- [1]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DEMONHUNTER",
+		["unit"] = "Sharun-Ravenholdt",
+		["faction"] = 1,
+	}, -- [2]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,
@@ -102,10 +156,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = true,
 			["party"] = true,
-			["no_key"] = false,
+			["raid"] = true,
 			["guild"] = true,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -184,7 +238,7 @@ AstralMinimap = {
 		},
 		["Sharun - Ravenholdt"] = {
 			["minimap"] = {
-				["minimapPos"] = 140.670363843269,
+				["minimapPos"] = 134.4463964295323,
 			},
 		},
 	},
@@ -199,22 +253,23 @@ AstralLists = {
 	{
 		["name"] = "GUILD",
 		["units"] = {
-			["Las-Ravenholdt"] = true,
 			["Nostariel-Ravenholdt"] = "Nos#1125",
-			["Holykiwi-Ravenholdt"] = "Kiwi#1341",
 			["Suiken-Ravenholdt"] = "kageshi#1708",
-			["Nosfinariel-Ravenholdt"] = true,
-			["Yung-Ravenholdt"] = "kageshi#1708",
 			["Sharun-Ravenholdt"] = true,
-			["Akumabi-Ravenholdt"] = "kageshi#1708",
-			["Lilkiwi-Ravenholdt"] = "Kiwi#1341",
-			["Imber-Ravenholdt"] = true,
+			["Imber-Ravenholdt"] = "kageshi#1708",
+			["Las-Ravenholdt"] = true,
+			["Breshinek-Ravenholdt"] = "Breshinek#1420",
+			["Nosfinariel-Ravenholdt"] = true,
+			["Embar-Ravenholdt"] = true,
+			["Yung-Ravenholdt"] = "kageshi#1708",
+			["Kageshi-Ravenholdt"] = true,
+			["Nostalari-Ravenholdt"] = "Nos#1125",
 			["Leturex-Ravenholdt"] = true,
 			["Sharundito-Ravenholdt"] = true,
-			["Nostalari-Ravenholdt"] = "Nos#1125",
-			["Kageshi-Ravenholdt"] = true,
+			["Lilkiwi-Ravenholdt"] = "Kiwi#1341",
+			["Holykiwi-Ravenholdt"] = "Kiwi#1341",
 			["Brisminden-Ravenholdt"] = "Breshinek#1420",
-			["Breshinek-Ravenholdt"] = "Breshinek#1420",
+			["Akumabi-Ravenholdt"] = "kageshi#1708",
 		},
 	}, -- [1]
 	{

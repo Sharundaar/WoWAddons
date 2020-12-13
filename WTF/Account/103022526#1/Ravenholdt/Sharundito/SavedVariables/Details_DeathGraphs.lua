@@ -90,13 +90,13 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Akumabi",
 			},
-			["Viridian"] = {
+			["Traximandew"] = {
 				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Viridian",
+				["name"] = "Traximandew",
 			},
 			["Dunkie"] = {
 				["class"] = "SHAMAN",
@@ -114,14 +114,6 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Bìshop",
 			},
-			["Khaless"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Khaless",
-			},
 			["Fafafoey"] = {
 				["class"] = "ROGUE",
 				["deaths"] = {
@@ -129,6 +121,14 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 				["name"] = "Fafafoey",
+			},
+			["Sharundito"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sharundito",
 			},
 			["Greenbarn-Illidan"] = {
 				["class"] = "HUNTER",
@@ -178,13 +178,13 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Lilkiwi",
 			},
-			["Traximandew"] = {
-				["class"] = "PALADIN",
+			["Khaless"] = {
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Traximandew",
+				["name"] = "Khaless",
 			},
 			["Pikin-Illidan"] = {
 				["class"] = "HUNTER",
@@ -194,13 +194,13 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Pikin-Illidan",
 			},
-			["Sharundito"] = {
-				["class"] = "HUNTER",
+			["Viridian"] = {
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Sharundito",
+				["name"] = "Viridian",
 			},
 			["Breshinek"] = {
 				["class"] = "SHAMAN",
@@ -406,25 +406,25 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Khaless"] = {
-				["encounters"] = 12,
-				["points"] = 1170,
-				["class"] = "WARRIOR",
+			["Pikpim"] = {
+				["encounters"] = 13,
+				["points"] = 1260,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 					{
-						7, -- [1]
-						151.185999999987, -- [2]
-						"Shoot |cFFFF333337,033|r", -- [3]
+						4, -- [1]
+						58.61899999994785, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,004|r", -- [3]
 					}, -- [1]
 					{
-						9, -- [1]
-						290.1470000001136, -- [2]
-						"Shoot |cFFFF333345,114|r", -- [3]
+						4, -- [1]
+						99.78099999995902, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,003|r", -- [3]
 					}, -- [2]
 					{
-						10, -- [1]
-						146.4599999999628, -- [2]
-						"Shoot |cFFFF333343,952|r", -- [3]
+						6, -- [1]
+						136.283000000054, -- [2]
+						"Deathly Roar |cFFFF33333,240|r", -- [3]
 					}, -- [3]
 				},
 			},
@@ -443,6 +443,13 @@ DeathGraphsDBEndurance = {
 						136.283000000054, -- [2]
 						"Spreadshot |cFFFF33336,655|r", -- [3]
 					}, -- [2]
+				},
+			},
+			["Akumabi"] = {
+				["encounters"] = 12,
+				["points"] = 1200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
 				},
 			},
 			["Dunkie"] = {
@@ -467,43 +474,26 @@ DeathGraphsDBEndurance = {
 					}, -- [3]
 				},
 			},
-			["Pikpim"] = {
-				["encounters"] = 13,
-				["points"] = 1260,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-					{
-						4, -- [1]
-						58.61899999994785, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,004|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						99.78099999995902, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,003|r", -- [3]
-					}, -- [2]
-					{
-						6, -- [1]
-						136.283000000054, -- [2]
-						"Deathly Roar |cFFFF33333,240|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Bìshop"] = {
+			["Khaless"] = {
 				["encounters"] = 12,
-				["points"] = 1180,
-				["class"] = "WARLOCK",
+				["points"] = 1170,
+				["class"] = "WARRIOR",
 				["deaths"] = {
+					{
+						7, -- [1]
+						151.185999999987, -- [2]
+						"Shoot |cFFFF333337,033|r", -- [3]
+					}, -- [1]
 					{
 						9, -- [1]
-						161.3060000000987, -- [2]
-						"Sinseeker (DoT) |cFFFF33337,798|r", -- [3]
-					}, -- [1]
-					{
-						11, -- [1]
-						227.7020000000484, -- [2]
-						"Sinseeker (DoT) |cFFFF33337,798|r", -- [3]
+						290.1470000001136, -- [2]
+						"Shoot |cFFFF333345,114|r", -- [3]
 					}, -- [2]
+					{
+						10, -- [1]
+						146.4599999999628, -- [2]
+						"Shoot |cFFFF333343,952|r", -- [3]
+					}, -- [3]
 				},
 			},
 			["Traximandew"] = {
@@ -558,18 +548,6 @@ DeathGraphsDBEndurance = {
 					}, -- [9]
 				},
 			},
-			["Adante"] = {
-				["encounters"] = 12,
-				["points"] = 1190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						109.9820000000764, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,041|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Manaku-TwistingNether"] = {
 				["encounters"] = 12,
 				["points"] = 1190,
@@ -580,6 +558,23 @@ DeathGraphsDBEndurance = {
 						106.2280000001192, -- [2]
 						"Spreadshot |cFFFF33336,897|r", -- [3]
 					}, -- [1]
+				},
+			},
+			["Fafafoey"] = {
+				["encounters"] = 12,
+				["points"] = 1180,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						100.2960000000894, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,028|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						154.9240000001155, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,027|r", -- [3]
+					}, -- [2]
 				},
 			},
 			["Greenbarn-Illidan"] = {
@@ -644,11 +639,16 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Akumabi"] = {
+			["Adante"] = {
 				["encounters"] = 12,
-				["points"] = 1200,
-				["class"] = "DEMONHUNTER",
+				["points"] = 1190,
+				["class"] = "PALADIN",
 				["deaths"] = {
+					{
+						2, -- [1]
+						109.9820000000764, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,041|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Pikin-Illidan"] = {
@@ -658,20 +658,20 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Fafafoey"] = {
+			["Bìshop"] = {
 				["encounters"] = 12,
 				["points"] = 1180,
-				["class"] = "ROGUE",
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
-						1, -- [1]
-						100.2960000000894, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,028|r", -- [3]
+						9, -- [1]
+						161.3060000000987, -- [2]
+						"Sinseeker (DoT) |cFFFF33337,798|r", -- [3]
 					}, -- [1]
 					{
-						5, -- [1]
-						154.9240000001155, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,027|r", -- [3]
+						11, -- [1]
+						227.7020000000484, -- [2]
+						"Sinseeker (DoT) |cFFFF33337,798|r", -- [3]
 					}, -- [2]
 				},
 			},
@@ -767,14 +767,14 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Dunkie"] = {
+			["Pikpim"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
 			},
-			["Pikpim"] = {
+			["Dunkie"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "SHAMAN",
@@ -793,10 +793,10 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Suhdude"] = {
+			["Akumabi"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "ROGUE",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -856,10 +856,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Akumabi"] = {
+			["Fafafoey"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DEMONHUNTER",
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
 			},
@@ -870,7 +870,7 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Fafafoey"] = {
+			["Suhdude"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "ROGUE",
@@ -5637,7 +5637,7 @@ DeathGraphsDBGraph = {
 			[57] = {
 				1607482099, -- [1]
 			},
-			[350] = {
+			[315] = {
 				1607485944, -- [1]
 			},
 			[162] = {
@@ -5646,15 +5646,6 @@ DeathGraphsDBGraph = {
 			[98] = {
 				1607481196, -- [1]
 			},
-			[60] = {
-				1607483064, -- [1]
-			},
-			[58] = {
-				1607482427, -- [1]
-			},
-			[227] = {
-				1607485378, -- [1]
-			},
 			[133] = {
 				1607481196, -- [1]
 				1607481196, -- [2]
@@ -5662,11 +5653,20 @@ DeathGraphsDBGraph = {
 			[115] = {
 				1607482099, -- [1]
 			},
-			[315] = {
+			[227] = {
+				1607485378, -- [1]
+			},
+			[99] = {
+				1607482427, -- [1]
+			},
+			[58] = {
+				1607482427, -- [1]
+			},
+			[350] = {
 				1607485944, -- [1]
 			},
-			[237] = {
-				1607485378, -- [1]
+			[147] = {
+				1607484977, -- [1]
 			},
 			[100] = {
 				1607481196, -- [1]
@@ -5680,33 +5680,33 @@ DeathGraphsDBGraph = {
 				1607483064, -- [3]
 				1607483064, -- [4]
 			},
-			[149] = {
-				1607484977, -- [1]
-			},
-			[51] = {
-				1607482099, -- [1]
-			},
-			[147] = {
-				1607484977, -- [1]
-			},
-			[138] = {
-				1607483064, -- [1]
-			},
 			[111] = {
 				1607481196, -- [1]
 				1607482427, -- [2]
 			},
+			[51] = {
+				1607482099, -- [1]
+			},
 			[292] = {
 				1607484583, -- [1]
+			},
+			[138] = {
+				1607483064, -- [1]
 			},
 			[290] = {
 				1607484583, -- [1]
 			},
+			[161] = {
+				1607484583, -- [1]
+			},
+			[237] = {
+				1607485378, -- [1]
+			},
 			[339] = {
 				1607485944, -- [1]
 			},
-			[161] = {
-				1607484583, -- [1]
+			[60] = {
+				1607483064, -- [1]
 			},
 			[141] = {
 				1607481682, -- [1]
@@ -5729,11 +5729,11 @@ DeathGraphsDBGraph = {
 			[347] = {
 				1607485944, -- [1]
 			},
-			[109] = {
+			[137] = {
 				1607481682, -- [1]
 			},
-			[99] = {
-				1607482427, -- [1]
+			[109] = {
+				1607481682, -- [1]
 			},
 			[61] = {
 				1607483990, -- [1]
@@ -5741,8 +5741,8 @@ DeathGraphsDBGraph = {
 			[146] = {
 				1607484977, -- [1]
 			},
-			[137] = {
-				1607481682, -- [1]
+			[149] = {
+				1607484977, -- [1]
 			},
 			[153] = {
 				1607483607, -- [1]

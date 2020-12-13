@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0407,
-	["LastPlayerFullName"] = "Sharun-Ravenholdt",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178691,
@@ -58,22 +55,22 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178869::::::::60:577::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Fleshfused Circle]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 178824,
-			["Level"] = 158,
+			["ID"] = 178781,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:178824::::::::60:577::1:5:6805:6652:7193:1472:4785:1:28:747:::|h[Signet of the False Accuser]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178781::::::::60:577::23:5:6807:6652:7193:1498:6646:1:28:749:::|h[Ritual Commander's Ring]|h|r",
 		}, -- [12]
+		{
+			["ID"] = 178742,
+			["Level"] = 184,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:178742::::::::60:577::23:4:6807:6652:1498:6646:1:28:749:::|h[Bottled Flayedwing Toxin]|h|r",
+		}, -- [13]
 		{
 			["ID"] = 184840,
 			["Level"] = 155,
-			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:184840::::::::60:577::27:4:6652:1472:5852:6616:1:28:1707:::|h[Hymnal of the Path]|h|r",
-		}, -- [13]
-		{
-			["ID"] = 173349,
-			["Level"] = 146,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:173349::::::::60:577::11:1:6706:2:9:60:28:1707:::|h[Misfiring Centurion Controller]|h|r",
+			["Link"] = "|cff0070dd|Hitem:184840::::::::60:577::27:4:6652:1472:5852:6616:1:28:1707:::|h[Hymnal of the Path]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 178755,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178857::::::::60:577::1:4:6805:6652:1472:4785:1:28:2044:::|h[Stone General's Edge]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Sharun-Ravenholdt",
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {

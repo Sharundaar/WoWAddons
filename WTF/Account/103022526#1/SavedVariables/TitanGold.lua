@@ -18,7 +18,7 @@ GoldSave = {
 	["Sharundito_Ravenholdt::Horde"] = {
 		["show"] = true,
 		["name"] = "Sharundito",
-		["gold"] = 511287685,
+		["gold"] = 614690896,
 	},
 	["Sharundaar_Ravenholdt::Horde"] = {
 		["show"] = true,
@@ -28,6 +28,6 @@ GoldSave = {
 	["Sharun_Ravenholdt::Horde"] = {
 		["show"] = true,
 		["name"] = "Sharun",
-		["gold"] = 1413068812,
+		["gold"] = 1570208992,
 	},
 }

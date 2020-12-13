@@ -262,10 +262,10 @@ BeanCounterDBSettings = {
 			["tasks.prunePostedDB"] = 1606877084,
 			["mailbox"] = {
 				{
-					["time"] = 29.9997806549072,
-					["sender"] = "Auction House",
 					["subject"] = "Auction won: Gloom Dust (103)",
 					["read"] = 2,
+					["time"] = 29.9997806549072,
+					["sender"] = "Auction House",
 				}, -- [1]
 			},
 		},
@@ -298,10 +298,10 @@ BeanCounterDBSettings = {
 			["tasks.prunePostedDB"] = 1606696139,
 			["mailbox"] = {
 				{
-					["time"] = 29.9999313354492,
-					["sender"] = "Auction House",
 					["subject"] = "Auction won: Umbra Shard (5)",
 					["read"] = 2,
+					["time"] = 29.9999313354492,
+					["sender"] = "Auction House",
 				}, -- [1]
 			},
 		},

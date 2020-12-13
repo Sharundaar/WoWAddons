@@ -1,6 +1,10 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0407,
+	["LastPlayerFullName"] = "Sharun-Ravenholdt",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178691,
@@ -90,10 +94,6 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178857::::::::60:577::1:4:6805:6652:1472:4785:1:28:2044:::|h[Stone General's Edge]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Sharun-Ravenholdt",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {

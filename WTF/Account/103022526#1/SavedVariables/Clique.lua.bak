@@ -22,9 +22,9 @@ CliqueDB3 = {
 		},
 		["Sharundito - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharundito - Ravenholdt",
-			["fastooc"] = false,
 			["spec3_profileKey"] = "Sharundito - Ravenholdt",
 			["downclick"] = false,
+			["fastooc"] = false,
 			["specswap"] = false,
 			["spec2_profileKey"] = "Sharundito - Ravenholdt",
 		},
@@ -40,8 +40,8 @@ CliqueDB3 = {
 			["spec1_profileKey"] = "Sharun - Ravenholdt",
 			["spec2_profileKey"] = "Sharun - Ravenholdt",
 			["downclick"] = false,
-			["fastooc"] = false,
 			["specswap"] = false,
+			["fastooc"] = false,
 		},
 	},
 	["profileKeys"] = {
