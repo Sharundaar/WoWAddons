@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "Misdirect Brian" "132150"
+/target Imber
+/cast Misdirection
+/targetlasttarget
+END

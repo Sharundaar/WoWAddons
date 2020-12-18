@@ -2,7 +2,7 @@ Version: 1
 Frame: PawnUIFrame
 FrameLevel: 1
 Anchor: CENTER
-X: -243
+X: -244
 Y: 134
 W: 800
 H: 525
@@ -25,5 +25,5 @@ FrameLevel: 1
 Anchor: CENTER
 X: -105
 Y: 108
-W: 338
-H: 102
+W: 247
+H: 88

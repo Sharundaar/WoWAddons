@@ -3,8 +3,8 @@ AtlasDB = {
 	["profileKeys"] = {
 		["Sharundaar - Ravenholdt"] = "Default",
 		["Sharunite - Ravenholdt"] = "Default",
-		["Sharundito - Ravenholdt"] = "Default",
 		["Sharun - Ravenholdt"] = "Default",
+		["Sharundito - Ravenholdt"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

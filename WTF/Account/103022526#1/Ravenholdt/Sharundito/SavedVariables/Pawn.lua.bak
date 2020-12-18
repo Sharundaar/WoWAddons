@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0407,
+	["LastVersion"] = 2.0408,
+	["LastPlayerFullName"] = "Sharundito-Ravenholdt",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178799,
@@ -9,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 178827,
-			["Level"] = 171,
-			["Link"] = "|cff0070dd|Hitem:178827::::::::60:254::2:5:6806:6652:7194:1485:4785:1:28:748:::|h[Sin Stained Pendant]|h|r",
+			["Level"] = 210,
+			["Link"] = "|cffa335ee|Hitem:178827::::::::60:254::35:6:7205:6652:7193:1501:5868:6646::::|h[Sin Stained Pendant]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 172327,
@@ -61,16 +64,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178869::::::::60:254::23:5:6807:6652:7193:1498:6646:1:28:749:::|h[Fleshfused Circle]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 179356,
-			["Level"] = 184,
+			["ID"] = 178742,
+			["Level"] = 200,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:179356::::::::60:254::23:4:6807:6652:1498:6646:1:28:2044:::|h[Shadowgrasp Totem]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178742::::::::60:254::16:5:7207:6652:1501:5858:6646:1:28:1279:::|h[Bottled Flayedwing Toxin]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 178769,
-			["Level"] = 171,
+			["ID"] = 179356,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:178769::::::::60:254::2:4:6806:6652:1485:4785:1:28:748:::|h[Infinitely Divisible Ooze]|h|r",
+			["Link"] = "|cffa335ee|Hitem:179356::::::::60:254::23:4:6807:6652:1498:6646:1:28:2044:::|h[Shadowgrasp Totem]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 178755,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:180794::::::::60:254:::3:6908:6652:1676:2:9:60:28:1707:::|h[Gore-Smudged Shortsword of the Quickblade]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Sharundito-Ravenholdt",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
