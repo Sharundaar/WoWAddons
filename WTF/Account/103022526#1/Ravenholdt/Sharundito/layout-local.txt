@@ -1,4 +1,11 @@
 Version: 1
+Frame: FloatingGarrisonFollowerTooltip
+FrameLevel: 1
+Anchor: BOTTOM
+X: -25
+Y: 121
+W: 260
+H: 150
 Frame: PawnUIFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -23,7 +30,7 @@ H: 50
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
-X: -105
-Y: 108
-W: 247
-H: 88
+X: -375
+Y: 135
+W: 267
+H: 114

@@ -18,7 +18,7 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Range"] = {
+		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
@@ -46,7 +46,7 @@ Quartz3DB = {
 		},
 		["Mirror"] = {
 		},
-		["EnemyCasts"] = {
+		["Range"] = {
 		},
 		["Latency"] = {
 		},
@@ -55,10 +55,10 @@ Quartz3DB = {
 		["Sharundaar - Ravenholdt"] = "Default",
 		["Sharunite - Ravenholdt"] = "Default",
 		["Sharunlost - Ravenholdt"] = "Default",
-		["Sharun - Ravenholdt"] = "Default",
+		["Sharillidan - Ravenholdt"] = "Default",
 		["Shalazar - Ravenholdt"] = "Default",
 		["Sharundito - Ravenholdt"] = "Default",
-		["Sharillidan - Ravenholdt"] = "Default",
+		["Sharun - Ravenholdt"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

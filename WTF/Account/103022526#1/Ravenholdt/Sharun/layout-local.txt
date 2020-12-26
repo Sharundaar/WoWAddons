@@ -9,7 +9,14 @@ H: 50
 Frame: PLH_LootedItemsFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -153
-Y: -104
+X: -56
+Y: -56
 W: 400
 H: 140
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: -192
+Y: -117
+W: 230
+H: 62

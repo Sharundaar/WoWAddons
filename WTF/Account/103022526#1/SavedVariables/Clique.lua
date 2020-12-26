@@ -7,34 +7,34 @@ CliqueDB3 = {
 			["alerthidden"] = true,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = true,
-			["spec2_profileKey"] = "Sharundaar - Ravenholdt",
 			["spec3_profileKey"] = "Sharundaar - Ravenholdt",
+			["spec2_profileKey"] = "Sharundaar - Ravenholdt",
+			["specswap"] = true,
 		},
 		["Sharunite - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharunite - Ravenholdt",
-			["spec3_profileKey"] = "Sharunite - Ravenholdt",
+			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Sharunite - Ravenholdt",
+			["spec3_profileKey"] = "Sharunite - Ravenholdt",
 			["alerthidden"] = true,
+			["spec2_profileKey"] = "Sharunite - Ravenholdt",
 		},
 		["Sharundito - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharundito - Ravenholdt",
 			["fastooc"] = false,
 			["spec3_profileKey"] = "Sharundito - Ravenholdt",
 			["downclick"] = false,
-			["specswap"] = false,
 			["spec2_profileKey"] = "Sharundito - Ravenholdt",
+			["specswap"] = false,
 		},
 		["Shalazar - Ravenholdt"] = {
 			["spec1_profileKey"] = "Shalazar - Ravenholdt",
 			["spec2_profileKey"] = "Shalazar - Ravenholdt",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Shalazar - Ravenholdt",
 			["specswap"] = false,
+			["spec3_profileKey"] = "Shalazar - Ravenholdt",
 		},
 		["Sharun - Ravenholdt"] = {
 			["spec1_profileKey"] = "Sharun - Ravenholdt",
@@ -48,10 +48,10 @@ CliqueDB3 = {
 		["Sharundaar - Ravenholdt"] = "Sharundaar - Ravenholdt",
 		["Sharunite - Ravenholdt"] = "Sharunite - Ravenholdt",
 		["Sharunlost - Ravenholdt"] = "Sharunlost - Ravenholdt",
-		["Sharun - Ravenholdt"] = "Sharun - Ravenholdt",
+		["Sharillidan - Ravenholdt"] = "Sharillidan - Ravenholdt",
 		["Shalazar - Ravenholdt"] = "Shalazar - Ravenholdt",
 		["Sharundito - Ravenholdt"] = "Sharundito - Ravenholdt",
-		["Sharillidan - Ravenholdt"] = "Sharillidan - Ravenholdt",
+		["Sharun - Ravenholdt"] = "Sharun - Ravenholdt",
 	},
 	["profiles"] = {
 		["Sharundaar - Ravenholdt"] = {
@@ -115,10 +115,10 @@ CliqueDB3 = {
 		["Sharunite - Ravenholdt"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -170,10 +170,10 @@ CliqueDB3 = {
 		["Sharunlost - Ravenholdt"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -186,7 +186,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Sharun - Ravenholdt"] = {
+		["Sharillidan - Ravenholdt"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -208,10 +208,10 @@ CliqueDB3 = {
 		["Shalazar - Ravenholdt"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -227,10 +227,10 @@ CliqueDB3 = {
 		["Sharundito - Ravenholdt"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -243,7 +243,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Sharillidan - Ravenholdt"] = {
+		["Sharun - Ravenholdt"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",

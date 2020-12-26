@@ -5,192 +5,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Sun King's Salvation",
 		["id"] = 2422,
-		["player_db"] = {
-			["Ishata-Zul'jin"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Ishata-Zul'jin",
-				["overall"] = {
-				},
-			},
-			["Akumabi"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Akumabi",
-				["overall"] = {
-				},
-			},
-			["Viridian"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Viridian",
-				["class"] = "PALADIN",
-			},
-			["Franold-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Franold-Illidan",
-				["overall"] = {
-				},
-			},
-			["Mikistabs-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Mikistabs-Illidan",
-				["overall"] = {
-				},
-			},
-			["Pikpim"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Pikpim",
-				["overall"] = {
-				},
-			},
-			["Suhdude"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Suhdude",
-				["overall"] = {
-				},
-			},
-			["Dunkie"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Dunkie",
-				["overall"] = {
-				},
-			},
-			["Bìshop"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bìshop",
-				["class"] = "WARLOCK",
-			},
-			["Khaless"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khaless",
-				["overall"] = {
-				},
-			},
-			["Fafafoey"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Fafafoey",
-				["class"] = "ROGUE",
-			},
-			["Manaku-TwistingNether"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Manaku-TwistingNether",
-				["class"] = "MONK",
-			},
-			["Stratagem"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Stratagem",
-				["class"] = "PALADIN",
-			},
-			["Greenbarn-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Greenbarn-Illidan",
-				["overall"] = {
-				},
-			},
-			["Nostariel"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Nostariel",
-				["overall"] = {
-				},
-			},
-			["Las"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Las",
-				["overall"] = {
-				},
-			},
-			["Traximandew"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Traximandew",
-				["class"] = "PALADIN",
-			},
-			["Detherian-EmeraldDream"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Detherian-EmeraldDream",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Lilkiwi"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Lilkiwi",
-				["overall"] = {
-				},
-			},
-			["Sharundito"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Sharundito",
-				["overall"] = {
-				},
-			},
-			["Pikin-Illidan"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Pikin-Illidan",
-				["class"] = "HUNTER",
-			},
-			["Imber"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Imber",
-				["class"] = "DRUID",
-			},
-			["Breshinek"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Breshinek",
-				["class"] = "SHAMAN",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 3,
@@ -203,90 +17,22 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["encounter"] = "Sun King's Salvation",
 		},
-		["diff"] = 14,
-	},
-	["241814"] = {
-		["hash"] = "241814",
-		["type"] = "deaths",
-		["name"] = "Huntsman Altimor",
-		["id"] = 2418,
-		["diff"] = 14,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 4,
-			["zone"] = "Castle Nathria",
-			["id"] = 2418,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Huntsman Altimor",
-			["encounter"] = "Huntsman Altimor",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 		["player_db"] = {
-			["Semiramis"] = {
-				["name"] = "Semiramis",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Clypse"] = {
-				["name"] = "Clypse",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
 			["Ishata-Zul'jin"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Ishata-Zul'jin",
-				["class"] = "PALADIN",
 			},
-			["Pikpim"] = {
-				["name"] = "Pikpim",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
+			["Akumabi"] = {
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-			},
-			["Adante"] = {
-				["name"] = "Adante",
-				["class"] = "PALADIN",
 				["overall"] = {
 				},
-				["deaths"] = {
-				},
-			},
-			["Messtrosity"] = {
-				["name"] = "Messtrosity",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Breshinek"] = {
-				["name"] = "Breshinek",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Mikistabs-Illidan"] = {
-				["name"] = "Mikistabs-Illidan",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
+				["name"] = "Akumabi",
 			},
 			["Viridian"] = {
 				["name"] = "Viridian",
@@ -296,37 +42,53 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Suhdude"] = {
-				["name"] = "Suhdude",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
+			["Franold-Illidan"] = {
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Franold-Illidan",
 			},
-			["Akumabi"] = {
-				["name"] = "Akumabi",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
+			["Mikistabs-Illidan"] = {
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Mikistabs-Illidan",
+			},
+			["Pikpim"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Pikpim",
+			},
+			["Suhdude"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Suhdude",
 			},
 			["Dunkie"] = {
-				["name"] = "Dunkie",
 				["class"] = "SHAMAN",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Dunkie",
 			},
 			["Khaless"] = {
-				["name"] = "Khaless",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Khaless",
 			},
 			["Bìshop"] = {
 				["name"] = "Bìshop",
@@ -336,13 +98,21 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Sharundito"] = {
-				["name"] = "Sharundito",
-				["class"] = "HUNTER",
+			["Manaku-TwistingNether"] = {
+				["name"] = "Manaku-TwistingNether",
+				["class"] = "MONK",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
+			},
+			["Sharundito"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sharundito",
 			},
 			["Fafafoey"] = {
 				["name"] = "Fafafoey",
@@ -353,32 +123,32 @@ DeathGraphsDBDeaths = {
 				},
 			},
 			["Greenbarn-Illidan"] = {
-				["name"] = "Greenbarn-Illidan",
 				["class"] = "HUNTER",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Greenbarn-Illidan",
 			},
 			["Nostariel"] = {
-				["name"] = "Nostariel",
 				["class"] = "PRIEST",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Nostariel",
 			},
 			["Las"] = {
-				["name"] = "Las",
 				["class"] = "DRUID",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Las",
 			},
-			["Manaku-TwistingNether"] = {
-				["name"] = "Manaku-TwistingNether",
-				["class"] = "MONK",
+			["Traximandew"] = {
+				["name"] = "Traximandew",
+				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -393,15 +163,15 @@ DeathGraphsDBDeaths = {
 				},
 			},
 			["Lilkiwi"] = {
-				["name"] = "Lilkiwi",
 				["class"] = "MAGE",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Lilkiwi",
 			},
-			["Traximandew"] = {
-				["name"] = "Traximandew",
+			["Stratagem"] = {
+				["name"] = "Stratagem",
 				["class"] = "PALADIN",
 				["overall"] = {
 				},
@@ -416,85 +186,159 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Unholy"] = {
-				["name"] = "Unholy",
-				["class"] = "DEATHKNIGHT",
+			["Imber"] = {
+				["name"] = "Imber",
+				["class"] = "DRUID",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-			["Franold-Illidan"] = {
+			["Breshinek"] = {
+				["name"] = "Breshinek",
+				["class"] = "SHAMAN",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Franold-Illidan",
-				["class"] = "SHAMAN",
 			},
 		},
+		["diff"] = 14,
 	},
-	["242614"] = {
-		["hash"] = "242614",
+	["241814"] = {
+		["hash"] = "241814",
 		["type"] = "deaths",
-		["name"] = "The Council of Blood",
-		["id"] = 2426,
+		["name"] = "Huntsman Altimor",
+		["id"] = 2418,
+		["diff"] = 14,
 		["player_db"] = {
-			["Ishata-Zul'jin"] = {
+			["Semiramis"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
-				["name"] = "Ishata-Zul'jin",
+				["name"] = "Semiramis",
+				["class"] = "ROGUE",
+			},
+			["Clypse"] = {
 				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Clypse",
+				["class"] = "DEMONHUNTER",
+			},
+			["Ishata-Zul'jin"] = {
+				["name"] = "Ishata-Zul'jin",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 			["Pikpim"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Pikpim",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Pikpim",
+				["class"] = "SHAMAN",
 			},
 			["Adante"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Adante",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Adante",
+				["class"] = "PALADIN",
 			},
 			["Messtrosity"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Messtrosity",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Messtrosity",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Imber"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Imber",
+				["overall"] = {
+				},
+			},
+			["Velerolas-Thrall"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Velerolas-Thrall",
+				["overall"] = {
+				},
+			},
+			["Breshinek"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Breshinek",
+				["class"] = "SHAMAN",
+			},
+			["Viridian"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Viridian",
+				["class"] = "PALADIN",
 			},
 			["Mikistabs-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Mikistabs-Illidan",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Mikistabs-Illidan",
+				["class"] = "ROGUE",
 			},
 			["Suhdude"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Suhdude",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Suhdude",
+				["class"] = "ROGUE",
+			},
+			["Traximandew"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Traximandew",
+				["class"] = "PALADIN",
+			},
+			["Bìshop"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Bìshop",
+				["class"] = "WARLOCK",
+			},
+			["Khaless"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Khaless",
+				["class"] = "WARRIOR",
 			},
 			["Dunkie"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Dunkie",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Dunkie",
+				["class"] = "SHAMAN",
 			},
 			["Elstermaël-Zul'jin"] = {
 				["deaths"] = {
@@ -505,78 +349,120 @@ DeathGraphsDBDeaths = {
 				},
 			},
 			["Sharundito"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 				["name"] = "Sharundito",
-				["overall"] = {
-				},
-			},
-			["Greenbarn-Illidan"] = {
-				["deaths"] = {
-				},
 				["class"] = "HUNTER",
-				["name"] = "Greenbarn-Illidan",
-				["overall"] = {
-				},
-			},
-			["Nostariel"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Nostariel",
-				["overall"] = {
-				},
-			},
-			["Las"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Las",
-				["overall"] = {
-				},
-			},
-			["Lilkiwi"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Lilkiwi",
-				["overall"] = {
-				},
-			},
-			["Franold-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Franold-Illidan",
-				["overall"] = {
-				},
-			},
-			["Khaless"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khaless",
-				["overall"] = {
-				},
-			},
-			["Akumabi"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Akumabi",
-				["overall"] = {
-				},
 			},
 			["Manaku-TwistingNether"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 				["name"] = "Manaku-TwistingNether",
+				["class"] = "MONK",
+			},
+			["Greenbarn-Illidan"] = {
 				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Greenbarn-Illidan",
+				["class"] = "HUNTER",
+			},
+			["Nostariel"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Nostariel",
+				["class"] = "PRIEST",
+			},
+			["Las"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Las",
+				["class"] = "DRUID",
+			},
+			["Fafafoey"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Fafafoey",
+				["class"] = "ROGUE",
+			},
+			["Detherian-EmeraldDream"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Detherian-EmeraldDream",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Lilkiwi"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Lilkiwi",
+				["class"] = "MAGE",
+			},
+			["Akumabi"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Akumabi",
+				["class"] = "DEMONHUNTER",
+			},
+			["Pikin-Illidan"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Pikin-Illidan",
+				["class"] = "HUNTER",
+			},
+			["Unholy"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Unholy",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Franold-Illidan"] = {
+				["name"] = "Franold-Illidan",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 4,
+			["zone"] = "Castle Nathria",
+			["id"] = 2418,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Huntsman Altimor",
+			["encounter"] = "Huntsman Altimor",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
+		},
+	},
+	["242614"] = {
+		["hash"] = "242614",
+		["type"] = "deaths",
+		["name"] = "The Council of Blood",
+		["id"] = 2426,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 7,
@@ -589,102 +475,178 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["encounter"] = "The Council of Blood",
 		},
-		["diff"] = 14,
-	},
-	["239314"] = {
-		["hash"] = "239314",
-		["type"] = "deaths",
-		["name"] = "Shriekwing",
-		["id"] = 2393,
-		["diff"] = 14,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 1,
-			["zone"] = "Castle Nathria",
-			["id"] = 2398,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Shriekwing",
-			["encounter"] = "Shriekwing",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 		["player_db"] = {
-			["Dunkie"] = {
+			["Ishata-Zul'jin"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ishata-Zul'jin",
+			},
+			["Pikpim"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Pikpim",
+			},
+			["Velerolas-Thrall"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Velerolas-Thrall",
+				["overall"] = {
+				},
+			},
+			["Adante"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Adante",
+			},
+			["Messtrosity"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Messtrosity",
+			},
+			["Franold-Illidan"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Franold-Illidan",
+			},
+			["Akumabi"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Akumabi",
+			},
+			["Mikistabs-Illidan"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Mikistabs-Illidan",
+			},
+			["Suhdude"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Suhdude",
+			},
+			["Louxi-Thrall"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Louxi-Thrall",
+				["overall"] = {
+				},
+			},
+			["Stratagem"] = {
+				["name"] = "Stratagem",
+				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Dunkie",
-				["class"] = "SHAMAN",
 			},
-			["Clypse"] = {
-				["name"] = "Clypse",
-				["class"] = "DEMONHUNTER",
+			["Traximandew"] = {
+				["name"] = "Traximandew",
+				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
 			["Khaless"] = {
-				["name"] = "Khaless",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
-			},
-			["Nostariel"] = {
-				["name"] = "Nostariel",
-				["class"] = "PRIEST",
 				["overall"] = {
 				},
-				["deaths"] = {
-				},
-			},
-			["Franold-Illidan"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Franold-Illidan",
-				["class"] = "SHAMAN",
+				["name"] = "Khaless",
 			},
 			["Manaku-TwistingNether"] = {
-				["name"] = "Manaku-TwistingNether",
 				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Manaku-TwistingNether",
+			},
+			["Dunkie"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Dunkie",
+			},
+			["Elstermaël-Zul'jin"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Elstermaël-Zul'jin",
+			},
+			["Cransdh-Illidan"] = {
+				["name"] = "Cransdh-Illidan",
+				["class"] = "DEMONHUNTER",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
+			},
+			["Sharundito"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sharundito",
 			},
 			["Greenbarn-Illidan"] = {
-				["overall"] = {
-				},
+				["class"] = "HUNTER",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Greenbarn-Illidan",
-				["class"] = "HUNTER",
 			},
-			["Breshinek"] = {
-				["name"] = "Breshinek",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
+			["Nostariel"] = {
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Nostariel",
 			},
 			["Las"] = {
-				["name"] = "Las",
 				["class"] = "DRUID",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Las",
 			},
-			["Viridian"] = {
-				["name"] = "Viridian",
-				["class"] = "PALADIN",
+			["Bìshop"] = {
+				["name"] = "Bìshop",
+				["class"] = "WARLOCK",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -699,45 +661,211 @@ DeathGraphsDBDeaths = {
 				},
 			},
 			["Lilkiwi"] = {
-				["name"] = "Lilkiwi",
 				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lilkiwi",
+			},
+			["Fafafoey"] = {
+				["name"] = "Fafafoey",
+				["class"] = "ROGUE",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-			["Bìshop"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bìshop",
-				["class"] = "WARLOCK",
-			},
-			["Sharundito"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Sharundito",
+			["Pikin-Illidan"] = {
+				["name"] = "Pikin-Illidan",
 				["class"] = "HUNTER",
-			},
-			["Stratagem"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Stratagem",
+			},
+			["Viridian"] = {
+				["name"] = "Viridian",
 				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Imber"] = {
+				["name"] = "Imber",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 14,
+	},
+	["239314"] = {
+		["hash"] = "239314",
+		["type"] = "deaths",
+		["name"] = "Shriekwing",
+		["id"] = 2393,
+		["diff"] = 14,
+		["player_db"] = {
+			["Clypse"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Clypse",
+				["class"] = "DEMONHUNTER",
+			},
+			["Franold-Illidan"] = {
+				["name"] = "Franold-Illidan",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Viridian"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Viridian",
+				["class"] = "PALADIN",
+			},
+			["Louxi-Thrall"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Louxi-Thrall",
+				["overall"] = {
+				},
 			},
 			["Traximandew"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
 				["name"] = "Traximandew",
+				["class"] = "PALADIN",
+			},
+			["Bìshop"] = {
+				["name"] = "Bìshop",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Fafafoey"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Fafafoey",
+				["overall"] = {
+				},
+			},
+			["Stratagem"] = {
+				["name"] = "Stratagem",
 				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
+			["Greenbarn-Illidan"] = {
+				["name"] = "Greenbarn-Illidan",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Nostariel"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Nostariel",
+				["class"] = "PRIEST",
+			},
+			["Las"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Las",
+				["class"] = "DRUID",
+			},
+			["Dunkie"] = {
+				["name"] = "Dunkie",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Detherian-EmeraldDream"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Detherian-EmeraldDream",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Lilkiwi"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Lilkiwi",
+				["class"] = "MAGE",
+			},
+			["Khaless"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Khaless",
+				["class"] = "WARRIOR",
+			},
+			["Manaku-TwistingNether"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Manaku-TwistingNether",
+				["class"] = "MONK",
+			},
+			["Breshinek"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Breshinek",
+				["class"] = "SHAMAN",
+			},
+			["Sharundito"] = {
+				["name"] = "Sharundito",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 1,
+			["zone"] = "Castle Nathria",
+			["id"] = 2398,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Shriekwing",
+			["encounter"] = "Shriekwing",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
 		},
 	},
 }
@@ -747,6 +875,18 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Sun King's Salvation",
 		["id"] = 2422,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 3,
+			["zone"] = "Castle Nathria",
+			["id"] = 2402,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Sun King's Salvation",
+			["diff"] = 14,
+			["ej_instance_id"] = 1190,
+			["encounter"] = "Sun King's Salvation",
+		},
 		["player_db"] = {
 			["Clypse"] = {
 				["encounters"] = 5,
@@ -756,8 +896,8 @@ DeathGraphsDBEndurance = {
 				["class"] = "DEMONHUNTER",
 			},
 			["Ishata-Zul'jin"] = {
-				["encounters"] = 8,
-				["points"] = 760,
+				["encounters"] = 9,
+				["points"] = 860,
 				["class"] = "PALADIN",
 				["deaths"] = {
 					{
@@ -789,9 +929,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Velerolas-Thrall"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
 			["Adante"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "PALADIN",
 				["deaths"] = {
 				},
@@ -815,20 +962,6 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Fafafoey"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Mikistabs-Illidan"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
 			["Breshinek"] = {
 				["encounters"] = 5,
 				["points"] = 480,
@@ -846,155 +979,11 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Suhdude"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Mikistabs-Illidan"] = {
+				["encounters"] = 9,
+				["points"] = 900,
 				["class"] = "ROGUE",
 				["deaths"] = {
-				},
-			},
-			["Bìshop"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						1, -- [1]
-						167.5960000000196, -- [2]
-						"Ember Blast |cFFFF333337,199|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Dunkie"] = {
-				["encounters"] = 8,
-				["points"] = 780,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						241.1929999999993, -- [2]
-						"Ember Blast |cFFFF333328,480|r", -- [3]
-					}, -- [1]
-					{
-						5, -- [1]
-						366.1830000000191, -- [2]
-						"Smoldering Remnants (DoT) |cFFFF33336,594|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Khaless"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Franold-Illidan"] = {
-				["encounters"] = 8,
-				["points"] = 770,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						188.3479999999981, -- [2]
-						"Fiery Strike |cFFFF33334,808|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						192.2730000000011, -- [2]
-						"Blazing Surge |cFFFF333315,814|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Stratagem"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						4, -- [1]
-						143.0299999999697, -- [2]
-						"Smoldering Remnants (DoT) |cFFFF33336,688|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PALADIN",
-			},
-			["Manaku-TwistingNether"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Greenbarn-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						3, -- [1]
-						184.5589999999938, -- [2]
-						"Smoldering Remnants (DoT) |cFFFF33335,865|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nostariel"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						3, -- [1]
-						179.8640000000014, -- [2]
-						"Smoldering Remnants (DoT) |cFFFF33336,574|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Las"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						3, -- [1]
-						157.1739999999991, -- [2]
-						"Ember Blast |cFFFF333342,560|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Sharundito"] = {
-				["encounters"] = 8,
-				["points"] = 780,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						201.9799999999959, -- [2]
-						"Smoldering Remnants (DoT) |cFFFF33336,988|r", -- [3]
-					}, -- [1]
-					{
-						5, -- [1]
-						118.3850000000093, -- [2]
-						"Ember Blast |cFFFF333389,494|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Detherian-EmeraldDream"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Lilkiwi"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						242.601999999999, -- [2]
-						"Smoldering Remnants (DoT) |cFFFF33336,750|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Traximandew"] = {
@@ -1014,9 +1003,196 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Pikin-Illidan"] = {
+			["Louxi-Thrall"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Stratagem"] = {
 				["encounters"] = 5,
 				["points"] = 490,
+				["deaths"] = {
+					{
+						4, -- [1]
+						143.0299999999697, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33336,688|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
+			},
+			["Suhdude"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Bìshop"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["deaths"] = {
+					{
+						1, -- [1]
+						167.5960000000196, -- [2]
+						"Ember Blast |cFFFF333337,199|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+			["Manaku-TwistingNether"] = {
+				["encounters"] = 9,
+				["points"] = 900,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Dunkie"] = {
+				["encounters"] = 9,
+				["points"] = 870,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						241.1929999999993, -- [2]
+						"Ember Blast |cFFFF333328,480|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						366.1830000000191, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33336,594|r", -- [3]
+					}, -- [2]
+					{
+						2, -- [1]
+						218.1950000000652, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33335,813|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Elstermaël-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Fafafoey"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Sharundito"] = {
+				["encounters"] = 9,
+				["points"] = 880,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						201.9799999999959, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33336,988|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						118.3850000000093, -- [2]
+						"Ember Blast |cFFFF333389,494|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Greenbarn-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						3, -- [1]
+						184.5589999999938, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33335,865|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Nostariel"] = {
+				["encounters"] = 9,
+				["points"] = 880,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						3, -- [1]
+						179.8640000000014, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33336,574|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						175.9610000000102, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33337,968|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Las"] = {
+				["encounters"] = 9,
+				["points"] = 890,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						3, -- [1]
+						157.1739999999991, -- [2]
+						"Ember Blast |cFFFF333342,560|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Khaless"] = {
+				["encounters"] = 9,
+				["points"] = 900,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Detherian-EmeraldDream"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["deaths"] = {
+					{
+						2, -- [1]
+						193.5929999999935, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33336,050|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Lilkiwi"] = {
+				["encounters"] = 9,
+				["points"] = 890,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						242.601999999999, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33336,750|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Franold-Illidan"] = {
+				["encounters"] = 9,
+				["points"] = 870,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						2, -- [1]
+						188.3479999999981, -- [2]
+						"Fiery Strike |cFFFF33334,808|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						192.2730000000011, -- [2]
+						"Blazing Surge |cFFFF333315,814|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Pikin-Illidan"] = {
+				["encounters"] = 6,
+				["points"] = 590,
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -1027,8 +1203,8 @@ DeathGraphsDBEndurance = {
 				["class"] = "HUNTER",
 			},
 			["Viridian"] = {
-				["encounters"] = 5,
-				["points"] = 480,
+				["encounters"] = 6,
+				["points"] = 580,
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -1044,24 +1220,12 @@ DeathGraphsDBEndurance = {
 				["class"] = "PALADIN",
 			},
 			["Imber"] = {
-				["encounters"] = 5,
-				["points"] = 500,
+				["encounters"] = 6,
+				["points"] = 600,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 3,
-			["zone"] = "Castle Nathria",
-			["id"] = 2402,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Sun King's Salvation",
-			["diff"] = 14,
-			["ej_instance_id"] = 1190,
-			["encounter"] = "Sun King's Salvation",
 		},
 		["diff"] = 14,
 	},
@@ -1071,18 +1235,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "Huntsman Altimor",
 		["id"] = 2418,
 		["diff"] = 14,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 4,
-			["zone"] = "Castle Nathria",
-			["id"] = 2418,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Huntsman Altimor",
-			["encounter"] = "Huntsman Altimor",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 		["player_db"] = {
 			["Semiramis"] = {
 				["encounters"] = 12,
@@ -1119,23 +1271,89 @@ DeathGraphsDBEndurance = {
 				["class"] = "DEMONHUNTER",
 			},
 			["Ishata-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 190,
+				["encounters"] = 7,
+				["points"] = 680,
 				["deaths"] = {
 					{
 						1, -- [1]
 						258.2359999999753, -- [2]
 						"Annihilate |cFFFF3333106,181|r", -- [3]
 					}, -- [1]
+					{
+						1, -- [1]
+						216.5320000000065, -- [2]
+						"Extinction |cFFFF333332,082|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "PALADIN",
 			},
-			["Unholy"] = {
-				["encounters"] = 12,
-				["points"] = 1200,
+			["Velerolas-Thrall"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
+					{
+						2, -- [1]
+						214.3059999999823, -- [2]
+						"Melee |cFFFF333317,559|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "DEATHKNIGHT",
+			},
+			["Franold-Illidan"] = {
+				["encounters"] = 7,
+				["points"] = 660,
+				["deaths"] = {
+					{
+						1, -- [1]
+						131.7339999999967, -- [2]
+						"Extinction |cFFFF333326,782|r", -- [3]
+					}, -- [1]
+					{
+						1, -- [1]
+						176.0659999999916, -- [2]
+						"Hyperlight Spark |cFFFF33335,362|r", -- [3]
+					}, -- [2]
+					{
+						1, -- [1]
+						216.5320000000065, -- [2]
+						"Extinction |cFFFF333329,645|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "SHAMAN",
+			},
+			["Pikpim"] = {
+				["encounters"] = 13,
+				["points"] = 1260,
+				["deaths"] = {
+					{
+						4, -- [1]
+						58.61899999994785, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,004|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						99.78099999995902, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,003|r", -- [3]
+					}, -- [2]
+					{
+						6, -- [1]
+						136.283000000054, -- [2]
+						"Deathly Roar |cFFFF33333,240|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "SHAMAN",
+			},
+			["Viridian"] = {
+				["encounters"] = 19,
+				["points"] = 1890,
+				["deaths"] = {
+					{
+						2, -- [1]
+						150.8350000000792, -- [2]
+						"Withering Touch (DoT) |cFFFF33334,612|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
 			},
 			["Breshinek"] = {
 				["encounters"] = 14,
@@ -1161,38 +1379,9 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Viridian"] = {
-				["encounters"] = 14,
-				["points"] = 1400,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Pikpim"] = {
-				["encounters"] = 13,
-				["points"] = 1260,
-				["deaths"] = {
-					{
-						4, -- [1]
-						58.61899999994785, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,004|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						99.78099999995902, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,003|r", -- [3]
-					}, -- [2]
-					{
-						6, -- [1]
-						136.283000000054, -- [2]
-						"Deathly Roar |cFFFF33333,240|r", -- [3]
-					}, -- [3]
-				},
-				["class"] = "SHAMAN",
-			},
 			["Adante"] = {
-				["encounters"] = 12,
-				["points"] = 1190,
+				["encounters"] = 17,
+				["points"] = 1690,
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -1202,16 +1391,33 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Mikistabs-Illidan"] = {
-				["encounters"] = 14,
-				["points"] = 1400,
+			["Louxi-Thrall"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "MAGE",
 				["deaths"] = {
+				},
+			},
+			["Fafafoey"] = {
+				["encounters"] = 19,
+				["points"] = 1880,
+				["deaths"] = {
+					{
+						1, -- [1]
+						100.2960000000894, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,028|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						154.9240000001155, -- [2]
+						"Sinseeker (DoT) |cFFFF33338,027|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "ROGUE",
 			},
 			["Bìshop"] = {
-				["encounters"] = 14,
-				["points"] = 1380,
+				["encounters"] = 18,
+				["points"] = 1770,
 				["deaths"] = {
 					{
 						9, -- [1]
@@ -1223,29 +1429,31 @@ DeathGraphsDBEndurance = {
 						227.7020000000484, -- [2]
 						"Sinseeker (DoT) |cFFFF33337,798|r", -- [3]
 					}, -- [2]
+					{
+						3, -- [1]
+						208.6360000000568, -- [2]
+						"Extinction |cFFFF333327,675|r", -- [3]
+					}, -- [3]
 				},
 				["class"] = "WARLOCK",
 			},
-			["Suhdude"] = {
-				["encounters"] = 12,
-				["points"] = 1180,
+			["Mikistabs-Illidan"] = {
+				["encounters"] = 19,
+				["points"] = 1900,
 				["deaths"] = {
-					{
-						1, -- [1]
-						111.3019999999087, -- [2]
-						"Sinseeker (DoT) |cFFFF33337,737|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						136.283000000054, -- [2]
-						"Spreadshot |cFFFF33336,655|r", -- [3]
-					}, -- [2]
 				},
 				["class"] = "ROGUE",
 			},
+			["Stratagem"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
 			["Traximandew"] = {
-				["encounters"] = 15,
-				["points"] = 1400,
+				["encounters"] = 16,
+				["points"] = 1500,
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -1295,31 +1503,9 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Khaless"] = {
-				["encounters"] = 14,
-				["points"] = 1370,
-				["deaths"] = {
-					{
-						7, -- [1]
-						151.185999999987, -- [2]
-						"Shoot |cFFFF333337,033|r", -- [3]
-					}, -- [1]
-					{
-						9, -- [1]
-						290.1470000001136, -- [2]
-						"Shoot |cFFFF333345,114|r", -- [3]
-					}, -- [2]
-					{
-						10, -- [1]
-						146.4599999999628, -- [2]
-						"Shoot |cFFFF333343,952|r", -- [3]
-					}, -- [3]
-				},
-				["class"] = "WARRIOR",
-			},
 			["Dunkie"] = {
-				["encounters"] = 14,
-				["points"] = 1370,
+				["encounters"] = 19,
+				["points"] = 1870,
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -1339,33 +1525,62 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Fafafoey"] = {
-				["encounters"] = 14,
-				["points"] = 1380,
-				["deaths"] = {
-					{
-						1, -- [1]
-						100.2960000000894, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,028|r", -- [3]
-					}, -- [1]
-					{
-						5, -- [1]
-						154.9240000001155, -- [2]
-						"Sinseeker (DoT) |cFFFF33338,027|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "ROGUE",
-			},
 			["Sharundito"] = {
-				["encounters"] = 14,
-				["points"] = 1400,
+				["encounters"] = 19,
+				["points"] = 1890,
 				["deaths"] = {
+					{
+						3, -- [1]
+						165.3510000000242, -- [2]
+						"Extinction |cFFFF333333,629|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "HUNTER",
 			},
+			["Khaless"] = {
+				["encounters"] = 19,
+				["points"] = 1870,
+				["deaths"] = {
+					{
+						7, -- [1]
+						151.185999999987, -- [2]
+						"Shoot |cFFFF333337,033|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						290.1470000001136, -- [2]
+						"Shoot |cFFFF333345,114|r", -- [3]
+					}, -- [2]
+					{
+						10, -- [1]
+						146.4599999999628, -- [2]
+						"Shoot |cFFFF333343,952|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "WARRIOR",
+			},
+			["Elstermaël-Zul'jin"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						121.7719999999972, -- [2]
+						"Extinction |cFFFF333332,981|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Cransdh-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
 			["Manaku-TwistingNether"] = {
-				["encounters"] = 14,
-				["points"] = 1390,
+				["encounters"] = 19,
+				["points"] = 1890,
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -1383,8 +1598,8 @@ DeathGraphsDBEndurance = {
 				["class"] = "HUNTER",
 			},
 			["Nostariel"] = {
-				["encounters"] = 14,
-				["points"] = 1380,
+				["encounters"] = 19,
+				["points"] = 1880,
 				["deaths"] = {
 					{
 						10, -- [1]
@@ -1400,8 +1615,8 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 			["Las"] = {
-				["encounters"] = 14,
-				["points"] = 1390,
+				["encounters"] = 19,
+				["points"] = 1890,
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -1411,29 +1626,44 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Stratagem"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+			["Suhdude"] = {
+				["encounters"] = 12,
+				["points"] = 1180,
 				["deaths"] = {
+					{
+						1, -- [1]
+						111.3019999999087, -- [2]
+						"Sinseeker (DoT) |cFFFF33337,737|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						136.283000000054, -- [2]
+						"Spreadshot |cFFFF33336,655|r", -- [3]
+					}, -- [2]
 				},
-				["class"] = "PALADIN",
+				["class"] = "ROGUE",
 			},
 			["Detherian-EmeraldDream"] = {
-				["encounters"] = 14,
-				["points"] = 1400,
+				["encounters"] = 19,
+				["points"] = 1900,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
 			["Lilkiwi"] = {
-				["encounters"] = 14,
-				["points"] = 1390,
+				["encounters"] = 19,
+				["points"] = 1880,
 				["deaths"] = {
 					{
 						1, -- [1]
 						98.71999999997206, -- [2]
 						"Spreadshot |cFFFF33336,898|r", -- [3]
 					}, -- [1]
+					{
+						3, -- [1]
+						165.313000000082, -- [2]
+						"Extinction |cFFFF333331,095|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "MAGE",
 			},
@@ -1445,36 +1675,43 @@ DeathGraphsDBEndurance = {
 				["class"] = "DEMONHUNTER",
 			},
 			["Pikin-Illidan"] = {
-				["encounters"] = 14,
-				["points"] = 1400,
+				["encounters"] = 19,
+				["points"] = 1890,
 				["deaths"] = {
+					{
+						2, -- [1]
+						123.859999999986, -- [2]
+						"Extinction |cFFFF333327,265|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "HUNTER",
 			},
 			["Imber"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+				["encounters"] = 7,
+				["points"] = 700,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
-			["Franold-Illidan"] = {
-				["encounters"] = 3,
-				["points"] = 270,
+			["Unholy"] = {
+				["encounters"] = 12,
+				["points"] = 1200,
 				["deaths"] = {
-					{
-						1, -- [1]
-						131.7339999999967, -- [2]
-						"Extinction |cFFFF333326,782|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						176.0659999999916, -- [2]
-						"Hyperlight Spark |cFFFF33335,362|r", -- [3]
-					}, -- [2]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "DEATHKNIGHT",
 			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 4,
+			["zone"] = "Castle Nathria",
+			["id"] = 2418,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Huntsman Altimor",
+			["encounter"] = "Huntsman Altimor",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
 		},
 	},
 	["242614"] = {
@@ -1482,10 +1719,22 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "The Council of Blood",
 		["id"] = 2426,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 7,
+			["zone"] = "Castle Nathria",
+			["id"] = 2412,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "The Council of Blood",
+			["diff"] = 14,
+			["ej_instance_id"] = 1190,
+			["encounter"] = "The Council of Blood",
+		},
 		["player_db"] = {
 			["Ishata-Zul'jin"] = {
-				["encounters"] = 9,
-				["points"] = 880,
+				["encounters"] = 23,
+				["points"] = 2230,
 				["class"] = "PALADIN",
 				["deaths"] = {
 					{
@@ -1498,11 +1747,36 @@ DeathGraphsDBEndurance = {
 						111.7740000000049, -- [2]
 						"Dark Recital |cFFFF33338,282|r", -- [3]
 					}, -- [2]
+					{
+						5, -- [1]
+						218.8130000000238, -- [2]
+						"Evasive Lunge |cFFFF33339,697|r", -- [3]
+					}, -- [3]
+					{
+						6, -- [1]
+						163.8360000000102, -- [2]
+						"Dark Recital |cFFFF33338,556|r", -- [3]
+					}, -- [4]
+					{
+						8, -- [1]
+						218.1900000000023, -- [2]
+						"Prideful Eruption |cFFFF33339,562|r", -- [3]
+					}, -- [5]
+					{
+						11, -- [1]
+						163.6010000000242, -- [2]
+						"Dark Recital |cFFFF33338,423|r", -- [3]
+					}, -- [6]
+					{
+						1, -- [1]
+						227.2519999999786, -- [2]
+						"Waltz of Blood |cFFFF33338,404|r", -- [3]
+					}, -- [7]
 				},
 			},
 			["Franold-Illidan"] = {
-				["encounters"] = 9,
-				["points"] = 890,
+				["encounters"] = 11,
+				["points"] = 1080,
 				["class"] = "SHAMAN",
 				["deaths"] = {
 					{
@@ -1510,11 +1784,28 @@ DeathGraphsDBEndurance = {
 						107.4220000000059, -- [2]
 						"Wrong Moves (DoT) |cFFFF33334,049|r", -- [3]
 					}, -- [1]
+					{
+						1, -- [1]
+						225.5479999999516, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,249|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Velerolas-Thrall"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						207.6689999999944, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF3333906|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Adante"] = {
-				["encounters"] = 9,
-				["points"] = 880,
+				["encounters"] = 23,
+				["points"] = 2260,
 				["class"] = "PALADIN",
 				["deaths"] = {
 					{
@@ -1527,6 +1818,16 @@ DeathGraphsDBEndurance = {
 						165.5669999999809, -- [2]
 						"Oppressive Atmosphere (DoT) |cFFFF33332,070|r", -- [3]
 					}, -- [2]
+					{
+						3, -- [1]
+						234.3329999999842, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,800|r", -- [3]
+					}, -- [3]
+					{
+						4, -- [1]
+						221.6739999999991, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,285|r", -- [3]
+					}, -- [4]
 				},
 			},
 			["Messtrosity"] = {
@@ -1541,9 +1842,43 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Mikistabs-Illidan"] = {
+			["Akumabi"] = {
 				["encounters"] = 9,
 				["points"] = 900,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Viridian"] = {
+				["encounters"] = 14,
+				["points"] = 1360,
+				["deaths"] = {
+					{
+						4, -- [1]
+						163.0659999999916, -- [2]
+						"Dark Recital |cFFFF33337,546|r", -- [3]
+					}, -- [1]
+					{
+						7, -- [1]
+						81.70000000001164, -- [2]
+						"Dark Recital |cFFFF33338,377|r", -- [3]
+					}, -- [2]
+					{
+						9, -- [1]
+						162.1499999999651, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,804|r", -- [3]
+					}, -- [3]
+					{
+						11, -- [1]
+						163.1110000000335, -- [2]
+						"Dark Recital |cFFFF3333550|r", -- [3]
+					}, -- [4]
+				},
+				["class"] = "PALADIN",
+			},
+			["Mikistabs-Illidan"] = {
+				["encounters"] = 23,
+				["points"] = 2300,
 				["class"] = "ROGUE",
 				["deaths"] = {
 				},
@@ -1560,26 +1895,141 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Dunkie"] = {
-				["encounters"] = 9,
-				["points"] = 880,
-				["class"] = "SHAMAN",
+			["Louxi-Thrall"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MAGE",
 				["deaths"] = {
 					{
-						5, -- [1]
-						161.6949999999779, -- [2]
-						"Dark Recital |cFFFF33338,292|r", -- [3]
+						1, -- [1]
+						30.26399999996647, -- [2]
+						"Dark Recital |cFFFF33338,452|r", -- [3]
 					}, -- [1]
-					{
-						6, -- [1]
-						192.9619999999995, -- [2]
-						"Dark Recital |cFFFF33338,700|r", -- [3]
-					}, -- [2]
 				},
 			},
-			["Elstermaël-Zul'jin"] = {
+			["Fafafoey"] = {
+				["encounters"] = 14,
+				["points"] = 1350,
+				["deaths"] = {
+					{
+						2, -- [1]
+						52.47499999997672, -- [2]
+						"Evasive Lunge |cFFFF333342,014|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						234.3329999999842, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,807|r", -- [3]
+					}, -- [2]
+					{
+						10, -- [1]
+						167.4199999999837, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,806|r", -- [3]
+					}, -- [3]
+					{
+						12, -- [1]
+						333.3390000000363, -- [2]
+						"Violent Uproar |cFFFF3333107,310|r", -- [3]
+					}, -- [4]
+					{
+						2, -- [1]
+						206.7389999999432, -- [2]
+						"Evasive Lunge |cFFFF333313,754|r", -- [3]
+					}, -- [5]
+				},
+				["class"] = "ROGUE",
+			},
+			["Traximandew"] = {
+				["encounters"] = 12,
+				["points"] = 1160,
+				["deaths"] = {
+					{
+						1, -- [1]
+						57.11499999999069, -- [2]
+						"Melee |cFFFF33334,695|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						216.7750000000233, -- [2]
+						"Melee |cFFFF33336,710|r", -- [3]
+					}, -- [2]
+					{
+						9, -- [1]
+						162.3189999999595, -- [2]
+						"Melee |cFFFF33335,154|r", -- [3]
+					}, -- [3]
+					{
+						12, -- [1]
+						339.2820000000065, -- [2]
+						"Evasive Lunge |cFFFF333343,215|r", -- [3]
+					}, -- [4]
+				},
+				["class"] = "PALADIN",
+			},
+			["Khaless"] = {
+				["encounters"] = 24,
+				["points"] = 2330,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						4, -- [1]
+						228.8610000000044, -- [2]
+						"Duelist's Riposte |cFFFF333315,821|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						218.622000000003, -- [2]
+						"Evasive Lunge |cFFFF333332,136|r", -- [3]
+					}, -- [2]
+					{
+						1, -- [1]
+						53.4770000000135, -- [2]
+						"Evasive Lunge |cFFFF333315,942|r", -- [3]
+					}, -- [3]
+					{
+						4, -- [1]
+						220.6429999999818, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,244|r", -- [3]
+					}, -- [4]
+					{
+						8, -- [1]
+						187.3400000000256, -- [2]
+						"Evasive Lunge |cFFFF333323,932|r", -- [3]
+					}, -- [5]
+					{
+						8, -- [1]
+						214.5370000000112, -- [2]
+						"Melee |cFFFF33331,867|r", -- [3]
+					}, -- [6]
+				},
+			},
+			["Stratagem"] = {
+				["encounters"] = 12,
+				["points"] = 1190,
+				["deaths"] = {
+					{
+						10, -- [1]
+						165.4519999999902, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,798|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
+			},
+			["Bìshop"] = {
 				["encounters"] = 9,
-				["points"] = 850,
+				["points"] = 890,
+				["deaths"] = {
+					{
+						6, -- [1]
+						113.4030000000494, -- [2]
+						"Dark Recital |cFFFF33338,348|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+			["Elstermaël-Zul'jin"] = {
+				["encounters"] = 11,
+				["points"] = 1050,
 				["class"] = "MAGE",
 				["deaths"] = {
 					{
@@ -1604,9 +2054,31 @@ DeathGraphsDBEndurance = {
 					}, -- [4]
 				},
 			},
+			["Cransdh-Illidan"] = {
+				["encounters"] = 12,
+				["points"] = 1170,
+				["deaths"] = {
+					{
+						3, -- [1]
+						171.0229999999865, -- [2]
+						"Evasive Lunge |cFFFF333326,466|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						163.8360000000102, -- [2]
+						"Dark Recital |cFFFF33337,481|r", -- [3]
+					}, -- [2]
+					{
+						10, -- [1]
+						163.0800000000163, -- [2]
+						"Dark Recital |cFFFF33337,596|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "DEMONHUNTER",
+			},
 			["Sharundito"] = {
-				["encounters"] = 9,
-				["points"] = 890,
+				["encounters"] = 23,
+				["points"] = 2270,
 				["class"] = "HUNTER",
 				["deaths"] = {
 					{
@@ -1614,6 +2086,16 @@ DeathGraphsDBEndurance = {
 						250.8869999999879, -- [2]
 						"Oppressive Atmosphere (DoT) |cFFFF33331,822|r", -- [3]
 					}, -- [1]
+					{
+						2, -- [1]
+						161.5359999999637, -- [2]
+						"Dark Recital |cFFFF33338,829|r", -- [3]
+					}, -- [2]
+					{
+						7, -- [1]
+						81.22100000001956, -- [2]
+						"Dark Recital |cFFFF33338,607|r", -- [3]
+					}, -- [3]
 				},
 			},
 			["Greenbarn-Illidan"] = {
@@ -1649,8 +2131,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Nostariel"] = {
-				["encounters"] = 9,
-				["points"] = 890,
+				["encounters"] = 23,
+				["points"] = 2270,
 				["class"] = "PRIEST",
 				["deaths"] = {
 					{
@@ -1658,11 +2140,21 @@ DeathGraphsDBEndurance = {
 						29.44199999998091, -- [2]
 						"Dark Recital |cFFFF33338,640|r", -- [3]
 					}, -- [1]
+					{
+						9, -- [1]
+						164.3099999999977, -- [2]
+						"Dark Recital |cFFFF33338,632|r", -- [3]
+					}, -- [2]
+					{
+						2, -- [1]
+						27.9079999999376, -- [2]
+						"Dark Recital |cFFFF33338,473|r", -- [3]
+					}, -- [3]
 				},
 			},
 			["Las"] = {
-				["encounters"] = 9,
-				["points"] = 870,
+				["encounters"] = 23,
+				["points"] = 2240,
 				["class"] = "DRUID",
 				["deaths"] = {
 					{
@@ -1680,49 +2172,67 @@ DeathGraphsDBEndurance = {
 						163.6760000000068, -- [2]
 						"Dark Recital |cFFFF3333856|r", -- [3]
 					}, -- [3]
+					{
+						1, -- [1]
+						61.04800000000978, -- [2]
+						"Melee |cFFFF33337,439|r", -- [3]
+					}, -- [4]
+					{
+						5, -- [1]
+						112.6219999999739, -- [2]
+						"Dark Recital |cFFFF33338,465|r", -- [3]
+					}, -- [5]
+					{
+						7, -- [1]
+						85.19699999998556, -- [2]
+						"Dark Recital |cFFFF33338,505|r", -- [3]
+					}, -- [6]
 				},
 			},
+			["Dunkie"] = {
+				["encounters"] = 23,
+				["points"] = 2270,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						5, -- [1]
+						161.6949999999779, -- [2]
+						"Dark Recital |cFFFF33338,292|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						192.9619999999995, -- [2]
+						"Dark Recital |cFFFF33338,700|r", -- [3]
+					}, -- [2]
+					{
+						12, -- [1]
+						348.0350000000326, -- [2]
+						"Dark Recital |cFFFF33337,495|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Detherian-EmeraldDream"] = {
+				["encounters"] = 13,
+				["points"] = 1290,
+				["deaths"] = {
+					{
+						11, -- [1]
+						170.6170000000275, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,811|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
 			["Lilkiwi"] = {
-				["encounters"] = 9,
-				["points"] = 900,
+				["encounters"] = 23,
+				["points"] = 2300,
 				["class"] = "MAGE",
 				["deaths"] = {
 				},
 			},
-			["Khaless"] = {
-				["encounters"] = 9,
-				["points"] = 880,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						4, -- [1]
-						228.8610000000044, -- [2]
-						"Duelist's Riposte |cFFFF333315,821|r", -- [3]
-					}, -- [1]
-					{
-						9, -- [1]
-						218.622000000003, -- [2]
-						"Evasive Lunge |cFFFF333332,136|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Akumabi"] = {
-				["encounters"] = 9,
-				["points"] = 900,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Pikpim"] = {
-				["encounters"] = 9,
-				["points"] = 900,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
 			["Manaku-TwistingNether"] = {
-				["encounters"] = 9,
-				["points"] = 880,
+				["encounters"] = 23,
+				["points"] = 2280,
 				["class"] = "MONK",
 				["deaths"] = {
 					{
@@ -1737,18 +2247,32 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 7,
-			["zone"] = "Castle Nathria",
-			["id"] = 2412,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "The Council of Blood",
-			["diff"] = 14,
-			["ej_instance_id"] = 1190,
-			["encounter"] = "The Council of Blood",
+			["Pikin-Illidan"] = {
+				["encounters"] = 14,
+				["points"] = 1390,
+				["deaths"] = {
+					{
+						2, -- [1]
+						162.286999999953, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,514|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Imber"] = {
+				["encounters"] = 14,
+				["points"] = 1400,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Pikpim"] = {
+				["encounters"] = 9,
+				["points"] = 900,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
 		},
 		["diff"] = 14,
 	},
@@ -1758,18 +2282,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "Shriekwing",
 		["id"] = 2393,
 		["diff"] = 14,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 1,
-			["zone"] = "Castle Nathria",
-			["id"] = 2398,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Shriekwing",
-			["encounter"] = "Shriekwing",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 		["player_db"] = {
 			["Semiramis"] = {
 				["encounters"] = 2,
@@ -1791,18 +2303,44 @@ DeathGraphsDBEndurance = {
 				["class"] = "DEMONHUNTER",
 			},
 			["Ishata-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Unholy"] = {
+			["Velerolas-Thrall"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Franold-Illidan"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Pikpim"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "SHAMAN",
+			},
+			["Viridian"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						1, -- [1]
+						124.3269999999902, -- [2]
+						"Murder Prey |cFFFF333378,642|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
 			},
 			["Breshinek"] = {
 				["encounters"] = 4,
@@ -1818,34 +2356,6 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Viridian"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Pikpim"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Suhdude"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Mikistabs-Illidan"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
 			["Akumabi"] = {
 				["encounters"] = 2,
 				["points"] = 200,
@@ -1853,9 +2363,54 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
+			["Louxi-Thrall"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						144.5810000000056, -- [2]
+						"Descent |cFFFF33337,022|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Fafafoey"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						1, -- [1]
+						149.7719999999972, -- [2]
+						"Earsplitting Shriek |cFFFF333311,055|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "ROGUE",
+			},
+			["Dunkie"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Mikistabs-Illidan"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Stratagem"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
 			["Traximandew"] = {
-				["encounters"] = 5,
-				["points"] = 470,
+				["encounters"] = 6,
+				["points"] = 570,
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -1870,23 +2425,9 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Dunkie"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Adante"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
 			["Khaless"] = {
-				["encounters"] = 4,
-				["points"] = 390,
+				["encounters"] = 7,
+				["points"] = 690,
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -1896,34 +2437,63 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARRIOR",
 			},
-			["Fafafoey"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
 			["Manaku-TwistingNether"] = {
-				["encounters"] = 4,
-				["points"] = 390,
+				["encounters"] = 7,
+				["points"] = 680,
 				["deaths"] = {
 					{
 						1, -- [1]
 						89.6140000000014, -- [2]
 						"Volatile Ejection |cFFFF333331,498|r", -- [3]
 					}, -- [1]
+					{
+						1, -- [1]
+						256.2839999999851, -- [2]
+						"Gluttonous Miasma |cFFFF33331,649|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "MONK",
 			},
-			["Sharundito"] = {
+			["Bìshop"] = {
 				["encounters"] = 4,
 				["points"] = 390,
+				["deaths"] = {
+					{
+						1, -- [1]
+						43.80599999998231, -- [2]
+						"Gluttonous Miasma |cFFFF33331,682|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+			["Elstermaël-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Cransdh-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Sharundito"] = {
+				["encounters"] = 7,
+				["points"] = 680,
 				["deaths"] = {
 					{
 						1, -- [1]
 						89.6479999999865, -- [2]
 						"Volatile Ejection |cFFFF333331,842|r", -- [3]
 					}, -- [1]
+					{
+						1, -- [1]
+						47.83299999998417, -- [2]
+						"Descent |cFFFF33336,119|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "HUNTER",
 			},
@@ -1935,73 +2505,90 @@ DeathGraphsDBEndurance = {
 				["class"] = "HUNTER",
 			},
 			["Nostariel"] = {
-				["encounters"] = 4,
-				["points"] = 400,
+				["encounters"] = 7,
+				["points"] = 700,
 				["deaths"] = {
 				},
 				["class"] = "PRIEST",
 			},
 			["Las"] = {
-				["encounters"] = 4,
-				["points"] = 400,
+				["encounters"] = 7,
+				["points"] = 690,
 				["deaths"] = {
+					{
+						1, -- [1]
+						115.8809999999357, -- [2]
+						"Volatile Ejection |cFFFF333330,780|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "DRUID",
 			},
-			["Stratagem"] = {
+			["Suhdude"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
+				["class"] = "ROGUE",
 			},
 			["Detherian-EmeraldDream"] = {
-				["encounters"] = 4,
-				["points"] = 400,
+				["encounters"] = 7,
+				["points"] = 700,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
 			["Lilkiwi"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Bìshop"] = {
-				["encounters"] = 2,
-				["points"] = 190,
+				["encounters"] = 7,
+				["points"] = 690,
 				["deaths"] = {
 					{
 						1, -- [1]
-						43.80599999998231, -- [2]
-						"Gluttonous Miasma |cFFFF33331,682|r", -- [3]
+						153.7929999999469, -- [2]
+						"Volatile Ejection |cFFFF333331,033|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
+				["class"] = "MAGE",
+			},
+			["Adante"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
 			},
 			["Pikin-Illidan"] = {
-				["encounters"] = 4,
-				["points"] = 400,
+				["encounters"] = 6,
+				["points"] = 600,
 				["deaths"] = {
 				},
 				["class"] = "HUNTER",
 			},
 			["Imber"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
-			["Franold-Illidan"] = {
+			["Unholy"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
+				["class"] = "DEATHKNIGHT",
 			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 1,
+			["zone"] = "Castle Nathria",
+			["id"] = 2398,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Shriekwing",
+			["encounter"] = "Shriekwing",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
 		},
 	},
 }
@@ -2009,446 +2596,115 @@ DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 28132,
-				["timeofdeath"] = 118.3850000000093,
-				["name"] = "Sharundito",
-				["time"] = 1608091197.807,
-				["class"] = "HUNTER",
-				["timestring"] = "1m 58s",
-				["events"] = {
-					{
-						true, -- [1]
-						325506, -- [2]
-						5470, -- [3]
-						1608091168.226, -- [4]
-						24338, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						87, -- [3]
-						1608091168.887, -- [4]
-						24425, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [2]
-					{
-						false, -- [1]
-						183811, -- [2]
-						122, -- [3]
-						1608091169.027, -- [4]
-						24547, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						183811, -- [2]
-						117, -- [3]
-						1608091169.027, -- [4]
-						24664, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						143924, -- [2]
-						451, -- [3]
-						1608091170.049, -- [4]
-						25115, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						183811, -- [2]
-						120, -- [3]
-						1608091170.324, -- [4]
-						25235, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [6]
-					{
-						false, -- [1]
-						52042, -- [2]
-						752, -- [3]
-						1608091170.638, -- [4]
-						25987, -- [5]
-						"Healing Stream Totem <Breshinek>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [7]
-					{
-						false, -- [1]
-						183811, -- [2]
-						121, -- [3]
-						1608091171.091, -- [4]
-						26108, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						241, -- [3]
-						1608091171.273, -- [4]
-						26349, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						143924, -- [2]
-						71, -- [3]
-						1608091172.486, -- [4]
-						26420, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						317, -- [3]
-						1608091173.687, -- [4]
-						26737, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						110, -- [3]
-						1608091174.935, -- [4]
-						26847, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						4, -- [1]
-						339251, -- [2]
-						1, -- [3]
-						1608091175.289, -- [4]
-						26847, -- [5]
-						"[*] Drained Soul", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						55, -- [3]
-						1608091179.18, -- [4]
-						26378, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [14]
-					{
-						false, -- [1]
-						183811, -- [2]
-						118, -- [3]
-						1608091179.22, -- [4]
-						26496, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						143924, -- [2]
-						358, -- [3]
-						1608091180.168, -- [4]
-						26592, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						15, -- [3]
-						1608091181.4, -- [4]
-						26607, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						false, -- [1]
-						183811, -- [2]
-						114, -- [3]
-						1608091181.656, -- [4]
-						26721, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						183811, -- [2]
-						236, -- [3]
-						1608091181.845, -- [4]
-						26957, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						143924, -- [2]
-						418, -- [3]
-						1608091182.617, -- [4]
-						27375, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [20]
-					{
-						false, -- [1]
-						143924, -- [2]
-						9, -- [3]
-						1608091183.838, -- [4]
-						27384, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [21]
-					{
-						false, -- [1]
-						183811, -- [2]
-						121, -- [3]
-						1608091184.31, -- [4]
-						27505, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						112, -- [3]
-						1608091185.083, -- [4]
-						27617, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [23]
-					{
-						false, -- [1]
-						183811, -- [2]
-						119, -- [3]
-						1608091185.219, -- [4]
-						28010, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [24]
-					{
-						false, -- [1]
-						183811, -- [2]
-						117, -- [3]
-						1608091185.483, -- [4]
-						28127, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1294, -- [3]
-						1608091186.286, -- [4]
-						29229, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [26]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608091197.772, -- [4]
-						29519, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						325877, -- [2]
-						89494, -- [3]
-						1608091197.772, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						59975, -- [10]
-					}, -- [28]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Sharundito", -- [6]
-					}, -- [29]
-				},
-			}, -- [1]
-			{
-				["maxhealth"] = 25720,
-				["timeofdeath"] = 141.9679999999935,
-				["name"] = "Ishata-Zul'jin",
-				["time"] = 1608091221.39,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 21s",
+				["maxhealth"] = 28280,
+				["timeofdeath"] = 27.9079999999376,
+				["name"] = "Nostariel",
 				["events"] = {
 					{
 						2, -- [1]
 						20484, -- [2]
 						1, -- [3]
-						1608091227.742, -- [4]
+						1608695558.631, -- [4]
 						0, -- [5]
 						"Las", -- [6]
 					}, -- [1]
 					{
 						false, -- [1]
-						183811, -- [2]
-						135, -- [3]
-						1608091215.315, -- [4]
-						19849, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						81751, -- [2]
+						968, -- [3]
+						1608695548.991, -- [4]
+						29700, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						774, -- [2]
-						893, -- [3]
-						1608091215.374, -- [4]
-						20742, -- [5]
-						"Las", -- [6]
+						81751, -- [2]
+						506, -- [3]
+						1608695549.014, -- [4]
+						29700, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [3]
 					{
-						false, -- [1]
-						8936, -- [2]
-						176, -- [3]
-						1608091215.993, -- [4]
-						20918, -- [5]
-						"Las", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						509, -- [3]
+						1608695549.511, -- [4]
+						29191, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
 						143924, -- [2]
-						69, -- [3]
-						1608091216.23, -- [4]
-						20987, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						614, -- [3]
+						1608695549.577, -- [4]
+						29700, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
-						true, -- [1]
-						341254, -- [2]
-						3983, -- [3]
-						1608091216.347, -- [4]
-						17004, -- [5]
-						"Reborn Phoenix", -- [6]
+						false, -- [1]
+						81751, -- [2]
+						97, -- [3]
+						1608695549.767, -- [4]
+						29700, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						774, -- [2]
-						835, -- [3]
-						1608091216.788, -- [4]
-						17839, -- [5]
-						"Imber", -- [6]
+						81751, -- [2]
+						493, -- [3]
+						1608695550.251, -- [4]
+						29700, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						false, -- [10]
 					}, -- [7]
 					{
 						4, -- [1]
-						328579, -- [2]
+						331637, -- [2]
 						1, -- [3]
-						1608091216.973, -- [4]
-						17839, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						1608695550.273, -- [4]
+						29700, -- [5]
+						"[*] Dark Recital", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [8]
 					{
-						false, -- [1]
-						143924, -- [2]
-						23, -- [3]
-						1608091217.433, -- [4]
-						17862, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						509, -- [3]
+						1608695550.513, -- [4]
+						29191, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						8936, -- [2]
-						176, -- [3]
-						1608091217.766, -- [4]
-						18038, -- [5]
-						"Las", -- [6]
+						143924, -- [2]
+						52, -- [3]
+						1608695550.782, -- [4]
+						29243, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -2456,273 +2712,273 @@ DeathGraphsDBCurrent = {
 					}, -- [10]
 					{
 						false, -- [1]
-						337824, -- [2]
-						1258, -- [3]
-						1608091217.973, -- [4]
-						18038, -- [5]
-						"Stratagem", -- [6]
+						157503, -- [2]
+						1604, -- [3]
+						1608695550.782, -- [4]
+						29700, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						312215, -- [2]
+						964, -- [3]
+						1608695550.782, -- [4]
+						29700, -- [5]
+						"Nostariel", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6633, -- [3]
-						1608091217.973, -- [4]
-						12663, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						1258, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [12]
 					{
-						false, -- [1]
-						774, -- [2]
-						893, -- [3]
-						1608091218.056, -- [4]
-						13556, -- [5]
-						"Las", -- [6]
+						true, -- [1]
+						331638, -- [2]
+						964, -- [3]
+						1608695550.782, -- [4]
+						29700, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
-						false, -- [1]
-						25914, -- [2]
-						6434, -- [3]
-						1608091218.177, -- [4]
-						19990, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						true, -- [1]
+						347425, -- [2]
+						534, -- [3]
+						1608695550.782, -- [4]
+						29166, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608091218.263, -- [4]
-						19990, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
+						true, -- [1]
+						331638, -- [2]
+						962, -- [3]
+						1608695551.285, -- [4]
+						28204, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [15]
 					{
 						true, -- [1]
-						325877, -- [2]
-						7078, -- [3]
-						1608091218.282, -- [4]
-						12912, -- [5]
-						"Shade of Kael'thas", -- [6]
+						347425, -- [2]
+						540, -- [3]
+						1608695551.285, -- [4]
+						27664, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608091218.359, -- [4]
-						12912, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
 						false, -- [1]
-						325983, -- [2]
-						795, -- [3]
-						1608091218.575, -- [4]
-						13707, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						94472, -- [2]
+						193, -- [3]
+						1608695551.388, -- [4]
+						27857, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [18]
+					}, -- [17]
 					{
 						false, -- [1]
-						143924, -- [2]
-						563, -- [3]
-						1608091218.638, -- [4]
-						14270, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						94472, -- [2]
+						1006, -- [3]
+						1608695551.473, -- [4]
+						28863, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						509, -- [3]
+						1608695551.516, -- [4]
+						28354, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						true, -- [1]
-						341254, -- [2]
-						3983, -- [3]
-						1608091218.854, -- [4]
-						10287, -- [5]
-						"Reborn Phoenix", -- [6]
+						331638, -- [2]
+						977, -- [3]
+						1608695551.777, -- [4]
+						27377, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1062, -- [3]
-						1608091219.29, -- [4]
-						9225, -- [5]
-						"Shade of Kael'thas", -- [6]
+						347425, -- [2]
+						536, -- [3]
+						1608695551.777, -- [4]
+						26841, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						true, -- [1]
-						328579, -- [2]
-						6632, -- [3]
-						1608091219.366, -- [4]
-						2593, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
 						false, -- [1]
-						339738, -- [2]
-						12407, -- [3]
-						1608091219.366, -- [4]
-						15000, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						143924, -- [2]
+						98, -- [3]
+						1608695551.983, -- [4]
+						26939, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						331638, -- [2]
+						942, -- [3]
+						1608695552.269, -- [4]
+						25997, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						774, -- [2]
-						409, -- [3]
-						1608091219.535, -- [4]
-						15409, -- [5]
-						"Imber", -- [6]
+						true, -- [1]
+						347425, -- [2]
+						528, -- [3]
+						1608695552.269, -- [4]
+						25469, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [24]
 					{
-						false, -- [1]
-						8936, -- [2]
-						176, -- [3]
-						1608091219.535, -- [4]
-						15585, -- [5]
-						"Las", -- [6]
+						true, -- [1]
+						334743, -- [2]
+						8624, -- [3]
+						1608695552.294, -- [4]
+						16845, -- [5]
+						"[*] Dark Recital", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1062, -- [3]
-						1608091220.289, -- [4]
-						14523, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						509, -- [3]
+						1608695552.488, -- [4]
+						16336, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						true, -- [1]
-						328579, -- [2]
-						6633, -- [3]
-						1608091220.369, -- [4]
-						7890, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						331638, -- [2]
+						958, -- [3]
+						1608695552.757, -- [4]
+						15378, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						73921, -- [2]
-						535, -- [3]
-						1608091220.532, -- [4]
-						8425, -- [5]
-						"Dunkie", -- [6]
+						true, -- [1]
+						347425, -- [2]
+						540, -- [3]
+						1608695552.757, -- [4]
+						14838, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						774, -- [2]
-						850, -- [3]
-						1608091220.727, -- [4]
-						9275, -- [5]
-						"Las", -- [6]
+						true, -- [1]
+						334743, -- [2]
+						8522, -- [3]
+						1608695552.777, -- [4]
+						6316, -- [5]
+						"[*] Dark Recital", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						8936, -- [2]
-						123, -- [3]
-						1608091220.839, -- [4]
-						9398, -- [5]
-						"Las", -- [6]
+						81751, -- [2]
+						97, -- [3]
+						1608695553.028, -- [4]
+						6413, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						326430, -- [2]
-						1062, -- [3]
-						1608091221.266, -- [4]
-						8336, -- [5]
-						"Shade of Kael'thas", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						8, -- [3]
+						1608695553.197, -- [4]
+						6421, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [31]
 					{
 						true, -- [1]
-						341254, -- [2]
-						3982, -- [3]
-						1608091221.354, -- [4]
-						4354, -- [5]
-						"Reborn Phoenix", -- [6]
+						347425, -- [2]
+						535, -- [3]
+						1608695553.285, -- [4]
+						5886, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [32]
 					{
 						true, -- [1]
-						328579, -- [2]
-						6633, -- [3]
-						1608091221.372, -- [4]
+						334743, -- [2]
+						8473, -- [3]
+						1608695553.311, -- [4]
 						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						"[*] Dark Recital", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
-						2279, -- [10]
+						2587, -- [10]
 					}, -- [33]
 					{
 						3, -- [1]
@@ -2730,180 +2986,180 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						"Nostariel", -- [6]
 					}, -- [34]
 				},
-			}, -- [2]
+				["class"] = "PRIEST",
+				["timestring"] = "0m 27s",
+				["time"] = 1608695553.311,
+			}, -- [1]
 			{
-				["maxhealth"] = 26820,
-				["timeofdeath"] = 366.1830000000191,
-				["name"] = "Dunkie",
-				["time"] = 1608091445.605,
-				["class"] = "SHAMAN",
-				["timestring"] = "6m 6s",
+				["maxhealth"] = 24760,
+				["timeofdeath"] = 206.7389999999432,
+				["name"] = "Fafafoey",
 				["events"] = {
 					{
 						false, -- [1]
-						157982, -- [2]
-						108, -- [3]
-						1608091432.306, -- [4]
-						25647, -- [5]
-						"Imber", -- [6]
+						143924, -- [2]
+						293, -- [3]
+						1608695714.985, -- [4]
+						25219, -- [5]
+						"Fafafoey", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
-						false, -- [1]
-						324202, -- [2]
-						125, -- [3]
-						1608091432.593, -- [4]
-						25772, -- [5]
-						"Stratagem", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695715.043, -- [4]
+						24447, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1, -- [3]
-						1608091433.217, -- [4]
-						25773, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
+						337824, -- [2]
+						625, -- [3]
+						1608695716.052, -- [4]
+						24447, -- [5]
+						"Adante", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [3]
 					{
-						false, -- [1]
-						61295, -- [2]
-						872, -- [3]
-						1608091433.321, -- [4]
-						26645, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695716.052, -- [4]
+						24300, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						625, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						157982, -- [2]
-						109, -- [3]
-						1608091434.313, -- [4]
-						26754, -- [5]
-						"Imber", -- [6]
+						143924, -- [2]
+						95, -- [3]
+						1608695716.193, -- [4]
+						24395, -- [5]
+						"Fafafoey", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						143924, -- [2]
-						35, -- [3]
-						1608091434.417, -- [4]
-						26789, -- [5]
-						"Dunkie", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695717.041, -- [4]
+						23623, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						false, -- [1]
-						225311, -- [2]
-						5168, -- [3]
-						1608091434.597, -- [4]
-						30976, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695718.05, -- [4]
+						22851, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						61295, -- [2]
-						810, -- [3]
-						1608091435.496, -- [4]
-						30976, -- [5]
-						"Dunkie", -- [6]
+						325983, -- [2]
+						750, -- [3]
+						1608695718.884, -- [4]
+						23601, -- [5]
+						"Adante", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [8]
 					{
-						false, -- [1]
-						157982, -- [2]
-						108, -- [3]
-						1608091436.317, -- [4]
-						30976, -- [5]
-						"Imber", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695719.078, -- [4]
+						22829, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						157982, -- [2]
-						10, -- [3]
-						1608091436.503, -- [4]
-						30976, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						61295, -- [2]
-						397, -- [3]
-						1608091437.671, -- [4]
-						32525, -- [5]
+						73921, -- [2]
+						389, -- [3]
+						1608695719.391, -- [4]
+						23218, -- [5]
 						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [11]
+					}, -- [10]
 					{
-						false, -- [1]
-						114942, -- [2]
-						519, -- [3]
-						1608091438.284, -- [4]
-						32525, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695720.041, -- [4]
+						22446, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						334909, -- [2]
+						4, -- [3]
+						1608695721.04, -- [4]
+						22446, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [12]
 					{
-						false, -- [1]
-						325983, -- [2]
-						924, -- [3]
-						1608091439.001, -- [4]
-						32525, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1029, -- [3]
+						1608695721.04, -- [4]
+						21417, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
 						73921, -- [2]
-						418, -- [3]
-						1608091439.357, -- [4]
-						32525, -- [5]
+						865, -- [3]
+						1608695721.193, -- [4]
+						22282, -- [5]
 						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -2912,649 +3168,655 @@ DeathGraphsDBCurrent = {
 					}, -- [14]
 					{
 						false, -- [1]
-						114942, -- [2]
-						1049, -- [3]
-						1608091439.748, -- [4]
-						29568, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
+						337824, -- [2]
+						625, -- [3]
+						1608695722.044, -- [4]
+						22282, -- [5]
+						"Adante", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						false, -- [1]
-						61295, -- [2]
-						851, -- [3]
-						1608091439.809, -- [4]
-						29568, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1029, -- [3]
+						1608695722.044, -- [4]
+						21878, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						625, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						114942, -- [2]
-						1049, -- [3]
-						1608091441.179, -- [4]
-						29568, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
+						73921, -- [2]
+						434, -- [3]
+						1608695723.029, -- [4]
+						22312, -- [5]
+						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						false, -- [1]
-						61295, -- [2]
-						417, -- [3]
-						1608091441.978, -- [4]
-						29568, -- [5]
-						"Dunkie", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1029, -- [3]
+						1608695723.052, -- [4]
+						21283, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						true, -- [1]
-						325877, -- [2]
-						6032, -- [3]
-						1608091442.272, -- [4]
-						23536, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						1029, -- [3]
+						1608695724.042, -- [4]
+						20254, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608091442.579, -- [4]
-						23536, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
 						false, -- [1]
-						114942, -- [2]
-						560, -- [3]
-						1608091442.599, -- [4]
-						24096, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
+						73921, -- [2]
+						439, -- [3]
+						1608695724.841, -- [4]
+						20693, -- [5]
+						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1029, -- [3]
+						1608695725.054, -- [4]
+						19664, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [21]
 					{
-						false, -- [1]
-						61295, -- [2]
-						141, -- [3]
-						1608091442.661, -- [4]
-						24237, -- [5]
-						"Dunkie", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1029, -- [3]
+						1608695726.049, -- [4]
+						18635, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						true, -- [1]
-						341254, -- [2]
-						3959, -- [3]
-						1608091442.721, -- [4]
-						20278, -- [5]
-						"Reborn Phoenix", -- [6]
+						334909, -- [2]
+						1029, -- [3]
+						1608695727.055, -- [4]
+						17606, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						true, -- [1]
-						341254, -- [2]
-						3959, -- [3]
-						1608091442.721, -- [4]
-						16319, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						4, -- [8]
+						4, -- [1]
+						327619, -- [2]
+						1, -- [3]
+						1608695727.355, -- [4]
+						17606, -- [5]
+						"Waltzing Venthyr", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [24]
 					{
-						false, -- [1]
-						183811, -- [2]
-						130, -- [3]
-						1608091442.88, -- [4]
-						16449, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						327619, -- [2]
+						8493, -- [3]
+						1608695727.355, -- [4]
+						9113, -- [5]
+						"Waltzing Venthyr", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						143924, -- [2]
-						195, -- [3]
-						1608091443.313, -- [4]
-						15860, -- [5]
-						"Dunkie", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1029, -- [3]
+						1608695728.065, -- [4]
+						8084, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						73921, -- [2]
-						443, -- [3]
-						1608091443.573, -- [4]
-						16303, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
+						31230, -- [2]
+						3302, -- [3]
+						1608695728.5, -- [4]
+						8084, -- [5]
+						"Fafafoey", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						true, -- [1]
-						328579, -- [2]
-						6594, -- [3]
-						1608091443.593, -- [4]
-						9709, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
+						346660, -- [2]
+						9566, -- [3]
+						1608695728.5, -- [4]
+						1820, -- [5]
+						"Baroness Frieda", -- [6]
+						3302, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						114942, -- [2]
-						1376, -- [3]
-						1608091444.046, -- [4]
-						11085, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
+						1, -- [1]
+						31224, -- [2]
+						1, -- [3]
+						1608695728.682, -- [4]
+						1820, -- [5]
+						"Fafafoey", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						143924, -- [2]
-						42, -- [3]
-						1608091444.532, -- [4]
-						11127, -- [5]
-						"Dunkie", -- [6]
+						186263, -- [2]
+						4867, -- [3]
+						1608695729.531, -- [4]
+						6687, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						328579, -- [2]
-						6594, -- [3]
-						1608091444.584, -- [4]
-						4533, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						false, -- [1]
+						19750, -- [2]
+						3192, -- [3]
+						1608695731.933, -- [4]
+						9879, -- [5]
+						"Adante", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						328579, -- [2]
-						6594, -- [3]
-						1608091445.588, -- [4]
+						327610, -- [2]
+						13754, -- [3]
+						1608695732.142, -- [4]
 						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						2061, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Dunkie", -- [6]
-					}, -- [33]
-				},
-			}, -- [3]
-		},
-		["bossname"] = "Sun King's Salvation",
-		["bossicon"] = {
-			0.5, -- [1]
-			0.75, -- [2]
-			0, -- [3]
-			0.25, -- [4]
-			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
-		},
-		["date"] = 306881.115,
-		["timeelapsed"] = 383.0480000000098,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 24560,
-				["timeofdeath"] = 141.6779999999562,
-				["name"] = "Viridian",
-				["time"] = 1608090587.456,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 21s",
-				["events"] = {
-					{
-						false, -- [1]
-						132463, -- [2]
-						649, -- [3]
-						1608090568.744, -- [4]
-						25780, -- [5]
-						"Manaku-TwistingNether", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [1]
-					{
-						false, -- [1]
-						81751, -- [2]
-						101, -- [3]
-						1608090568.881, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						81751, -- [2]
-						485, -- [3]
-						1608090568.904, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						320751, -- [2]
-						10701, -- [3]
-						1608090569.057, -- [4]
-						25780, -- [5]
-						"Breshinek", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						81751, -- [2]
-						487, -- [3]
-						1608090569.195, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						81751, -- [2]
-						100, -- [3]
-						1608090569.279, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [6]
-					{
-						false, -- [1]
-						94472, -- [2]
-						981, -- [3]
-						1608090569.508, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						81751, -- [2]
-						126, -- [3]
-						1608090570.105, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						false, -- [1]
-						81751, -- [2]
-						101, -- [3]
-						1608090570.535, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						94472, -- [2]
-						1313, -- [3]
-						1608090570.604, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						81751, -- [2]
-						101, -- [3]
-						1608090570.934, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						81751, -- [2]
-						126, -- [3]
-						1608090571.776, -- [4]
-						27069, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						81751, -- [2]
-						634, -- [3]
-						1608090571.851, -- [4]
-						27069, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						81751, -- [2]
-						101, -- [3]
-						1608090572.183, -- [4]
-						25780, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						931, -- [3]
-						1608090575.883, -- [4]
-						25780, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [15]
-					{
-						false, -- [1]
-						774, -- [2]
-						848, -- [3]
-						1608090578.602, -- [4]
-						25780, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						774, -- [2]
-						847, -- [3]
-						1608090581.324, -- [4]
-						25780, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						false, -- [1]
-						774, -- [2]
-						416, -- [3]
-						1608090584.05, -- [4]
-						25780, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						325506, -- [2]
-						4122, -- [3]
-						1608090584.626, -- [4]
-						21658, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
 						1, -- [8]
 						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
+						3875, -- [10]
+					}, -- [32]
 					{
-						false, -- [1]
-						143924, -- [2]
-						169, -- [3]
-						1608090585.224, -- [4]
-						21827, -- [5]
-						"Viridian", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
+						3, -- [1]
+						31224, -- [2]
+						1, -- [3]
+						1608695728.682, -- [4]
+						0, -- [5]
+						"Fafafoey", -- [6]
+					}, -- [33]
+				},
+				["class"] = "ROGUE",
+				["timestring"] = "3m 26s",
+				["time"] = 1608695732.142,
+			}, -- [2]
+			{
+				["maxhealth"] = 27840,
+				["timeofdeath"] = 207.6689999999944,
+				["name"] = "Velerolas-Thrall",
+				["events"] = {
 					{
 						false, -- [1]
 						183811, -- [2]
-						135, -- [3]
-						1608090585.344, -- [4]
-						21962, -- [5]
+						149, -- [3]
+						1608695719.417, -- [4]
+						28779, -- [5]
 						"Ishata-Zul'jin", -- [6]
 						nil, -- [7]
 						0, -- [8]
-					}, -- [21]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
 					{
 						false, -- [1]
-						183811, -- [2]
-						116, -- [3]
-						1608090585.344, -- [4]
-						22078, -- [5]
-						"Traximandew", -- [6]
+						143924, -- [2]
+						92, -- [3]
+						1608695719.529, -- [4]
+						28871, -- [5]
+						"Velerolas-Thrall", -- [6]
 						nil, -- [7]
 						0, -- [8]
-					}, -- [22]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						334909, -- [2]
+						679, -- [3]
+						1608695720.041, -- [4]
+						28192, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
 					{
 						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608090585.403, -- [4]
-						22078, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						4, -- [3]
+						1608695721.04, -- [4]
+						28192, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [23]
+					}, -- [4]
 					{
 						true, -- [1]
-						325877, -- [2]
-						7671, -- [3]
-						1608090585.403, -- [4]
-						14407, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						905, -- [3]
+						1608695721.04, -- [4]
+						27287, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [24]
+					}, -- [5]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090585.403, -- [4]
-						14407, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						73921, -- [2]
+						411, -- [3]
+						1608695721.193, -- [4]
+						27698, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						51, -- [3]
+						1608695721.956, -- [4]
+						27749, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [25]
+					}, -- [7]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1074, -- [3]
-						1608090586.409, -- [4]
-						13333, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						906, -- [3]
+						1608695722.067, -- [4]
+						26843, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [26]
+					}, -- [8]
 					{
 						true, -- [1]
-						328579, -- [2]
-						6708, -- [3]
-						1608090586.409, -- [4]
-						6625, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						334909, -- [2]
+						906, -- [3]
+						1608695723.052, -- [4]
+						25937, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [27]
+					}, -- [9]
 					{
 						false, -- [1]
 						143924, -- [2]
 						20, -- [3]
-						1608090586.433, -- [4]
-						6645, -- [5]
-						"Viridian", -- [6]
+						1608695723.178, -- [4]
+						25957, -- [5]
+						"Velerolas-Thrall", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						327610, -- [2]
+						13167, -- [3]
+						1608695723.581, -- [4]
+						12790, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						327610, -- [2]
+						1, -- [3]
+						1608695723.581, -- [4]
+						12790, -- [5]
+						"Lord Stavros", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						906, -- [3]
+						1608695724.064, -- [4]
+						11884, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						36, -- [3]
+						1608695724.365, -- [4]
+						11920, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						334909, -- [2]
+						905, -- [3]
+						1608695725.054, -- [4]
+						11015, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						59, -- [3]
+						1608695725.612, -- [4]
+						11074, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						906, -- [3]
+						1608695726.049, -- [4]
+						10168, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						334909, -- [2]
+						906, -- [3]
+						1608695727.055, -- [4]
+						9262, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						906, -- [3]
+						1608695728.043, -- [4]
+						8356, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						120692, -- [2]
+						1578, -- [3]
+						1608695728.277, -- [4]
+						9934, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						1, -- [1]
+						198589, -- [2]
+						1, -- [3]
+						1608695728.367, -- [4]
+						9934, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						186263, -- [2]
+						5071, -- [3]
+						1608695728.403, -- [4]
+						15005, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						81751, -- [2]
+						1064, -- [3]
+						1608695728.626, -- [4]
+						16069, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						346660, -- [2]
+						6725, -- [3]
+						1608695729.007, -- [4]
+						9344, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						334909, -- [2]
+						724, -- [3]
+						1608695729.081, -- [4]
+						8620, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						334909, -- [2]
+						725, -- [3]
+						1608695730.069, -- [4]
+						7895, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608695731.042, -- [4]
+						7895, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						906, -- [3]
+						1608695731.042, -- [4]
+						6989, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						183811, -- [2]
-						120, -- [3]
-						1608090586.692, -- [4]
-						6765, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						906, -- [3]
+						1608695732.038, -- [4]
+						6083, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [29]
 					{
-						false, -- [1]
-						774, -- [2]
-						415, -- [3]
-						1608090586.76, -- [4]
-						7180, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						327619, -- [2]
+						1, -- [3]
+						1608695732.26, -- [4]
+						6083, -- [5]
+						"Waltzing Venthyr", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [30]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1074, -- [3]
-						1608090587.425, -- [4]
-						6106, -- [5]
-						"Shade of Kael'thas", -- [6]
+						327619, -- [2]
+						6025, -- [3]
+						1608695732.26, -- [4]
+						58, -- [5]
+						"Waltzing Venthyr", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						328579, -- [2]
-						6708, -- [3]
-						1608090587.425, -- [4]
+						334909, -- [2]
+						906, -- [3]
+						1608695733.072, -- [4]
 						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
-						602, -- [10]
+						848, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						184662, -- [2]
+						198589, -- [2]
 						1, -- [3]
-						1608090561.156, -- [4]
+						1608695728.367, -- [4]
 						0, -- [5]
-						"Viridian", -- [6]
+						"Velerolas-Thrall", -- [6]
 					}, -- [33]
 				},
-			}, -- [1]
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "3m 27s",
+				["time"] = 1608695733.072,
+			}, -- [3]
 			{
-				["maxhealth"] = 25260,
-				["timeofdeath"] = 142.6730000000098,
-				["name"] = "Breshinek",
-				["time"] = 1608090588.451,
-				["class"] = "SHAMAN",
-				["timestring"] = "2m 22s",
+				["maxhealth"] = 28907,
+				["timeofdeath"] = 212.8819999999832,
+				["name"] = "Sharundito",
 				["events"] = {
 					{
-						false, -- [1]
-						183811, -- [2]
-						116, -- [3]
-						1608090583.469, -- [4]
-						23049, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1608695798.425, -- [4]
+						0, -- [5]
+						"Las", -- [6]
 					}, -- [1]
 					{
 						false, -- [1]
-						81751, -- [2]
-						96, -- [3]
-						1608090583.506, -- [4]
-						23145, -- [5]
-						"Nostariel", -- [6]
+						183811, -- [2]
+						128, -- [3]
+						1608695719.241, -- [4]
+						27973, -- [5]
+						"Ishata-Zul'jin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3563,67 +3825,497 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						183811, -- [2]
-						117, -- [3]
-						1608090583.687, -- [4]
-						23262, -- [5]
-						"Traximandew", -- [6]
+						130, -- [3]
+						1608695719.529, -- [4]
+						28383, -- [5]
+						"Ishata-Zul'jin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
-						false, -- [1]
-						143924, -- [2]
-						55, -- [3]
-						1608090584.006, -- [4]
-						23317, -- [5]
-						"Breshinek", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						771, -- [3]
+						1608695720.041, -- [4]
+						27612, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						81751, -- [2]
-						516, -- [3]
-						1608090584.269, -- [4]
-						23833, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [4]
+					{
+						4, -- [1]
+						334909, -- [2]
+						4, -- [3]
+						1608695721.04, -- [4]
+						27612, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						94472, -- [2]
-						798, -- [3]
-						1608090584.352, -- [4]
-						24631, -- [5]
-						"Nostariel", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695721.04, -- [4]
+						26584, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						true, -- [1]
-						325506, -- [2]
-						4185, -- [3]
-						1608090584.626, -- [4]
-						20446, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						334909, -- [2]
+						1028, -- [3]
+						1608695722.044, -- [4]
+						25556, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695723.052, -- [4]
+						24528, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695724.064, -- [4]
+						23500, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695725.054, -- [4]
+						22473, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695726.049, -- [4]
+						21445, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						1, -- [1]
+						186265, -- [2]
+						1, -- [3]
+						1608695726.831, -- [4]
+						21445, -- [5]
+						"Sharundito", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						720, -- [3]
+						1608695727.055, -- [4]
+						20725, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						334909, -- [2]
+						720, -- [3]
+						1608695728.065, -- [4]
+						20209, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						120692, -- [2]
+						2426, -- [3]
+						1608695728.812, -- [4]
+						22635, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						334909, -- [2]
+						719, -- [3]
+						1608695729.081, -- [4]
+						21916, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695730.069, -- [4]
+						20888, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608695731.042, -- [4]
+						20888, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695731.042, -- [4]
+						19603, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695732.038, -- [4]
+						18318, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695733.051, -- [4]
+						17033, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695734.049, -- [4]
+						15748, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695735.044, -- [4]
+						14463, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						4, -- [1]
+						346651, -- [2]
+						1, -- [3]
+						1608695735.225, -- [4]
+						14463, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						346651, -- [2]
+						3857, -- [3]
+						1608695735.225, -- [4]
+						10606, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1284, -- [3]
+						1608695736.063, -- [4]
+						9322, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						346651, -- [2]
+						3856, -- [3]
+						1608695736.272, -- [4]
+						5466, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695737.042, -- [4]
+						4181, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						17, -- [2]
+						2660, -- [3]
+						1608695737.23, -- [4]
+						4181, -- [5]
+						"Nostariel", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						346651, -- [2]
+						3857, -- [3]
+						1608695737.23, -- [4]
+						2984, -- [5]
+						"Baroness Frieda", -- [6]
+						2660, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						17, -- [2]
+						0, -- [3]
+						1608695737.23, -- [4]
+						2984, -- [5]
+						"Nostariel", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1284, -- [3]
+						1608695738.059, -- [4]
+						1700, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						346651, -- [2]
+						3856, -- [3]
+						1608695738.232, -- [4]
+						1, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						2156, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						186265, -- [2]
+						1, -- [3]
+						1608695726.831, -- [4]
+						0, -- [5]
+						"Sharundito", -- [6]
+					}, -- [34]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "3m 32s",
+				["time"] = 1608695738.285,
+			}, -- [4]
+		},
+		["bossname"] = "The Council of Blood",
+		["bossicon"] = {
+			0.5, -- [1]
+			0.75, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
+		},
+		["date"] = 911434.1,
+		["timeelapsed"] = 463.6159999999218,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 26840,
+				["timeofdeath"] = 30.26399999996647,
+				["name"] = "Louxi-Thrall",
+				["events"] = {
+					{
+						true, -- [1]
+						347425, -- [2]
+						544, -- [3]
+						1608695127.63, -- [4]
+						26100, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						42, -- [3]
+						1608695128.036, -- [4]
+						26142, -- [5]
+						"Louxi-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						331638, -- [2]
+						954, -- [3]
+						1608695128.135, -- [4]
+						25188, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						347425, -- [2]
+						530, -- [3]
+						1608695128.135, -- [4]
+						24658, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						334909, -- [2]
+						514, -- [3]
+						1608695128.447, -- [4]
+						24144, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						331638, -- [2]
+						960, -- [3]
+						1608695128.637, -- [4]
+						23184, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						347425, -- [2]
+						525, -- [3]
+						1608695128.637, -- [4]
+						22659, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						94472, -- [2]
-						782, -- [3]
-						1608090584.678, -- [4]
-						21228, -- [5]
+						81751, -- [2]
+						98, -- [3]
+						1608695128.861, -- [4]
+						22757, -- [5]
 						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -3631,109 +4323,115 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						183811, -- [2]
-						114, -- [3]
-						1608090584.741, -- [4]
-						21342, -- [5]
-						"Traximandew", -- [6]
+						154, -- [3]
+						1608695128.974, -- [4]
+						22911, -- [5]
+						"Adante", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						false, -- [1]
-						183811, -- [2]
-						120, -- [3]
-						1608090584.741, -- [4]
-						21462, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						331638, -- [2]
+						961, -- [3]
+						1608695129.135, -- [4]
+						21950, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
-						false, -- [1]
-						81751, -- [2]
-						393, -- [3]
-						1608090584.981, -- [4]
-						21855, -- [5]
-						"Nostariel", -- [6]
+						true, -- [1]
+						347425, -- [2]
+						541, -- [3]
+						1608695129.135, -- [4]
+						21409, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [11]
 					{
-						false, -- [1]
-						81751, -- [2]
-						102, -- [3]
-						1608090585.065, -- [4]
-						21957, -- [5]
-						"Nostariel", -- [6]
+						true, -- [1]
+						334743, -- [2]
+						8736, -- [3]
+						1608695129.135, -- [4]
+						12673, -- [5]
+						"[*] Dark Recital", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
 						143924, -- [2]
-						72, -- [3]
-						1608090585.224, -- [4]
-						22029, -- [5]
-						"Breshinek", -- [6]
+						22, -- [3]
+						1608695129.258, -- [4]
+						12695, -- [5]
+						"Louxi-Thrall", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [13]
 					{
+						true, -- [1]
+						334909, -- [2]
+						514, -- [3]
+						1608695129.434, -- [4]
+						12181, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
 						false, -- [1]
 						81751, -- [2]
-						400, -- [3]
-						1608090585.301, -- [4]
-						22429, -- [5]
+						520, -- [3]
+						1608695129.486, -- [4]
+						12701, -- [5]
 						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
-					}, -- [14]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608090585.403, -- [4]
-						22429, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [15]
 					{
 						true, -- [1]
-						325877, -- [2]
-						7174, -- [3]
-						1608090585.403, -- [4]
-						15255, -- [5]
-						"Shade of Kael'thas", -- [6]
+						331638, -- [2]
+						974, -- [3]
+						1608695129.639, -- [4]
+						11727, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090585.403, -- [4]
-						15255, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
+						true, -- [1]
+						347425, -- [2]
+						526, -- [3]
+						1608695129.639, -- [4]
+						11201, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
 						81751, -- [2]
-						398, -- [3]
-						1608090585.598, -- [4]
-						15653, -- [5]
+						813, -- [3]
+						1608695129.992, -- [4]
+						12014, -- [5]
 						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -3741,68 +4439,1284 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						81751, -- [2]
-						395, -- [3]
-						1608090585.896, -- [4]
-						16048, -- [5]
-						"Nostariel", -- [6]
+						true, -- [1]
+						347425, -- [2]
+						525, -- [3]
+						1608695130.127, -- [4]
+						11489, -- [5]
+						"Lord Stavros", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [19]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1051, -- [3]
-						1608090586.409, -- [4]
-						14997, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						515, -- [3]
+						1608695130.45, -- [4]
+						10974, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
-						true, -- [1]
-						328579, -- [2]
-						6566, -- [3]
-						1608090586.409, -- [4]
-						8431, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						false, -- [1]
+						81751, -- [2]
+						103, -- [3]
+						1608695130.477, -- [4]
+						11077, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						347425, -- [2]
+						549, -- [3]
+						1608695130.632, -- [4]
+						10528, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						157503, -- [2]
+						885, -- [3]
+						1608695130.908, -- [4]
+						11413, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						331638, -- [2]
+						959, -- [3]
+						1608695131.12, -- [4]
+						10454, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						347425, -- [2]
+						531, -- [3]
+						1608695131.12, -- [4]
+						9923, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						94472, -- [2]
+						790, -- [3]
+						1608695131.167, -- [4]
+						10713, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						false, -- [1]
+						81751, -- [2]
+						394, -- [3]
+						1608695131.411, -- [4]
+						11107, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						4, -- [1]
+						334909, -- [2]
+						3, -- [3]
+						1608695131.411, -- [4]
+						11107, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						772, -- [3]
+						1608695131.441, -- [4]
+						10335, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						347425, -- [2]
+						544, -- [3]
+						1608695131.623, -- [4]
+						9791, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						334743, -- [2]
+						8514, -- [3]
+						1608695131.623, -- [4]
+						1277, -- [5]
+						"[*] Dark Recital", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334743, -- [2]
+						8452, -- [3]
+						1608695131.65, -- [4]
+						1, -- [5]
+						"[*] Dark Recital", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						7175, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Louxi-Thrall", -- [6]
+					}, -- [33]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "0m 30s",
+				["time"] = 1608695131.65,
+			}, -- [1]
+			{
+				["maxhealth"] = 28740,
+				["timeofdeath"] = 225.5479999999516,
+				["name"] = "Franold-Illidan",
+				["events"] = {
+					{
+						true, -- [1]
+						334909, -- [2]
+						749, -- [3]
+						1608695307.916, -- [4]
+						25747, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						334909, -- [2]
+						750, -- [3]
+						1608695308.919, -- [4]
+						24997, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						81751, -- [2]
+						517, -- [3]
+						1608695309.024, -- [4]
+						25514, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						81751, -- [2]
+						752, -- [3]
+						1608695309.551, -- [4]
+						26266, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						334909, -- [2]
+						750, -- [3]
+						1608695309.902, -- [4]
+						25516, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						749, -- [3]
+						1608695310.923, -- [4]
+						24767, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						81751, -- [2]
+						511, -- [3]
+						1608695311.406, -- [4]
+						25278, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						334909, -- [2]
+						749, -- [3]
+						1608695311.925, -- [4]
+						24529, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						81751, -- [2]
+						502, -- [3]
+						1608695312.636, -- [4]
+						25031, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						749, -- [3]
+						1608695312.921, -- [4]
+						24282, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						334909, -- [2]
+						749, -- [3]
+						1608695313.908, -- [4]
+						23533, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						334909, -- [2]
+						4, -- [3]
+						1608695313.93, -- [4]
+						23533, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						999, -- [3]
+						1608695314.913, -- [4]
+						22534, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1000, -- [3]
+						1608695315.911, -- [4]
+						21534, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1000, -- [3]
+						1608695316.923, -- [4]
+						20534, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1000, -- [3]
+						1608695317.912, -- [4]
+						19534, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						999, -- [3]
+						1608695318.912, -- [4]
+						18535, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						334909, -- [2]
+						999, -- [3]
+						1608695319.915, -- [4]
+						17536, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						327619, -- [2]
+						1, -- [3]
+						1608695320.058, -- [4]
+						17536, -- [5]
+						"Waltzing Venthyr", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						327619, -- [2]
+						8364, -- [3]
+						1608695320.058, -- [4]
+						9172, -- [5]
+						"Waltzing Venthyr", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						31616, -- [2]
+						6036, -- [3]
+						1608695320.076, -- [4]
+						15208, -- [5]
+						"Franold-Illidan", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						143924, -- [2]
-						72, -- [3]
-						1608090586.433, -- [4]
-						8503, -- [5]
-						"Breshinek", -- [6]
+						157503, -- [2]
+						827, -- [3]
+						1608695320.629, -- [4]
+						16035, -- [5]
+						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						334909, -- [2]
+						999, -- [3]
+						1608695320.931, -- [4]
+						15036, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						346660, -- [2]
+						9331, -- [3]
+						1608695320.954, -- [4]
+						5705, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1000, -- [3]
+						1608695321.93, -- [4]
+						4705, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						334909, -- [2]
+						949, -- [3]
+						1608695322.911, -- [4]
+						3756, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608695323.921, -- [4]
+						3756, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1124, -- [3]
+						1608695323.921, -- [4]
+						2632, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1062, -- [3]
+						1608695324.908, -- [4]
+						1570, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1249, -- [3]
+						1608695325.928, -- [4]
+						321, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						114942, -- [2]
+						831, -- [3]
+						1608695326.762, -- [4]
+						1152, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1249, -- [3]
+						1608695326.934, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						97, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						108271, -- [2]
+						1, -- [3]
+						1608695148.19, -- [4]
+						0, -- [5]
+						"Franold-Illidan", -- [6]
+					}, -- [33]
+				},
+				["class"] = "SHAMAN",
+				["timestring"] = "3m 45s",
+				["time"] = 1608695326.934,
+			}, -- [2]
+			{
+				["maxhealth"] = 27640,
+				["timeofdeath"] = 227.2519999999786,
+				["name"] = "Ishata-Zul'jin",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1608695344.238, -- [4]
+						0, -- [5]
+						"Imber", -- [6]
+					}, -- [1]
+					{
+						true, -- [1]
+						334909, -- [2]
+						771, -- [3]
+						1608695311.925, -- [4]
+						23814, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						334909, -- [2]
+						770, -- [3]
+						1608695312.921, -- [4]
+						23044, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						334909, -- [2]
+						771, -- [3]
+						1608695313.93, -- [4]
+						22273, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						4, -- [1]
+						334909, -- [2]
+						4, -- [3]
+						1608695313.93, -- [4]
+						22273, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						345727, -- [2]
+						1333, -- [3]
+						1608695314.728, -- [4]
+						23606, -- [5]
+						"Manaku-TwistingNether", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695314.913, -- [4]
+						22578, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695315.911, -- [4]
+						21551, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						73921, -- [2]
+						478, -- [3]
+						1608695316.511, -- [4]
+						22029, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1028, -- [3]
+						1608695316.923, -- [4]
+						21001, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695317.912, -- [4]
+						19974, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						73921, -- [2]
+						496, -- [3]
+						1608695318.318, -- [4]
+						20470, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695318.912, -- [4]
+						19443, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695319.915, -- [4]
+						18416, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						73921, -- [2]
+						495, -- [3]
+						1608695320.162, -- [4]
+						18911, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						157503, -- [2]
+						827, -- [3]
+						1608695320.629, -- [4]
+						19738, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						346660, -- [2]
+						9798, -- [3]
+						1608695320.727, -- [4]
+						9940, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695320.931, -- [4]
+						8913, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695321.93, -- [4]
+						7886, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						73921, -- [2]
+						1140, -- [3]
+						1608695321.973, -- [4]
+						9026, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1027, -- [3]
+						1608695322.911, -- [4]
+						7999, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						120692, -- [2]
+						1988, -- [3]
+						1608695323.489, -- [4]
+						9987, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						73921, -- [2]
+						1071, -- [3]
+						1608695323.82, -- [4]
+						11058, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608695323.921, -- [4]
+						11058, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695323.921, -- [4]
+						9773, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1284, -- [3]
+						1608695324.929, -- [4]
+						8489, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1284, -- [3]
+						1608695325.928, -- [4]
+						7205, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						114942, -- [2]
+						774, -- [3]
+						1608695326.762, -- [4]
+						7979, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1285, -- [3]
+						1608695326.934, -- [4]
+						6694, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1284, -- [3]
+						1608695327.917, -- [4]
+						5410, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						114942, -- [2]
+						1582, -- [3]
+						1608695328.578, -- [4]
+						6992, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						4, -- [1]
+						327619, -- [2]
+						1, -- [3]
+						1608695328.638, -- [4]
+						6992, -- [5]
+						"Waltzing Venthyr", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						327619, -- [2]
+						8404, -- [3]
+						1608695328.638, -- [4]
+						1, -- [5]
+						"Waltzing Venthyr", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						1412, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Ishata-Zul'jin", -- [6]
+					}, -- [34]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "3m 47s",
+				["time"] = 1608695328.638,
+			}, -- [3]
+			{
+				["maxhealth"] = 28675,
+				["timeofdeath"] = 228.5810000000056,
+				["name"] = "Velerolas-Thrall",
+				["events"] = {
+					{
+						true, -- [1]
+						334909, -- [2]
+						910, -- [3]
+						1608695320.931, -- [4]
+						24773, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						346660, -- [2]
+						8649, -- [3]
+						1608695321.247, -- [4]
+						15881, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						334909, -- [2]
+						910, -- [3]
+						1608695321.93, -- [4]
+						14971, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						334909, -- [2]
+						909, -- [3]
+						1608695322.949, -- [4]
+						14062, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608695323.921, -- [4]
+						14062, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1136, -- [3]
+						1608695323.953, -- [4]
+						12926, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						120692, -- [2]
+						2316, -- [3]
+						1608695324.18, -- [4]
+						15369, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						327610, -- [2]
+						12912, -- [3]
+						1608695324.303, -- [4]
+						2457, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						327610, -- [2]
+						1, -- [3]
+						1608695324.303, -- [4]
+						2457, -- [5]
+						"Lord Stavros", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						143924, -- [2]
+						79, -- [3]
+						1608695324.303, -- [4]
+						2536, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1136, -- [3]
+						1608695324.929, -- [4]
+						1400, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						104, -- [3]
+						1608695325.544, -- [4]
+						1504, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1137, -- [3]
+						1608695325.928, -- [4]
+						367, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						194509, -- [2]
+						2580, -- [3]
+						1608695326.403, -- [4]
+						2947, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						81751, -- [2]
+						147, -- [3]
+						1608695326.448, -- [4]
+						3094, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						6262, -- [2]
+						8139, -- [3]
+						1608695326.663, -- [4]
+						11233, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						114942, -- [2]
+						737, -- [3]
+						1608695326.74, -- [4]
+						11970, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1137, -- [3]
+						1608695326.934, -- [4]
+						10833, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						346651, -- [2]
+						1, -- [3]
+						1608695327.417, -- [4]
+						10939, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						346651, -- [2]
+						3411, -- [3]
+						1608695327.417, -- [4]
+						7528, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						143924, -- [2]
+						13, -- [3]
+						1608695327.558, -- [4]
+						7541, -- [5]
+						"Velerolas-Thrall", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1136, -- [3]
+						1608695327.939, -- [4]
+						6405, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
 						81751, -- [2]
 						101, -- [3]
-						1608090586.631, -- [4]
-						8604, -- [5]
+						1608695328.097, -- [4]
+						6506, -- [5]
 						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						183811, -- [2]
-						234, -- [3]
-						1608090587.013, -- [4]
-						8838, -- [5]
-						"Traximandew", -- [6]
+						81751, -- [2]
+						793, -- [3]
+						1608695328.22, -- [4]
+						7299, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3810,2106 +5724,124 @@ DeathGraphsDBCurrent = {
 					}, -- [24]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1051, -- [3]
-						1608090587.425, -- [4]
-						7787, -- [5]
-						"Shade of Kael'thas", -- [6]
+						346651, -- [2]
+						3412, -- [3]
+						1608695328.421, -- [4]
+						3887, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						328579, -- [2]
-						6566, -- [3]
-						1608090587.425, -- [4]
-						1221, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						false, -- [1]
+						114942, -- [2]
+						794, -- [3]
+						1608695328.555, -- [4]
+						4681, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
 						143924, -- [2]
-						21, -- [3]
-						1608090587.643, -- [4]
-						1242, -- [5]
-						"Breshinek", -- [6]
+						64, -- [3]
+						1608695328.766, -- [4]
+						4745, -- [5]
+						"Velerolas-Thrall", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						183811, -- [2]
-						120, -- [3]
-						1608090588.13, -- [4]
-						1362, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1137, -- [3]
+						1608695328.939, -- [4]
+						3608, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [28]
 					{
 						false, -- [1]
 						81751, -- [2]
-						99, -- [3]
-						1608090588.172, -- [4]
-						1461, -- [5]
+						585, -- [3]
+						1608695329.311, -- [4]
+						4193, -- [5]
 						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						183811, -- [2]
-						116, -- [3]
-						1608090588.172, -- [4]
-						1577, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1051, -- [3]
-						1608090588.411, -- [4]
-						526, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6566, -- [3]
-						1608090588.451, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						6040, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Breshinek", -- [6]
-					}, -- [33]
-				},
-			}, -- [2]
-			{
-				["maxhealth"] = 27540,
-				["timeofdeath"] = 143.0299999999697,
-				["name"] = "Stratagem",
-				["time"] = 1608090588.808,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 23s",
-				["events"] = {
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1608090873.25, -- [4]
-						0, -- [5]
-						"Imber", -- [6]
-					}, -- [1]
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1608090600.574, -- [4]
-						0, -- [5]
-						"Las", -- [6]
-					}, -- [2]
-					{
-						false, -- [1]
-						143924, -- [2]
-						302, -- [3]
-						1608090562.169, -- [4]
-						28867, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						143924, -- [2]
-						123, -- [3]
-						1608090567.811, -- [4]
-						28900, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						81269, -- [2]
-						243, -- [3]
-						1608090568.967, -- [4]
-						28900, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [5]
-					{
-						false, -- [1]
-						73921, -- [2]
-						416, -- [3]
-						1608090569.565, -- [4]
-						28900, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [6]
-					{
-						false, -- [1]
-						207386, -- [2]
-						159, -- [3]
-						1608090570.986, -- [4]
-						28900, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						207386, -- [2]
-						139, -- [3]
-						1608090572.989, -- [4]
-						28900, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						false, -- [1]
-						207386, -- [2]
-						126, -- [3]
-						1608090574.996, -- [4]
-						28900, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [9]
-					{
-						true, -- [1]
-						1, -- [2]
-						6429, -- [3]
-						1608090575.485, -- [4]
-						28900, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						141, -- [3]
-						1608090575.485, -- [4]
-						22612, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [11]
-					{
-						false, -- [1]
-						81269, -- [2]
-						340, -- [3]
-						1608090576.77, -- [4]
-						22952, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						85673, -- [2]
-						6003, -- [3]
-						1608090577.237, -- [4]
-						28900, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [13]
-					{
-						false, -- [1]
-						207386, -- [2]
-						234, -- [3]
-						1608090578.796, -- [4]
-						28900, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [14]
-					{
-						true, -- [1]
-						341254, -- [2]
-						4015, -- [3]
-						1608090578.878, -- [4]
-						24885, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090580.796, -- [4]
-						25000, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090582.806, -- [4]
-						25115, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090583.196, -- [4]
-						25115, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						325506, -- [2]
-						3581, -- [3]
-						1608090584.626, -- [4]
-						21534, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608090585.403, -- [4]
-						21534, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						325877, -- [2]
-						7786, -- [3]
-						1608090585.403, -- [4]
-						13748, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090585.403, -- [4]
-						13748, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						330945, -- [2]
-						5491, -- [3]
-						1608090585.429, -- [4]
-						19239, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [23]
-					{
-						false, -- [1]
-						143924, -- [2]
-						12, -- [3]
-						1608090585.618, -- [4]
-						19251, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [24]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1071, -- [3]
-						1608090586.409, -- [4]
-						18180, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6687, -- [3]
-						1608090586.409, -- [4]
-						11493, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090586.76, -- [4]
-						11493, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						143924, -- [2]
-						10, -- [3]
-						1608090586.841, -- [4]
-						11503, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1071, -- [3]
-						1608090587.425, -- [4]
-						10432, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						225311, -- [2]
-						1980, -- [3]
-						1608090587.58, -- [4]
-						12412, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [30]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6687, -- [3]
-						1608090587.753, -- [4]
-						5725, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						143924, -- [2]
-						147, -- [3]
-						1608090588.056, -- [4]
-						5872, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [32]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1071, -- [3]
-						1608090588.411, -- [4]
-						4801, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [33]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6688, -- [3]
-						1608090588.768, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						1887, -- [10]
-					}, -- [34]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Stratagem", -- [6]
-					}, -- [35]
-				},
-			}, -- [3]
-			{
-				["maxhealth"] = 27856,
-				["timeofdeath"] = 180.9799999999814,
-				["name"] = "Sharundito",
-				["time"] = 1608090626.758,
-				["class"] = "HUNTER",
-				["timestring"] = "3m 0s",
-				["events"] = {
-					{
-						true, -- [1]
-						328579, -- [2]
-						6779, -- [3]
-						1608090608.146, -- [4]
-						19950, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						1114, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						114942, -- [2]
-						186, -- [3]
-						1608090608.525, -- [4]
-						20136, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						143924, -- [2]
-						579, -- [3]
-						1608090608.77, -- [4]
-						20715, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						143924, -- [2]
-						298, -- [3]
-						1608090609.992, -- [4]
-						21013, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						325983, -- [2]
-						1341, -- [3]
-						1608090610.615, -- [4]
-						22354, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						170, -- [3]
-						1608090611.193, -- [4]
-						22524, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						143924, -- [2]
-						267, -- [3]
-						1608090612.407, -- [4]
-						22791, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						143924, -- [2]
-						202, -- [3]
-						1608090613.629, -- [4]
-						22993, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1203, -- [3]
-						1608090614.838, -- [4]
-						23999, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						81269, -- [2]
-						689, -- [3]
-						1608090615.255, -- [4]
-						24688, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						294, -- [3]
-						1608090616.066, -- [4]
-						24982, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						928, -- [3]
-						1608090617.263, -- [4]
-						25910, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090617.263, -- [4]
-						26025, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						384, -- [3]
-						1608090618.491, -- [4]
-						26409, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090619.268, -- [4]
-						26524, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						143924, -- [2]
-						78, -- [3]
-						1608090619.693, -- [4]
-						27928, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						325983, -- [2]
-						700, -- [3]
-						1608090619.817, -- [4]
-						28628, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						143924, -- [2]
-						355, -- [3]
-						1608090620.923, -- [4]
-						28983, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090621.268, -- [4]
-						29098, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						73921, -- [2]
-						438, -- [3]
-						1608090621.628, -- [4]
-						25522, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						81269, -- [2]
-						334, -- [3]
-						1608090622.232, -- [4]
-						25856, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						61295, -- [2]
-						3313, -- [3]
-						1608090622.324, -- [4]
-						29169, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						183811, -- [2]
-						235, -- [3]
-						1608090622.712, -- [4]
-						32641, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						143924, -- [2]
-						111, -- [3]
-						1608090622.922, -- [4]
-						32752, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						183811, -- [2]
-						115, -- [3]
-						1608090623.552, -- [4]
-						32867, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						682, -- [3]
-						1608090624.164, -- [4]
-						33549, -- [5]
-						"Sharundito", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090624.257, -- [4]
-						33664, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						61295, -- [2]
-						340, -- [3]
-						1608090624.489, -- [4]
-						32152, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						207386, -- [2]
-						115, -- [3]
-						1608090626.245, -- [4]
-						32152, -- [5]
-						"Imber", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						false, -- [1]
-						61295, -- [2]
-						692, -- [3]
-						1608090626.675, -- [4]
-						32152, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [30]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608090626.758, -- [4]
-						32152, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
 						true, -- [1]
-						325877, -- [2]
-						86809, -- [3]
-						1608090626.758, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
+						346651, -- [2]
+						3411, -- [3]
+						1608695329.42, -- [4]
+						782, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						54657, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Sharundito", -- [6]
-					}, -- [33]
-				},
-			}, -- [4]
-			{
-				["maxhealth"] = 27540,
-				["timeofdeath"] = 416.185999999987,
-				["name"] = "Stratagem",
-				["time"] = 1608090861.964,
-				["class"] = "PALADIN",
-				["timestring"] = "6m 56s",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						209, -- [3]
-						1608090831.413, -- [4]
-						19479, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						104, -- [3]
-						1608090834.248, -- [4]
-						19583, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						8936, -- [2]
-						2891, -- [3]
-						1608090835.414, -- [4]
-						22474, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						8936, -- [2]
-						116, -- [3]
-						1608090837.234, -- [4]
-						22590, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						114942, -- [2]
-						598, -- [3]
-						1608090838.345, -- [4]
-						23188, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						301, -- [3]
-						1608090838.693, -- [4]
-						23489, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						8936, -- [2]
-						118, -- [3]
-						1608090839.052, -- [4]
-						23607, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						143924, -- [2]
-						249, -- [3]
-						1608090839.906, -- [4]
-						23856, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						114942, -- [2]
-						1170, -- [3]
-						1608090840.228, -- [4]
-						25026, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						8936, -- [2]
-						129, -- [3]
-						1608090840.854, -- [4]
-						25155, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						114942, -- [2]
-						564, -- [3]
-						1608090842.106, -- [4]
-						25719, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						8936, -- [2]
-						129, -- [3]
-						1608090842.673, -- [4]
-						25848, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						114942, -- [2]
-						568, -- [3]
-						1608090843.987, -- [4]
-						26416, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						8936, -- [2]
-						127, -- [3]
-						1608090844.489, -- [4]
-						26543, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						120692, -- [2]
-						777, -- [3]
-						1608090844.574, -- [4]
-						27320, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						114942, -- [2]
-						1054, -- [3]
-						1608090845.849, -- [4]
-						27540, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						8936, -- [2]
-						126, -- [3]
-						1608090846.302, -- [4]
-						27540, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						8936, -- [2]
-						79, -- [3]
-						1608090847.412, -- [4]
-						27540, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						114942, -- [2]
-						516, -- [3]
-						1608090847.742, -- [4]
-						27540, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						114942, -- [2]
-						1047, -- [3]
-						1608090849.6, -- [4]
-						27540, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						114942, -- [2]
-						197, -- [3]
-						1608090850.354, -- [4]
-						27540, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						325506, -- [2]
-						3137, -- [3]
-						1608090856.322, -- [4]
-						24403, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						341473, -- [2]
-						1, -- [3]
-						1608090856.364, -- [4]
-						24403, -- [5]
-						"Bleakwing Assassin", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						348478, -- [2]
-						19007, -- [3]
-						1608090858.089, -- [4]
-						5396, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						64, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						25914, -- [2]
-						5741, -- [3]
-						1608090859.777, -- [4]
-						11137, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						34, -- [3]
-						1608090860.156, -- [4]
-						11171, -- [5]
-						"Stratagem", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						337824, -- [2]
-						1148, -- [3]
-						1608090861.616, -- [4]
-						11171, -- [5]
-						"Stratagem", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						341475, -- [2]
-						2864, -- [3]
-						1608090861.616, -- [4]
-						9455, -- [5]
-						"Bleakwing Assassin", -- [6]
-						1148, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						341475, -- [2]
-						1, -- [3]
-						1608090861.616, -- [4]
-						9455, -- [5]
-						"Bleakwing Assassin", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						8936, -- [2]
-						2550, -- [3]
-						1608090861.898, -- [4]
-						12005, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608090861.948, -- [4]
-						12005, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						325877, -- [2]
-						28547, -- [3]
-						1608090861.964, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						16542, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Stratagem", -- [6]
-					}, -- [33]
-				},
-			}, -- [5]
-			{
-				["maxhealth"] = 30017,
-				["timeofdeath"] = 418.5559999999823,
-				["name"] = "Las",
-				["time"] = 1608090864.334,
-				["class"] = "DRUID",
-				["timestring"] = "6m 58s",
-				["events"] = {
-					{
-						false, -- [1]
-						774, -- [2]
-						496, -- [3]
-						1608090844.423, -- [4]
-						29573, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						8936, -- [2]
-						85, -- [3]
-						1608090844.687, -- [4]
-						29658, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						120692, -- [2]
-						733, -- [3]
-						1608090844.809, -- [4]
-						30391, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						1, -- [2]
-						4096, -- [3]
-						1608090845.601, -- [4]
-						30391, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						114942, -- [2]
-						582, -- [3]
-						1608090845.849, -- [4]
-						26877, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						183811, -- [2]
-						122, -- [3]
-						1608090846.657, -- [4]
-						26999, -- [5]
-						"Traximandew", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						774, -- [2]
-						457, -- [3]
-						1608090847.154, -- [4]
-						27456, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						1, -- [1]
-						22812, -- [2]
-						1, -- [3]
-						1608090847.189, -- [4]
-						27456, -- [5]
-						"Las", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						114942, -- [2]
-						1200, -- [3]
-						1608090847.742, -- [4]
-						27348, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						320751, -- [2]
-						9649, -- [3]
-						1608090848.579, -- [4]
-						36192, -- [5]
-						"Breshinek", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						114942, -- [2]
-						1065, -- [3]
-						1608090849.6, -- [4]
-						36192, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						774, -- [2]
-						457, -- [3]
-						1608090849.879, -- [4]
-						36192, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						114942, -- [2]
-						207, -- [3]
-						1608090850.354, -- [4]
-						36192, -- [5]
-						"Healing Tide Totem <Dunkie>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						774, -- [2]
-						457, -- [3]
-						1608090852.599, -- [4]
-						36192, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						466, -- [3]
-						1608090855.32, -- [4]
-						36192, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						325506, -- [2]
-						2809, -- [3]
-						1608090856.322, -- [4]
-						33383, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						145110, -- [2]
-						901, -- [3]
-						1608090856.927, -- [4]
-						34284, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						774, -- [2]
-						466, -- [3]
-						1608090858.024, -- [4]
-						35045, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						145109, -- [2]
-						1095, -- [3]
-						1608090859.075, -- [4]
-						36140, -- [5]
-						"Las", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						236, -- [3]
-						1608090859.432, -- [4]
-						36376, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608090861.948, -- [4]
-						31401, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						325877, -- [2]
-						28374, -- [3]
-						1608090861.964, -- [4]
-						3027, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090862.031, -- [4]
-						3027, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2193, -- [3]
-						1608090862.951, -- [4]
-						1591, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						81751, -- [2]
-						100, -- [3]
-						1608090863.086, -- [4]
-						1691, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						17, -- [2]
-						2128, -- [3]
-						1608090863.955, -- [4]
-						1354, -- [5]
-						"Nostariel", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2128, -- [3]
-						1608090863.955, -- [4]
-						1354, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						145109, -- [2]
-						945, -- [3]
-						1608090864.08, -- [4]
-						2299, -- [5]
-						"Las", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
 					{
 						false, -- [1]
 						94472, -- [2]
-						213, -- [3]
-						1608090864.247, -- [4]
-						2512, -- [5]
+						193, -- [3]
+						1608695329.728, -- [4]
+						975, -- [5]
 						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						1, -- [2]
-						5230, -- [3]
-						1608090864.334, -- [4]
-						2512, -- [5]
-						"Bleakwing Assassin", -- [6]
-						491, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2227, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						17, -- [2]
-						491, -- [3]
-						1608090864.334, -- [4]
-						2512, -- [5]
-						"Nostariel", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [31]
 					{
-						false, -- [1]
-						17, -- [2]
+						true, -- [1]
+						334909, -- [2]
+						1136, -- [3]
+						1608695329.947, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						161, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
 						0, -- [3]
-						1608090864.334, -- [4]
-						2512, -- [5]
-						"Nostariel", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						22812, -- [2]
-						1, -- [3]
-						1608090847.189, -- [4]
+						0, -- [4]
 						0, -- [5]
-						"Las", -- [6]
+						"Velerolas-Thrall", -- [6]
 					}, -- [33]
 				},
-			}, -- [6]
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "3m 48s",
+				["time"] = 1608695329.967,
+			}, -- [4]
 			{
-				["maxhealth"] = 26040,
-				["timeofdeath"] = 426.234999999986,
-				["name"] = "Pikin-Illidan",
-				["time"] = 1608090872.013,
-				["class"] = "HUNTER",
-				["timestring"] = "7m 6s",
-				["events"] = {
-					{
-						true, -- [1]
-						328579, -- [2]
-						6521, -- [3]
-						1608090866.981, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						90361, -- [2]
-						835, -- [3]
-						1608090867.014, -- [4]
-						1796, -- [5]
-						"Butters <Pikin-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						341475, -- [2]
-						718, -- [3]
-						1608090867.622, -- [4]
-						1078, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						320221, -- [2]
-						1010, -- [3]
-						1608090867.96, -- [4]
-						1078, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2087, -- [3]
-						1608090867.96, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						1010, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						320221, -- [2]
-						6521, -- [3]
-						1608090867.975, -- [4]
-						1, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6521, -- [3]
-						1608090867.975, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						1064, -- [2]
-						2327, -- [3]
-						1608090868.424, -- [4]
-						3289, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						61295, -- [2]
-						4496, -- [3]
-						1608090868.424, -- [4]
-						7785, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						341475, -- [2]
-						717, -- [3]
-						1608090868.62, -- [4]
-						7846, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2088, -- [3]
-						1608090868.956, -- [4]
-						5758, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						320221, -- [2]
-						764, -- [3]
-						1608090868.974, -- [4]
-						5758, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6521, -- [3]
-						1608090868.974, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						764, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						90361, -- [2]
-						835, -- [3]
-						1608090869.007, -- [4]
-						836, -- [5]
-						"Butters <Pikin-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						341475, -- [2]
-						717, -- [3]
-						1608090869.621, -- [4]
-						1176, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						320221, -- [2]
-						913, -- [3]
-						1608090869.951, -- [4]
-						1176, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2088, -- [3]
-						1608090869.951, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						913, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						320221, -- [2]
-						5464, -- [3]
-						1608090869.999, -- [4]
-						1058, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6521, -- [3]
-						1608090869.999, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						5464, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						480, -- [3]
-						1608090870.05, -- [4]
-						481, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						320221, -- [2]
-						238, -- [3]
-						1608090870.635, -- [4]
-						481, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						341475, -- [2]
-						718, -- [3]
-						1608090870.635, -- [4]
-						1, -- [5]
-						"Bleakwing Assassin", -- [6]
-						238, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						320221, -- [2]
-						2088, -- [3]
-						1608090870.956, -- [4]
-						1, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2088, -- [3]
-						1608090870.956, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						320221, -- [2]
-						5464, -- [3]
-						1608090871.005, -- [4]
-						1058, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6521, -- [3]
-						1608090871.005, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						5464, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						90361, -- [2]
-						835, -- [3]
-						1608090871.02, -- [4]
-						836, -- [5]
-						"Butters <Pikin-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						61295, -- [2]
-						488, -- [3]
-						1608090871.245, -- [4]
-						1324, -- [5]
-						"Dunkie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						341475, -- [2]
-						717, -- [3]
-						1608090871.625, -- [4]
-						607, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						320221, -- [2]
-						1481, -- [3]
-						1608090871.945, -- [4]
-						607, -- [5]
-						"Pikin-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						326430, -- [2]
-						2087, -- [3]
-						1608090871.945, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						1481, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						6521, -- [3]
-						1608090872.013, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						5463, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						109304, -- [2]
-						1, -- [3]
-						1608090653.429, -- [4]
-						0, -- [5]
-						"Pikin-Illidan", -- [6]
-					}, -- [33]
-				},
-			}, -- [7]
-			{
-				["maxhealth"] = 24920,
-				["timeofdeath"] = 436.8729999999632,
+				["maxhealth"] = 30000,
+				["timeofdeath"] = 229.0499999999302,
 				["name"] = "Bìshop",
-				["time"] = 1608090882.651,
-				["class"] = "WARLOCK",
-				["timestring"] = "7m 16s",
 				["events"] = {
 					{
 						false, -- [1]
-						77220, -- [2]
-						321, -- [3]
-						1608090856.322, -- [4]
-						25735, -- [5]
+						108366, -- [2]
+						0, -- [3]
+						1608695325.928, -- [4]
+						3442, -- [5]
 						"Bìshop", -- [6]
 						true, -- [7]
 						0, -- [8]
@@ -5917,357 +5849,359 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [1]
 					{
-						false, -- [1]
-						108366, -- [2]
-						1249, -- [3]
-						1608090856.322, -- [4]
-						25735, -- [5]
+						1, -- [1]
+						104773, -- [2]
+						1, -- [3]
+						1608695326.25, -- [4]
+						3442, -- [5]
 						"Bìshop", -- [6]
-						true, -- [7]
-						0, -- [8]
+						109, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						true, -- [1]
-						325506, -- [2]
-						5290, -- [3]
-						1608090856.322, -- [4]
-						22015, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						1570, -- [7]
-						1, -- [8]
+						false, -- [1]
+						114942, -- [2]
+						780, -- [3]
+						1608695326.762, -- [4]
+						4222, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						143924, -- [2]
-						24, -- [3]
-						1608090856.927, -- [4]
-						22039, -- [5]
+						77220, -- [2]
+						54, -- [3]
+						1608695326.934, -- [4]
+						4222, -- [5]
 						"Bìshop", -- [6]
-						nil, -- [7]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						143924, -- [2]
-						12, -- [3]
-						1608090858.946, -- [4]
-						22051, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						737, -- [3]
+						1608695326.934, -- [4]
+						3539, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						54, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						143924, -- [2]
-						32, -- [3]
-						1608090860.156, -- [4]
-						22083, -- [5]
+						6262, -- [2]
+						8858, -- [3]
+						1608695327.238, -- [4]
+						12397, -- [5]
 						"Bìshop", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
-					{
-						false, -- [1]
-						143924, -- [2]
-						6, -- [3]
-						1608090862.199, -- [4]
-						22089, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						143924, -- [2]
-						61, -- [3]
-						1608090864.247, -- [4]
-						22150, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						11, -- [3]
-						1608090865.427, -- [4]
-						22161, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608090867.463, -- [4]
-						22165, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						69, -- [3]
-						1608090868.683, -- [4]
-						22234, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						12, -- [3]
-						1608090869.903, -- [4]
-						22246, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18, -- [3]
-						1608090871.134, -- [4]
-						22264, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608090872.745, -- [4]
-						22268, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						127802, -- [2]
-						367, -- [3]
-						1608090872.898, -- [4]
-						22635, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						143924, -- [2]
-						205, -- [3]
-						1608090873.96, -- [4]
-						22840, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608090875.563, -- [4]
-						22844, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						77220, -- [2]
-						280, -- [3]
-						1608090875.765, -- [4]
-						22844, -- [5]
-						"Bìshop", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						108366, -- [2]
-						2430, -- [3]
-						1608090875.765, -- [4]
-						22844, -- [5]
-						"Bìshop", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						325506, -- [2]
-						6158, -- [3]
-						1608090875.765, -- [4]
-						19396, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						2710, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18, -- [3]
-						1608090876.787, -- [4]
-						19414, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18, -- [3]
-						1608090877.996, -- [4]
-						19432, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						5, -- [3]
-						1608090879.224, -- [4]
-						19437, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						157982, -- [2]
-						972, -- [3]
-						1608090880.341, -- [4]
-						20409, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						143924, -- [2]
-						73, -- [3]
-						1608090880.462, -- [4]
-						20482, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						6, -- [3]
-						1608090881.654, -- [4]
-						20488, -- [5]
-						"Bìshop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						157982, -- [2]
-						2101, -- [3]
-						1608090882.156, -- [4]
-						22589, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						157982, -- [2]
-						61, -- [3]
-						1608090882.332, -- [4]
-						22650, -- [5]
-						"Imber", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [28]
 					{
 						4, -- [1]
-						326430, -- [2]
+						346651, -- [2]
 						1, -- [3]
-						1608090882.632, -- [4]
-						22650, -- [5]
-						"Shade of Kael'thas", -- [6]
+						1608695327.417, -- [4]
+						12397, -- [5]
+						"Baroness Frieda", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [29]
+					}, -- [7]
 					{
 						false, -- [1]
 						77220, -- [2]
-						4199, -- [3]
-						1608090882.632, -- [4]
-						22650, -- [5]
+						142, -- [3]
+						1608695327.417, -- [4]
+						12397, -- [5]
 						"Bìshop", -- [6]
 						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						108366, -- [2]
+						51, -- [3]
+						1608695327.417, -- [4]
+						12397, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						346651, -- [2]
+						2214, -- [3]
+						1608695327.417, -- [4]
+						10376, -- [5]
+						"Baroness Frieda", -- [6]
+						193, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608695327.417, -- [4]
+						10376, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						327619, -- [2]
+						1, -- [3]
+						1608695327.459, -- [4]
+						10376, -- [5]
+						"Waltzing Venthyr", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77220, -- [2]
+						327, -- [3]
+						1608695327.459, -- [4]
+						10376, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						327619, -- [2]
+						4837, -- [3]
+						1608695327.459, -- [4]
+						5866, -- [5]
+						"Waltzing Venthyr", -- [6]
+						327, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						77220, -- [2]
+						50, -- [3]
+						1608695327.917, -- [4]
+						5866, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						334909, -- [2]
+						737, -- [3]
+						1608695327.917, -- [4]
+						5179, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						50, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77220, -- [2]
+						110, -- [3]
+						1608695328.421, -- [4]
+						5179, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						108366, -- [2]
+						42, -- [3]
+						1608695328.421, -- [4]
+						5179, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						346651, -- [2]
+						2213, -- [3]
+						1608695328.421, -- [4]
+						3118, -- [5]
+						"Baroness Frieda", -- [6]
+						152, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608695328.421, -- [4]
+						3118, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						114942, -- [2]
+						776, -- [3]
+						1608695328.555, -- [4]
+						3894, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77220, -- [2]
+						41, -- [3]
+						1608695328.916, -- [4]
+						3894, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						334909, -- [2]
+						737, -- [3]
+						1608695328.916, -- [4]
+						3198, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						41, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						77220, -- [2]
+						102, -- [3]
+						1608695329.42, -- [4]
+						3198, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						346651, -- [2]
+						2213, -- [3]
+						1608695329.42, -- [4]
+						1087, -- [5]
+						"Baroness Frieda", -- [6]
+						102, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77220, -- [2]
+						57, -- [3]
+						1608695329.924, -- [4]
+						1087, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						108366, -- [2]
+						43, -- [3]
+						1608695329.924, -- [4]
+						1087, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						737, -- [3]
+						1608695329.924, -- [4]
+						450, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						100, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608695329.924, -- [4]
+						450, -- [5]
+						"Bìshop", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						114942, -- [2]
+						746, -- [3]
+						1608695330.414, -- [4]
+						1196, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						108366, -- [2]
-						834, -- [3]
-						1608090882.632, -- [4]
-						22650, -- [5]
+						77220, -- [2]
+						173, -- [3]
+						1608695330.436, -- [4]
+						1196, -- [5]
 						"Bìshop", -- [6]
 						true, -- [7]
 						0, -- [8]
@@ -6276,65 +6210,65 @@ DeathGraphsDBCurrent = {
 					}, -- [31]
 					{
 						true, -- [1]
-						325877, -- [2]
-						87526, -- [3]
-						1608090882.632, -- [4]
+						346651, -- [2]
+						2213, -- [3]
+						1608695330.436, -- [4]
 						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						5033, -- [7]
-						4, -- [8]
+						"Baroness Frieda", -- [6]
+						173, -- [7]
+						32, -- [8]
 						false, -- [9]
-						59843, -- [10]
+						844, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
 						104773, -- [2]
 						1, -- [3]
-						1608090838.099, -- [4]
+						1608695326.25, -- [4]
 						0, -- [5]
 						"Bìshop", -- [6]
 					}, -- [33]
 				},
-			}, -- [8]
+				["class"] = "WARLOCK",
+				["timestring"] = "3m 49s",
+				["time"] = 1608695330.436,
+			}, -- [5]
 			{
-				["maxhealth"] = 41800,
-				["timeofdeath"] = 451.4780000000028,
-				["name"] = "Khaless",
-				["time"] = 1608090897.256,
-				["class"] = "WARRIOR",
-				["timestring"] = "7m 31s",
+				["maxhealth"] = 25820,
+				["timeofdeath"] = 248.5740000000224,
+				["name"] = "Elstermaël-Zul'jin",
 				["events"] = {
 					{
 						false, -- [1]
-						47750, -- [2]
-						2200, -- [3]
-						1608090891.319, -- [4]
-						14017, -- [5]
-						"Nostariel", -- [6]
-						nil, -- [7]
+						235450, -- [2]
+						1024, -- [3]
+						1608695332.92, -- [4]
+						15045, -- [5]
+						"Elstermaël-Zul'jin", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608090891.544, -- [4]
-						14017, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1024, -- [3]
+						1608695332.92, -- [4]
+						15045, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						157982, -- [2]
-						95, -- [3]
-						1608090891.979, -- [4]
-						14112, -- [5]
-						"Imber", -- [6]
+						81751, -- [2]
+						97, -- [3]
+						1608695333.018, -- [4]
+						15142, -- [5]
+						"Nostariel", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6342,59 +6276,59 @@ DeathGraphsDBCurrent = {
 					}, -- [3]
 					{
 						false, -- [1]
-						47750, -- [2]
-						2243, -- [3]
-						1608090892.093, -- [4]
-						16355, -- [5]
-						"Nostariel", -- [6]
+						337137, -- [2]
+						179, -- [3]
+						1608695333.916, -- [4]
+						15321, -- [5]
+						"Elstermaël-Zul'jin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						143924, -- [2]
-						3, -- [3]
-						1608090892.17, -- [4]
-						16358, -- [5]
-						"Khaless", -- [6]
-						nil, -- [7]
+						235450, -- [2]
+						653, -- [3]
+						1608695333.916, -- [4]
+						15321, -- [5]
+						"Elstermaël-Zul'jin", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						true, -- [1]
-						326456, -- [2]
-						4004, -- [3]
-						1608090892.203, -- [4]
-						12354, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
+						334909, -- [2]
+						1024, -- [3]
+						1608695333.916, -- [4]
+						14950, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						653, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						false, -- [1]
-						316643, -- [2]
-						877, -- [3]
-						1608090892.434, -- [4]
-						13231, -- [5]
-						"Khaless", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						334909, -- [2]
+						6, -- [3]
+						1608695333.936, -- [4]
+						14950, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						47750, -- [2]
-						4524, -- [3]
-						1608090893.084, -- [4]
-						17755, -- [5]
-						"Nostariel", -- [6]
+						114942, -- [2]
+						1251, -- [3]
+						1608695334.043, -- [4]
+						16201, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6402,118 +6336,520 @@ DeathGraphsDBCurrent = {
 					}, -- [8]
 					{
 						false, -- [1]
-						337824, -- [2]
-						1115, -- [3]
-						1608090893.233, -- [4]
-						17755, -- [5]
-						"Stratagem", -- [6]
-						true, -- [7]
+						81751, -- [2]
+						97, -- [3]
+						1608695334.676, -- [4]
+						16298, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						true, -- [1]
-						326456, -- [2]
-						5005, -- [3]
-						1608090893.233, -- [4]
-						13865, -- [5]
-						"Shade of Kael'thas", -- [6]
-						1115, -- [7]
-						4, -- [8]
+						334909, -- [2]
+						1536, -- [3]
+						1608695334.941, -- [4]
+						14762, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						143924, -- [2]
-						32, -- [3]
-						1608090893.382, -- [4]
-						13897, -- [5]
-						"Khaless", -- [6]
+						114942, -- [2]
+						649, -- [3]
+						1608695335.851, -- [4]
+						15411, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
-						false, -- [1]
-						25914, -- [2]
-						2946, -- [3]
-						1608090893.612, -- [4]
-						16843, -- [5]
-						"Stratagem", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1536, -- [3]
+						1608695335.919, -- [4]
+						13875, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						false, -- [1]
-						325983, -- [2]
-						752, -- [3]
-						1608090893.93, -- [4]
-						17595, -- [5]
-						"Stratagem", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1536, -- [3]
+						1608695336.909, -- [4]
+						12339, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						337824, -- [2]
-						589, -- [3]
-						1608090894.216, -- [4]
-						17595, -- [5]
-						"Stratagem", -- [6]
-						true, -- [7]
+						114942, -- [2]
+						666, -- [3]
+						1608695337.675, -- [4]
+						13005, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
 						true, -- [1]
-						326456, -- [2]
-						5005, -- [3]
-						1608090894.216, -- [4]
-						13179, -- [5]
-						"Shade of Kael'thas", -- [6]
-						589, -- [7]
-						4, -- [8]
+						334909, -- [2]
+						1536, -- [3]
+						1608695337.917, -- [4]
+						11469, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						143924, -- [2]
-						17, -- [3]
-						1608090894.63, -- [4]
-						13196, -- [5]
-						"Khaless", -- [6]
+						157503, -- [2]
+						1378, -- [3]
+						1608695338.484, -- [4]
+						12847, -- [5]
+						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						1, -- [2]
-						1134, -- [3]
-						1608090894.695, -- [4]
-						13196, -- [5]
-						"Bleakwing Assassin", -- [6]
+						false, -- [1]
+						114942, -- [2]
+						797, -- [3]
+						1608695338.762, -- [4]
+						13644, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1536, -- [3]
+						1608695338.923, -- [4]
+						12108, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1536, -- [3]
+						1608695339.928, -- [4]
+						10572, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1537, -- [3]
+						1608695340.925, -- [4]
+						9035, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						345727, -- [2]
+						1325, -- [3]
+						1608695341.236, -- [4]
+						10360, -- [5]
+						"Manaku-TwistingNether", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1537, -- [3]
+						1608695341.923, -- [4]
+						8823, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1537, -- [3]
+						1608695342.909, -- [4]
+						7286, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						1064, -- [2]
+						1465, -- [3]
+						1608695343.15, -- [4]
+						8751, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1536, -- [3]
+						1608695343.913, -- [4]
+						8090, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608695343.934, -- [4]
+						8090, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1434, -- [3]
+						1608695344.916, -- [4]
+						6656, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1434, -- [3]
+						1608695345.919, -- [4]
+						5222, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1434, -- [3]
+						1608695346.909, -- [4]
+						3788, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1434, -- [3]
+						1608695347.913, -- [4]
+						2354, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1434, -- [3]
+						1608695348.934, -- [4]
+						920, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1434, -- [3]
+						1608695349.914, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						514, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Elstermaël-Zul'jin", -- [6]
+					}, -- [33]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "4m 8s",
+				["time"] = 1608695349.96,
+			}, -- [6]
+			{
+				["maxhealth"] = 27979,
+				["timeofdeath"] = 249.5840000000317,
+				["name"] = "Fafafoey",
+				["events"] = {
+					{
+						false, -- [1]
+						114942, -- [2]
+						660, -- [3]
+						1608695335.851, -- [4]
+						12535, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695335.919, -- [4]
+						10991, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						325983, -- [2]
+						801, -- [3]
+						1608695335.992, -- [4]
+						11792, -- [5]
+						"Adante", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695336.909, -- [4]
+						10248, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						114942, -- [2]
+						704, -- [3]
+						1608695337.675, -- [4]
+						10952, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1543, -- [3]
+						1608695337.917, -- [4]
+						9409, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						157503, -- [2]
+						1377, -- [3]
+						1608695338.484, -- [4]
+						10786, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						114942, -- [2]
+						402, -- [3]
+						1608695338.74, -- [4]
+						11188, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695338.923, -- [4]
+						9644, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						73921, -- [2]
+						1077, -- [3]
+						1608695339.198, -- [4]
+						10721, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						337824, -- [2]
+						1245, -- [3]
+						1608695339.928, -- [4]
+						10721, -- [5]
+						"Adante", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1543, -- [3]
+						1608695339.928, -- [4]
+						10423, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						1245, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695340.925, -- [4]
+						8879, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						73921, -- [2]
+						1083, -- [3]
+						1608695341.028, -- [4]
+						9962, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						345727, -- [2]
+						1370, -- [3]
+						1608695341.236, -- [4]
+						11332, -- [5]
+						"Manaku-TwistingNether", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695341.923, -- [4]
+						9788, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695342.909, -- [4]
+						8244, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						379, -- [2]
-						867, -- [3]
-						1608090894.728, -- [4]
-						14063, -- [5]
+						73921, -- [2]
+						264, -- [3]
+						1608695343.744, -- [4]
+						8508, -- [5]
 						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6521,95 +6857,95 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						48438, -- [2]
-						296, -- [3]
-						1608090894.868, -- [4]
-						13225, -- [5]
-						"Imber", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1544, -- [3]
+						1608695343.913, -- [4]
+						6964, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						326456, -- [2]
-						5005, -- [3]
-						1608090895.217, -- [4]
-						8220, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608695343.934, -- [4]
+						6964, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [20]
 					{
-						false, -- [1]
-						81751, -- [2]
-						135, -- [3]
-						1608090895.286, -- [4]
-						8355, -- [5]
-						"Nostariel", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1801, -- [3]
+						1608695344.916, -- [4]
+						5163, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						true, -- [1]
-						1, -- [2]
-						1849, -- [3]
-						1608090895.365, -- [4]
-						8355, -- [5]
-						"Bleakwing Assassin", -- [6]
+						334909, -- [2]
+						1801, -- [3]
+						1608695345.919, -- [4]
+						3311, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						48438, -- [2]
-						280, -- [3]
-						1608090895.772, -- [4]
-						6786, -- [5]
-						"Imber", -- [6]
+						325983, -- [2]
+						792, -- [3]
+						1608695346.334, -- [4]
+						4103, -- [5]
+						"Adante", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						143924, -- [2]
-						29, -- [3]
-						1608090895.805, -- [4]
-						6815, -- [5]
-						"Khaless", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1801, -- [3]
+						1608695346.909, -- [4]
+						2302, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						25914, -- [2]
-						3921, -- [3]
-						1608090895.837, -- [4]
-						10736, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						225311, -- [2]
+						2225, -- [3]
+						1608695347.337, -- [4]
+						4527, -- [5]
+						"Adante", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
 						325983, -- [2]
-						959, -- [3]
-						1608090896.16, -- [4]
-						11695, -- [5]
+						1487, -- [3]
+						1608695347.777, -- [4]
+						6014, -- [5]
 						"Ishata-Zul'jin", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6618,185 +6954,185 @@ DeathGraphsDBCurrent = {
 					}, -- [26]
 					{
 						true, -- [1]
-						326456, -- [2]
-						5005, -- [3]
-						1608090896.207, -- [4]
-						6690, -- [5]
-						"Shade of Kael'thas", -- [6]
+						334909, -- [2]
+						1801, -- [3]
+						1608695347.913, -- [4]
+						4213, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						48438, -- [2]
-						646, -- [3]
-						1608090896.671, -- [4]
-						7336, -- [5]
-						"Imber", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1801, -- [3]
+						1608695348.934, -- [4]
+						2412, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						true, -- [1]
-						1, -- [2]
-						4949, -- [3]
-						1608090896.774, -- [4]
-						7336, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						142, -- [3]
+						1608695349.728, -- [4]
+						2840, -- [5]
+						"Ishata-Zul'jin", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						81751, -- [2]
-						107, -- [3]
-						1608090896.956, -- [4]
-						2494, -- [5]
-						"Nostariel", -- [6]
+						183811, -- [2]
+						136, -- [3]
+						1608695349.728, -- [4]
+						2976, -- [5]
+						"Ishata-Zul'jin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1608090897.009, -- [4]
-						2510, -- [5]
-						"Khaless", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1801, -- [3]
+						1608695349.914, -- [4]
+						1175, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						326456, -- [2]
-						4004, -- [3]
-						1608090897.256, -- [4]
+						334909, -- [2]
+						1801, -- [3]
+						1608695350.942, -- [4]
 						1, -- [5]
-						"Shade of Kael'thas", -- [6]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
-						1494, -- [10]
+						626, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						12975, -- [2]
-						1, -- [3]
-						1608090773.136, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Khaless", -- [6]
+						"Fafafoey", -- [6]
 					}, -- [33]
 				},
-			}, -- [9]
+				["class"] = "ROGUE",
+				["timestring"] = "4m 9s",
+				["time"] = 1608695350.97,
+			}, -- [7]
 			{
-				["maxhealth"] = 38720,
-				["timeofdeath"] = 454.1730000000098,
-				["name"] = "Traximandew",
-				["time"] = 1608090899.951,
-				["class"] = "PALADIN",
-				["timestring"] = "7m 34s",
+				["maxhealth"] = 33862,
+				["timeofdeath"] = 252.5819999999367,
+				["name"] = "Las",
 				["events"] = {
 					{
 						true, -- [1]
-						325442, -- [2]
-						5372, -- [3]
-						1608090892.927, -- [4]
-						32757, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						1069, -- [7]
-						1, -- [8]
+						334909, -- [2]
+						1501, -- [3]
+						1608695334.941, -- [4]
+						10805, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						85673, -- [2]
-						10393, -- [3]
-						1608090893.323, -- [4]
-						40172, -- [5]
-						"Traximandew", -- [6]
+						145109, -- [2]
+						1046, -- [3]
+						1608695334.989, -- [4]
+						11851, -- [5]
+						"Las", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						53652, -- [2]
-						1473, -- [3]
-						1608090893.627, -- [4]
-						40660, -- [5]
-						"Stratagem", -- [6]
+						114942, -- [2]
+						689, -- [3]
+						1608695335.851, -- [4]
+						12540, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [3]
 					{
-						false, -- [1]
-						325983, -- [2]
-						750, -- [3]
-						1608090893.93, -- [4]
-						40660, -- [5]
-						"Stratagem", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1500, -- [3]
+						1608695335.947, -- [4]
+						11040, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						338788, -- [2]
-						1870, -- [3]
-						1608090893.945, -- [4]
-						40660, -- [5]
-						"Traximandew", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1500, -- [3]
+						1608695336.909, -- [4]
+						9540, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
-						true, -- [1]
-						325442, -- [2]
-						5372, -- [3]
-						1608090893.945, -- [4]
-						37158, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						1870, -- [7]
-						1, -- [8]
-						false, -- [9]
+						false, -- [1]
+						114942, -- [2]
+						725, -- [3]
+						1608695337.675, -- [4]
+						10265, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						false, -- [1]
-						53652, -- [2]
-						187, -- [3]
-						1608090893.945, -- [4]
-						37345, -- [5]
-						"Stratagem", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1500, -- [3]
+						1608695337.917, -- [4]
+						8765, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						53652, -- [2]
-						180, -- [3]
-						1608090893.963, -- [4]
-						37525, -- [5]
-						"Stratagem", -- [6]
+						157503, -- [2]
+						1377, -- [3]
+						1608695338.484, -- [4]
+						10142, -- [5]
+						"Dunkie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6804,215 +7140,215 @@ DeathGraphsDBCurrent = {
 					}, -- [8]
 					{
 						false, -- [1]
-						53652, -- [2]
-						165, -- [3]
-						1608090893.963, -- [4]
-						37690, -- [5]
-						"Stratagem", -- [6]
+						114942, -- [2]
+						410, -- [3]
+						1608695338.74, -- [4]
+						10552, -- [5]
+						"Healing Tide Totem <Dunkie>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						false, -- [1]
-						53652, -- [2]
-						188, -- [3]
-						1608090893.963, -- [4]
-						37878, -- [5]
-						"Stratagem", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1500, -- [3]
+						1608695338.923, -- [4]
+						9052, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [10]
 					{
-						true, -- [1]
-						1, -- [2]
-						5431, -- [3]
-						1608090894.417, -- [4]
-						37878, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						false, -- [1]
+						8004, -- [2]
+						10338, -- [3]
+						1608695339.673, -- [4]
+						19390, -- [5]
+						"Dunkie", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						true, -- [1]
-						325442, -- [2]
-						5372, -- [3]
-						1608090894.944, -- [4]
-						27075, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						334909, -- [2]
+						1500, -- [3]
+						1608695339.928, -- [4]
+						19828, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						true, -- [1]
-						325506, -- [2]
-						2514, -- [3]
-						1608090895.192, -- [4]
-						24561, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						false, -- [1]
+						145109, -- [2]
+						1151, -- [3]
+						1608695339.994, -- [4]
+						20979, -- [5]
+						"Las", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
-						false, -- [1]
-						81751, -- [2]
-						135, -- [3]
-						1608090895.286, -- [4]
-						24696, -- [5]
-						"Nostariel", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1501, -- [3]
+						1608695340.925, -- [4]
+						19684, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						false, -- [1]
-						329127, -- [2]
-						547, -- [3]
-						1608090895.592, -- [4]
-						25243, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1500, -- [3]
+						1608695341.923, -- [4]
+						18184, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						true, -- [1]
-						325442, -- [2]
-						5372, -- [3]
-						1608090895.93, -- [4]
-						19871, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						334909, -- [2]
+						1500, -- [3]
+						1608695342.909, -- [4]
+						16684, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						false, -- [1]
-						325983, -- [2]
-						934, -- [3]
-						1608090896.16, -- [4]
-						20805, -- [5]
-						"Ishata-Zul'jin", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1500, -- [3]
+						1608695343.913, -- [4]
+						15184, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						true, -- [1]
-						325442, -- [2]
-						5372, -- [3]
-						1608090896.972, -- [4]
-						15433, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608695343.934, -- [4]
+						15184, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						183811, -- [2]
-						236, -- [3]
-						1608090897.07, -- [4]
-						15669, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1750, -- [3]
+						1608695344.916, -- [4]
+						13434, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						325442, -- [2]
-						7602, -- [3]
-						1608090897.939, -- [4]
-						8067, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						false, -- [1]
+						145109, -- [2]
+						1163, -- [3]
+						1608695344.994, -- [4]
+						14597, -- [5]
+						"Las", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
-						false, -- [1]
-						774, -- [2]
-						499, -- [3]
-						1608090898.164, -- [4]
-						8566, -- [5]
-						"Imber", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1750, -- [3]
+						1608695345.919, -- [4]
+						12847, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						false, -- [1]
-						183811, -- [2]
-						116, -- [3]
-						1608090898.422, -- [4]
-						8682, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1751, -- [3]
+						1608695346.934, -- [4]
+						11096, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						329127, -- [2]
-						547, -- [3]
-						1608090898.663, -- [4]
-						9229, -- [5]
-						"Traximandew", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						1751, -- [3]
+						1608695347.934, -- [4]
+						9345, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						337824, -- [2]
-						1069, -- [3]
-						1608090898.943, -- [4]
-						9229, -- [5]
-						"Stratagem", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1751, -- [3]
+						1608695348.934, -- [4]
+						7684, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						true, -- [1]
-						325442, -- [2]
-						7602, -- [3]
-						1608090898.943, -- [4]
-						2696, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						1069, -- [7]
-						1, -- [8]
+						334909, -- [2]
+						1751, -- [3]
+						1608695349.937, -- [4]
+						5234, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						85673, -- [2]
-						17627, -- [3]
-						1608090899.294, -- [4]
-						20323, -- [5]
-						"Traximandew", -- [6]
+						145109, -- [2]
+						1067, -- [3]
+						1608695350.001, -- [4]
+						6301, -- [5]
+						"Las", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -7020,170 +7356,967 @@ DeathGraphsDBCurrent = {
 					}, -- [26]
 					{
 						false, -- [1]
-						338788, -- [2]
-						3172, -- [3]
-						1608090899.34, -- [4]
-						20323, -- [5]
-						"Traximandew", -- [6]
-						true, -- [7]
+						183811, -- [2]
+						125, -- [3]
+						1608695350.505, -- [4]
+						6426, -- [5]
+						"Ishata-Zul'jin", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						true, -- [1]
-						325440, -- [2]
-						6515, -- [3]
-						1608090899.34, -- [4]
-						16980, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						3172, -- [7]
-						1, -- [8]
+						334909, -- [2]
+						1751, -- [3]
+						1608695350.918, -- [4]
+						4675, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1750, -- [3]
+						1608695351.927, -- [4]
+						2925, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1751, -- [3]
+						1608695352.931, -- [4]
+						1174, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						334909, -- [2]
+						8, -- [3]
+						1608695353.921, -- [4]
+						1174, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2000, -- [3]
+						1608695353.946, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						826, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1608695263.983, -- [4]
+						0, -- [5]
+						"Las", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "4m 12s",
+				["time"] = 1608695353.968,
+			}, -- [8]
+			{
+				["maxhealth"] = 28906,
+				["timeofdeath"] = 279.3429999999935,
+				["name"] = "Lilkiwi",
+				["events"] = {
+					{
+						false, -- [1]
+						183811, -- [2]
+						140, -- [3]
+						1608695351.244, -- [4]
+						8126, -- [5]
+						"Ishata-Zul'jin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1394, -- [3]
+						1608695351.927, -- [4]
+						6732, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						90361, -- [2]
+						1311, -- [3]
+						1608695352.241, -- [4]
+						8043, -- [5]
+						"Butters <Pikin-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						186263, -- [2]
+						4834, -- [3]
+						1608695352.728, -- [4]
+						12877, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						1, -- [1]
+						45438, -- [2]
+						1, -- [3]
+						1608695352.794, -- [4]
+						12877, -- [5]
+						"Lilkiwi", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						94472, -- [2]
+						241, -- [3]
+						1608695353.843, -- [4]
+						13118, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						90361, -- [2]
+						865, -- [3]
+						1608695354.258, -- [4]
+						13983, -- [5]
+						"Butters <Pikin-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						94472, -- [2]
+						192, -- [3]
+						1608695355.487, -- [4]
+						14175, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						90361, -- [2]
+						865, -- [3]
+						1608695356.242, -- [4]
+						15040, -- [5]
+						"Butters <Pikin-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						81751, -- [2]
+						97, -- [3]
+						1608695357.136, -- [4]
+						15137, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						90361, -- [2]
+						865, -- [3]
+						1608695358.241, -- [4]
+						16002, -- [5]
+						"Butters <Pikin-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						81751, -- [2]
+						75, -- [3]
+						1608695358.455, -- [4]
+						16236, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						94472, -- [2]
+						982, -- [3]
+						1608695359.184, -- [4]
+						17218, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						1064, -- [2]
+						2473, -- [3]
+						1608695359.27, -- [4]
+						19691, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						90361, -- [2]
+						865, -- [3]
+						1608695360.243, -- [4]
+						22525, -- [5]
+						"Butters <Pikin-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						90361, -- [2]
+						865, -- [3]
+						1608695362.254, -- [4]
+						23390, -- [5]
+						"Butters <Pikin-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						4, -- [1]
+						330848, -- [2]
+						1, -- [3]
+						1608695373.701, -- [4]
+						21263, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						330848, -- [2]
+						642, -- [3]
+						1608695373.701, -- [4]
+						20621, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						330848, -- [2]
+						2, -- [3]
+						1608695374.697, -- [4]
+						20621, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						330848, -- [2]
+						1284, -- [3]
+						1608695374.697, -- [4]
+						19337, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						4, -- [1]
+						330848, -- [2]
+						3, -- [3]
+						1608695375.706, -- [4]
+						19337, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						330848, -- [2]
+						1926, -- [3]
+						1608695375.706, -- [4]
+						17411, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						4, -- [1]
+						330848, -- [2]
+						4, -- [3]
+						1608695376.698, -- [4]
+						17411, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						330848, -- [2]
+						2568, -- [3]
+						1608695376.715, -- [4]
+						14843, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						330848, -- [2]
+						5, -- [3]
+						1608695377.689, -- [4]
+						14843, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						330848, -- [2]
+						3210, -- [3]
+						1608695377.726, -- [4]
+						11633, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						330848, -- [2]
+						6, -- [3]
+						1608695378.7, -- [4]
+						11633, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						330848, -- [2]
+						3852, -- [3]
+						1608695378.717, -- [4]
+						7781, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
 						4, -- [1]
-						325442, -- [2]
-						8, -- [3]
-						1608090899.34, -- [4]
-						16980, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						330848, -- [2]
+						7, -- [3]
+						1608695379.701, -- [4]
+						7781, -- [5]
+						"[*] Wrong Moves", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [29]
 					{
+						true, -- [1]
+						330848, -- [2]
+						4494, -- [3]
+						1608695379.701, -- [4]
+						3287, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						330848, -- [2]
+						8, -- [3]
+						1608695380.694, -- [4]
+						3287, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						330848, -- [2]
+						5136, -- [3]
+						1608695380.729, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						1849, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						45438, -- [2]
+						1, -- [3]
+						1608695352.794, -- [4]
+						0, -- [5]
+						"Lilkiwi", -- [6]
+					}, -- [33]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "4m 39s",
+				["time"] = 1608695380.729,
+			}, -- [9]
+			{
+				["maxhealth"] = 28280,
+				["timeofdeath"] = 281.3360000000102,
+				["name"] = "Nostariel",
+				["events"] = {
+					{
+						true, -- [1]
+						334909, -- [2]
+						2036, -- [3]
+						1608695358.046, -- [4]
+						7541, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
 						false, -- [1]
-						183811, -- [2]
-						118, -- [3]
-						1608090899.388, -- [4]
-						17098, -- [5]
-						"Traximandew", -- [6]
+						81751, -- [2]
+						76, -- [3]
+						1608695358.431, -- [4]
+						7617, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						149, -- [3]
+						1608695359.127, -- [4]
+						7766, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						94472, -- [2]
+						982, -- [3]
+						1608695359.165, -- [4]
+						8748, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						1064, -- [2]
+						3913, -- [3]
+						1608695359.27, -- [4]
+						12661, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						150, -- [3]
+						1608695360.317, -- [4]
+						12811, -- [5]
+						"Nostariel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						25914, -- [2]
+						3151, -- [3]
+						1608695360.49, -- [4]
+						15962, -- [5]
+						"Adante", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						19750, -- [2]
+						5374, -- [3]
+						1608695365.846, -- [4]
+						21336, -- [5]
+						"Adante", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77472, -- [2]
+						5260, -- [3]
+						1608695367.481, -- [4]
+						26596, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						77472, -- [2]
+						10088, -- [3]
+						1608695369.312, -- [4]
+						32670, -- [5]
+						"Dunkie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						325983, -- [2]
+						603, -- [3]
+						1608695370.869, -- [4]
+						32670, -- [5]
+						"Adante", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [30]
+					}, -- [11]
 					{
-						true, -- [1]
-						1, -- [2]
-						8476, -- [3]
-						1608090899.546, -- [4]
-						17098, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						4, -- [1]
+						330848, -- [2]
+						1, -- [3]
+						1608695373.701, -- [4]
+						32670, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						337824, -- [2]
+						630, -- [3]
+						1608695373.701, -- [4]
+						32670, -- [5]
+						"Adante", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						330848, -- [2]
+						656, -- [3]
+						1608695373.701, -- [4]
+						32644, -- [5]
+						"[*] Wrong Moves", -- [6]
+						630, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						4, -- [1]
+						330848, -- [2]
+						2, -- [3]
+						1608695374.697, -- [4]
+						32644, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						330848, -- [2]
+						1312, -- [3]
+						1608695374.697, -- [4]
+						31332, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						4, -- [1]
+						330848, -- [2]
+						3, -- [3]
+						1608695375.706, -- [4]
+						31332, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						330848, -- [2]
+						1969, -- [3]
+						1608695375.706, -- [4]
+						29363, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						330848, -- [2]
+						4, -- [3]
+						1608695376.698, -- [4]
+						29363, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						330848, -- [2]
+						2625, -- [3]
+						1608695376.715, -- [4]
+						26738, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						4, -- [1]
+						330848, -- [2]
+						5, -- [3]
+						1608695377.689, -- [4]
+						26738, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						330848, -- [2]
+						3281, -- [3]
+						1608695377.708, -- [4]
+						23457, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						4, -- [1]
+						330848, -- [2]
+						6, -- [3]
+						1608695378.7, -- [4]
+						23457, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						330848, -- [2]
+						3937, -- [3]
+						1608695378.717, -- [4]
+						19520, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						330848, -- [2]
+						7, -- [3]
+						1608695379.701, -- [4]
+						17745, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						330848, -- [2]
+						4593, -- [3]
+						1608695379.701, -- [4]
+						13152, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						330848, -- [2]
+						8, -- [3]
+						1608695380.694, -- [4]
+						13152, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						330848, -- [2]
+						5250, -- [3]
+						1608695380.694, -- [4]
+						7902, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						4, -- [1]
+						330848, -- [2]
+						9, -- [3]
+						1608695381.696, -- [4]
+						7902, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						330848, -- [2]
+						5905, -- [3]
+						1608695381.696, -- [4]
+						1997, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						330848, -- [2]
+						10, -- [3]
+						1608695382.702, -- [4]
+						1997, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						325442, -- [2]
-						8688, -- [3]
-						1608090899.951, -- [4]
+						330848, -- [2]
+						6562, -- [3]
+						1608695382.702, -- [4]
 						1, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						"[*] Wrong Moves", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
-						66, -- [10]
+						4565, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						86659, -- [2]
-						1, -- [3]
-						1608090876.753, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Traximandew", -- [6]
+						"Nostariel", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "4m 41s",
+				["time"] = 1608695382.722,
 			}, -- [10]
 		},
-		["bossname"] = "Sun King's Salvation",
+		["bossname"] = "The Council of Blood",
 		["bossicon"] = {
 			0.5, -- [1]
 			0.75, -- [2]
-			0, -- [3]
-			0.25, -- [4]
+			0.25, -- [3]
+			0.5, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
 		},
-		["date"] = 306335.503,
-		["timeelapsed"] = 471.0050000000047,
+		["date"] = 910859.441,
+		["timeelapsed"] = 312.0039999999572,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
 	["242214"] = {
 		["deaths"] = {
-			[201] = {
-				1607912675, -- [1]
-			},
-			[143] = {
+			[416] = {
 				1608090917, -- [1]
 			},
-			[286] = {
+			[242] = {
 				1607912675, -- [1]
 			},
-			[395] = {
-				1607914342, -- [1]
-			},
-			[190] = {
-				1608089453, -- [1]
-			},
-			[163] = {
-				1607913645, -- [1]
-			},
-			[167] = {
-				1608089453, -- [1]
-			},
-			[241] = {
-				1607912675, -- [1]
-			},
-			[198] = {
+			[180] = {
 				1608089967, -- [1]
-				1608089967, -- [2]
-			},
-			[179] = {
-				1608089453, -- [1]
 				1608090309, -- [2]
+				1608090917, -- [3]
+			},
+			[181] = {
+				1608089967, -- [1]
 			},
 			[183] = {
 				1608090309, -- [1]
 			},
+			[184] = {
+				1607914342, -- [1]
+			},
 			[366] = {
 				1608091463, -- [1]
 			},
-			[191] = {
-				1608089453, -- [1]
-				1608089453, -- [2]
+			[431] = {
+				1607914342, -- [1]
+			},
+			[218] = {
+				1608694552, -- [1]
+			},
+			[188] = {
+				1607913645, -- [1]
 			},
 			[157] = {
 				1608090309, -- [1]
 				1608090309, -- [2]
 			},
-			[181] = {
+			[189] = {
 				1608089967, -- [1]
 			},
-			[141] = {
-				1608090917, -- [1]
-				1608091463, -- [2]
+			[190] = {
+				1608089453, -- [1]
 			},
-			[207] = {
-				1607914342, -- [1]
+			[222] = {
+				1608694552, -- [1]
 			},
-			[242] = {
-				1607912675, -- [1]
-			},
-			[184] = {
-				1607914342, -- [1]
-			},
-			[188] = {
-				1607913645, -- [1]
+			[191] = {
+				1608089453, -- [1]
+				1608089453, -- [2]
 			},
 			[192] = {
 				1607913645, -- [1]
 				1607913645, -- [2]
+			},
+			[193] = {
+				1608694552, -- [1]
+			},
+			[163] = {
+				1607913645, -- [1]
 			},
 			[264] = {
 				1607912675, -- [1]
@@ -7191,25 +8324,47 @@ DeathGraphsDBGraph = {
 			[392] = {
 				1607913645, -- [1]
 			},
-			[431] = {
+			[167] = {
+				1608089453, -- [1]
+			},
+			[395] = {
 				1607914342, -- [1]
+			},
+			[201] = {
+				1607912675, -- [1]
+			},
+			[118] = {
+				1608091463, -- [1]
+			},
+			[141] = {
+				1608090917, -- [1]
+				1608091463, -- [2]
 			},
 			[142] = {
 				1608090917, -- [1]
 			},
-			[416] = {
+			[143] = {
 				1608090917, -- [1]
 			},
-			[180] = {
+			[175] = {
+				1608694552, -- [1]
+			},
+			[207] = {
+				1607914342, -- [1]
+			},
+			[286] = {
+				1607912675, -- [1]
+			},
+			[198] = {
 				1608089967, -- [1]
+				1608089967, -- [2]
+			},
+			[241] = {
+				1607912675, -- [1]
+			},
+			[179] = {
+				1608089453, -- [1]
 				1608090309, -- [2]
-				1608090917, -- [3]
-			},
-			[189] = {
-				1608089967, -- [1]
-			},
-			[118] = {
-				1608091463, -- [1]
 			},
 		},
 		["spells"] = {
@@ -7224,6 +8379,8 @@ DeathGraphsDBGraph = {
 			},
 			[242] = {
 				1607485378, -- [1]
+				1608692733, -- [2]
+				1608692733, -- [3]
 			},
 			[148] = {
 				1607483607, -- [1]
@@ -7236,6 +8393,12 @@ DeathGraphsDBGraph = {
 			[54] = {
 				1607482427, -- [1]
 			},
+			[123] = {
+				1608692733, -- [1]
+			},
+			[150] = {
+				1608692733, -- [1]
+			},
 			[151] = {
 				1607483607, -- [1]
 			},
@@ -7246,8 +8409,26 @@ DeathGraphsDBGraph = {
 				1607481682, -- [1]
 				1607483990, -- [2]
 			},
+			[214] = {
+				1608692733, -- [1]
+			},
 			[154] = {
 				1607482764, -- [1]
+			},
+			[216] = {
+				1608692171, -- [1]
+				1608692171, -- [2]
+				1608692171, -- [3]
+				1608692171, -- [4]
+			},
+			[149] = {
+				1607484977, -- [1]
+			},
+			[121] = {
+				1608692171, -- [1]
+			},
+			[61] = {
+				1607483990, -- [1]
 			},
 			[251] = {
 				1607485378, -- [1]
@@ -7255,57 +8436,60 @@ DeathGraphsDBGraph = {
 			[157] = {
 				1607483607, -- [1]
 			},
-			[153] = {
-				1607483607, -- [1]
+			[111] = {
+				1607481196, -- [1]
+				1607482427, -- [2]
 			},
 			[158] = {
 				1607482764, -- [1]
 			},
-			[149] = {
-				1607484977, -- [1]
+			[315] = {
+				1607485944, -- [1]
 			},
 			[112] = {
 				1607482099, -- [1]
 			},
-			[315] = {
-				1607485944, -- [1]
+			[128] = {
+				1607483990, -- [1]
 			},
 			[160] = {
 				1607483607, -- [1]
+			},
+			[350] = {
+				1607485944, -- [1]
+			},
+			[57] = {
+				1607482099, -- [1]
+			},
+			[98] = {
+				1607481196, -- [1]
+			},
+			[162] = {
+				1607482764, -- [1]
 			},
 			[258] = {
 				1608088102, -- [1]
 				1608088102, -- [2]
 			},
-			[57] = {
-				1607482099, -- [1]
+			[281] = {
+				1607484583, -- [1]
 			},
-			[61] = {
-				1607483990, -- [1]
-			},
-			[162] = {
-				1607482764, -- [1]
-			},
-			[98] = {
-				1607481196, -- [1]
-			},
-			[350] = {
-				1607485944, -- [1]
-			},
-			[115] = {
-				1607482099, -- [1]
+			[165] = {
+				1608693564, -- [1]
+				1608693564, -- [2]
 			},
 			[227] = {
 				1607485378, -- [1]
 			},
-			[99] = {
-				1607482427, -- [1]
+			[133] = {
+				1607481196, -- [1]
+				1607481196, -- [2]
 			},
 			[58] = {
 				1607482427, -- [1]
 			},
-			[147] = {
-				1607484977, -- [1]
+			[60] = {
+				1607483064, -- [1]
 			},
 			[56] = {
 				1607483990, -- [1]
@@ -7315,6 +8499,7 @@ DeathGraphsDBGraph = {
 			},
 			[230] = {
 				1607485378, -- [1]
+				1608693564, -- [2]
 			},
 			[136] = {
 				1607481682, -- [1]
@@ -7322,14 +8507,14 @@ DeathGraphsDBGraph = {
 				1607483064, -- [3]
 				1607483064, -- [4]
 			},
-			[137] = {
-				1607481682, -- [1]
-			},
 			[51] = {
 				1607482099, -- [1]
 			},
-			[281] = {
-				1607484583, -- [1]
+			[137] = {
+				1607481682, -- [1]
+			},
+			[99] = {
+				1607482427, -- [1]
 			},
 			[138] = {
 				1607483064, -- [1]
@@ -7338,8 +8523,8 @@ DeathGraphsDBGraph = {
 				1607483990, -- [1]
 				1608088102, -- [2]
 			},
-			[60] = {
-				1607483064, -- [1]
+			[147] = {
+				1607484977, -- [1]
 			},
 			[292] = {
 				1607484583, -- [1]
@@ -7356,8 +8541,8 @@ DeathGraphsDBGraph = {
 			[173] = {
 				1607482764, -- [1]
 			},
-			[290] = {
-				1607484583, -- [1]
+			[115] = {
+				1607482099, -- [1]
 			},
 			[237] = {
 				1607485378, -- [1]
@@ -7365,9 +8550,8 @@ DeathGraphsDBGraph = {
 			[104] = {
 				1607482427, -- [1]
 			},
-			[111] = {
-				1607481196, -- [1]
-				1607482427, -- [2]
+			[290] = {
+				1607484583, -- [1]
 			},
 			[347] = {
 				1607485944, -- [1]
@@ -7375,9 +8559,9 @@ DeathGraphsDBGraph = {
 			[176] = {
 				1608088102, -- [1]
 			},
-			[133] = {
-				1607481196, -- [1]
-				1607481196, -- [2]
+			[208] = {
+				1608693564, -- [1]
+				1608693564, -- [2]
 			},
 			[287] = {
 				1608088102, -- [1]
@@ -7385,11 +8569,11 @@ DeathGraphsDBGraph = {
 			[146] = {
 				1607484977, -- [1]
 			},
+			[153] = {
+				1607483607, -- [1]
+			},
 			[109] = {
 				1607481682, -- [1]
-			},
-			[128] = {
-				1607483990, -- [1]
 			},
 		},
 		["spells"] = {
@@ -7399,15 +8583,94 @@ DeathGraphsDBGraph = {
 	},
 	["242614"] = {
 		["deaths"] = {
-			[106] = {
-				1607915617, -- [1]
+			[245] = {
+				1608259502, -- [1]
 			},
-			[242] = {
+			[247] = {
 				1607917384, -- [1]
 			},
-			[107] = {
-				1607915617, -- [1]
-				1607915617, -- [2]
+			[255] = {
+				1607918157, -- [1]
+			},
+			[162] = {
+				1607916635, -- [1]
+				1607917384, -- [2]
+				1607918541, -- [3]
+				1608259063, -- [4]
+				1608262846, -- [5]
+				1608262846, -- [6]
+			},
+			[164] = {
+				1608262846, -- [1]
+			},
+			[168] = {
+				1607917708, -- [1]
+				1608262846, -- [2]
+				1608262846, -- [3]
+			},
+			[170] = {
+				1608261692, -- [1]
+				1608263752, -- [2]
+			},
+			[176] = {
+				1607916991, -- [1]
+				1607917708, -- [2]
+			},
+			[178] = {
+				1607916635, -- [1]
+			},
+			[192] = {
+				1607917384, -- [1]
+			},
+			[52] = {
+				1607915089, -- [1]
+				1608259063, -- [2]
+			},
+			[53] = {
+				1608258780, -- [1]
+			},
+			[212] = {
+				1608695988, -- [1]
+			},
+			[214] = {
+				1608262482, -- [1]
+				1608263207, -- [2]
+			},
+			[216] = {
+				1608260827, -- [1]
+			},
+			[218] = {
+				1607918541, -- [1]
+				1608260827, -- [2]
+				1608260827, -- [3]
+				1608262482, -- [4]
+			},
+			[220] = {
+				1608260189, -- [1]
+				1608263752, -- [2]
+			},
+			[224] = {
+				1608260827, -- [1]
+			},
+			[226] = {
+				1608260189, -- [1]
+			},
+			[228] = {
+				1607916635, -- [1]
+				1608695413, -- [2]
+			},
+			[230] = {
+				1607916635, -- [1]
+				1607918541, -- [2]
+			},
+			[232] = {
+				1607916635, -- [1]
+			},
+			[339] = {
+				1608264318, -- [1]
+			},
+			[61] = {
+				1608258780, -- [1]
 			},
 			[244] = {
 				1607918157, -- [1]
@@ -7415,106 +8678,170 @@ DeathGraphsDBGraph = {
 			[246] = {
 				1607917384, -- [1]
 			},
-			[247] = {
-				1607917384, -- [1]
-			},
-			[218] = {
-				1607918541, -- [1]
-			},
 			[250] = {
 				1607918157, -- [1]
 			},
-			[79] = {
-				1607915089, -- [1]
+			[254] = {
+				1608259502, -- [1]
 			},
-			[111] = {
-				1607915617, -- [1]
-				1607917708, -- [2]
+			[65] = {
+				1608258780, -- [1]
 			},
-			[81] = {
-				1607916249, -- [1]
-			},
-			[192] = {
-				1607917384, -- [1]
-			},
-			[161] = {
-				1607916991, -- [1]
-			},
-			[162] = {
-				1607916635, -- [1]
-				1607917384, -- [2]
-				1607918541, -- [3]
-			},
-			[29] = {
-				1607916249, -- [1]
-				1607916249, -- [2]
-			},
-			[83] = {
-				1607918157, -- [1]
-			},
-			[165] = {
-				1607916991, -- [1]
+			[66] = {
+				1608258780, -- [1]
 			},
 			[264] = {
 				1607918157, -- [1]
 			},
-			[84] = {
+			[74] = {
+				1607916249, -- [1]
+			},
+			[79] = {
 				1607915089, -- [1]
-				1607916249, -- [2]
 			},
-			[230] = {
-				1607916635, -- [1]
-				1607918541, -- [2]
+			[161] = {
+				1607916991, -- [1]
+				1608259063, -- [2]
 			},
-			[168] = {
+			[163] = {
 				1607917708, -- [1]
+				1608260189, -- [2]
+				1608261692, -- [3]
+				1608261692, -- [4]
+				1608263207, -- [5]
+				1608263752, -- [6]
+				1608263752, -- [7]
 			},
-			[232] = {
-				1607916635, -- [1]
+			[165] = {
+				1607916991, -- [1]
+				1608263207, -- [2]
 			},
-			[86] = {
+			[167] = {
+				1608259063, -- [1]
+				1608261692, -- [2]
+				1608263207, -- [3]
+			},
+			[85] = {
 				1607915089, -- [1]
+				1608261932, -- [2]
+			},
+			[171] = {
+				1608259502, -- [1]
 			},
 			[87] = {
 				1607915617, -- [1]
 			},
-			[52] = {
-				1607915089, -- [1]
-			},
-			[205] = {
-				1607918541, -- [1]
-			},
-			[85] = {
-				1607915089, -- [1]
-			},
-			[104] = {
-				1607917708, -- [1]
-			},
-			[255] = {
-				1607918157, -- [1]
-			},
-			[239] = {
-				1607918541, -- [1]
-			},
-			[176] = {
-				1607916991, -- [1]
-				1607917708, -- [2]
-			},
-			[163] = {
-				1607917708, -- [1]
+			[348] = {
+				1608264318, -- [1]
 			},
 			[177] = {
 				1607916991, -- [1]
 				1607916991, -- [2]
 			},
-			[74] = {
+			[206] = {
+				1608695988, -- [1]
+			},
+			[364] = {
+				1608264318, -- [1]
+				1608264318, -- [2]
+			},
+			[86] = {
+				1607915089, -- [1]
+			},
+			[187] = {
+				1608262482, -- [1]
+			},
+			[95] = {
+				1608261932, -- [1]
+			},
+			[30] = {
+				1608695413, -- [1]
+			},
+			[242] = {
+				1607917384, -- [1]
+			},
+			[57] = {
+				1608258780, -- [1]
+			},
+			[169] = {
+				1608259063, -- [1]
+			},
+			[229] = {
+				1608695413, -- [1]
+			},
+			[207] = {
+				1608695988, -- [1]
+			},
+			[225] = {
+				1608695413, -- [1]
+			},
+			[205] = {
+				1607918541, -- [1]
+			},
+			[104] = {
+				1607917708, -- [1]
+			},
+			[27] = {
+				1608695988, -- [1]
+			},
+			[106] = {
+				1607915617, -- [1]
+			},
+			[107] = {
+				1607915617, -- [1]
+				1607915617, -- [2]
+			},
+			[221] = {
+				1608260189, -- [1]
+				1608262482, -- [2]
+				1608262482, -- [3]
+				1608263207, -- [4]
+			},
+			[81] = {
 				1607916249, -- [1]
+				1608261932, -- [2]
+				1608261932, -- [3]
 			},
-			[178] = {
-				1607916635, -- [1]
+			[234] = {
+				1608259502, -- [1]
+				1608259502, -- [2]
 			},
-			[228] = {
-				1607916635, -- [1]
+			[111] = {
+				1607915617, -- [1]
+				1607917708, -- [2]
+			},
+			[112] = {
+				1608260827, -- [1]
+			},
+			[113] = {
+				1608261692, -- [1]
+			},
+			[227] = {
+				1608263752, -- [1]
+				1608695413, -- [2]
+			},
+			[29] = {
+				1607916249, -- [1]
+				1607916249, -- [2]
+			},
+			[333] = {
+				1608264318, -- [1]
+			},
+			[84] = {
+				1607915089, -- [1]
+				1607916249, -- [2]
+			},
+			[128] = {
+				1608261932, -- [1]
+			},
+			[237] = {
+				1608260189, -- [1]
+			},
+			[239] = {
+				1607918541, -- [1]
+			},
+			[83] = {
+				1607918157, -- [1]
 			},
 		},
 		["spells"] = {
@@ -7527,9 +8854,15 @@ DeathGraphsDBGraph = {
 			[73] = {
 				1607479815, -- [1]
 			},
+			[153] = {
+				1608691022, -- [1]
+			},
 			[96] = {
 				1607479815, -- [1]
 				1608086579, -- [2]
+			},
+			[115] = {
+				1608691022, -- [1]
 			},
 			[89] = {
 				1608086579, -- [1]
@@ -7541,17 +8874,32 @@ DeathGraphsDBGraph = {
 			[43] = {
 				1608086579, -- [1]
 			},
-			[60] = {
-				1607479815, -- [1]
+			[149] = {
+				1608689416, -- [1]
+			},
+			[47] = {
+				1608257352, -- [1]
+			},
+			[124] = {
+				1608257352, -- [1]
+			},
+			[256] = {
+				1608691022, -- [1]
 			},
 			[117] = {
 				1607480303, -- [1]
+			},
+			[144] = {
+				1608689416, -- [1]
 			},
 			[95] = {
 				1607479815, -- [1]
 			},
 			[114] = {
 				1608086579, -- [1]
+			},
+			[60] = {
+				1607479815, -- [1]
 			},
 		},
 		["spells"] = {

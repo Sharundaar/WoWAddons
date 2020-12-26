@@ -5,6 +5,8 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Taloc",
 		["id"] = 2168,
+		["player_db"] = {
+		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 1,
@@ -16,8 +18,6 @@ DeathGraphsDBDeaths = {
 			["diff"] = 14,
 			["ej_instance_id"] = 1031,
 			["encounter"] = "Taloc",
-		},
-		["player_db"] = {
 		},
 		["diff"] = 14,
 	},
@@ -28,6 +28,8 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Taloc",
 		["id"] = 2168,
+		["player_db"] = {
+		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 1,
@@ -39,8 +41,6 @@ DeathGraphsDBEndurance = {
 			["diff"] = 14,
 			["ej_instance_id"] = 1031,
 			["encounter"] = "Taloc",
-		},
-		["player_db"] = {
 		},
 		["diff"] = 14,
 	},

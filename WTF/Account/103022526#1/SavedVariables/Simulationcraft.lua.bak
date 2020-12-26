@@ -26,14 +26,14 @@ SimulationCraftDB = {
 		["Shalazar - Ravenholdt"] = {
 		},
 		["Sharun - Ravenholdt"] = {
-			["frame"] = {
-				["ofsx"] = 172.0001068115234,
-				["ofsy"] = -104.9999313354492,
-				["point"] = "TOPLEFT",
-				["relativePoint"] = "TOPLEFT",
-			},
 			["minimap"] = {
 				["hide"] = true,
+			},
+			["frame"] = {
+				["ofsx"] = 172.0001068115234,
+				["point"] = "TOPLEFT",
+				["relativePoint"] = "TOPLEFT",
+				["ofsy"] = -104.9999313354492,
 			},
 		},
 	},
